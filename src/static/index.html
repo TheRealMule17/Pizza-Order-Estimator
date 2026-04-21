@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pizza Order Estimator — KDS</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600;700&family=DM+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+
+  <!-- ── Top bar ──────────────────────────────────────────────────────────── -->
+  <header class="topbar">
+    <div class="topbar-left">
+      <span class="brand">🍕 Pizza KDS</span>
+      <span class="sim-time" id="sim-time">0:00</span>
+    </div>
+    <div class="topbar-center">
+      <div class="rush-pill normal" id="rush-pill">Normal Traffic</div>
+      <div class="day-clock" id="day-clock" style="display:none">
+        <span class="day-clock-time" id="day-clock-time">—</span>
+        <span class="day-clock-label" id="day-clock-label"></span>
+      </div>
+    </div>
+    <div class="topbar-right">
+      <div class="controls">
+        <button class="btn btn-start"    id="btn-start"    onclick="apiPost('/api/start')">Start</button>
+        <button class="btn btn-stop"     id="btn-stop"     onclick="apiPost('/api/stop')">Stop</button>
+        <button class="btn btn-reset"    id="btn-reset"    onclick="apiPost('/api/reset')">Reset</button>
+        <button class="btn btn-rush"     id="btn-rush"     onclick="apiPost('/api/rush')">Rush</button>
+        <button class="btn btn-day"      id="btn-day"      onclick="startDay()">Run Full Day</button>
+        <button class="btn btn-day-stop" id="btn-day-stop" onclick="apiPost('/api/day-stop')" style="display:none">Stop Day</button>
+      </div>
+    </div>
+  </header>
+
+  <!-- ── Status strip ──────────────────────────────────────────────────────── -->
+  <div class="status-strip">
+    <div class="strip-item">
+      <span class="strip-label">Throughput</span>
+      <span class="strip-value mono" id="throughput">—</span>
+      <span class="strip-unit">ord/min</span>
+    </div>
+    <div class="strip-divider"></div>
+    <div class="strip-item">
+      <span class="strip-label">Make Line</span>
+      <span class="strip-value mono" id="make-line-status">—</span>
+    </div>
+    <div class="strip-divider"></div>
+    <div class="strip-item">
+      <span class="strip-label">Oven</span>
+      <span class="strip-value mono" id="oven-status">—</span>
+    </div>
+    <div class="strip-divider"></div>
+    <div class="strip-item">
+      <span class="strip-label">Queue</span>
+      <span class="strip-value mono" id="queue-depth">—</span>
+    </div>
+    <div class="strip-divider"></div>
+    <div class="strip-item drivers-strip">
+      <span class="strip-label">Drivers</span>
+      <div class="driver-badges" id="driver-badges"></div>
+    </div>
+  </div>
+
+  <!-- ── Main layout ───────────────────────────────────────────────────────── -->
+  <main class="kds-main">
+
+    <!-- Left: Incoming — queued & on make line -->
+    <section class="kds-panel panel-incoming">
+      <div class="panel-header">
+        <span class="panel-title">Incoming Orders</span>
+        <span class="panel-count" id="incoming-count">0</span>
+      </div>
+      <div class="kds-cards" id="incoming-cards">
+        <div class="empty-state">Start the simulation to see orders</div>
+      </div>
+    </section>
+
+    <!-- Center: Oven — all pizzas past make line, baking -->
+    <section class="kds-panel panel-oven">
+      <div class="panel-header">
+        <span class="panel-title">🔥 Oven</span>
+        <span class="panel-count" id="oven-count">0</span>
+      </div>
+      <div class="kds-cards" id="oven-cards">
+        <div class="empty-state">No orders in oven</div>
+      </div>
+    </section>
+
+    <!-- Right: output — carryout ready + deliveries -->
+    <div class="kds-right">
+
+      <!-- Carryout ready -->
+      <section class="kds-panel panel-carryout">
+        <div class="panel-header">
+          <span class="panel-title">🏠 Carryout Ready</span>
+          <span class="panel-count" id="carryout-count">0</span>
+        </div>
+        <div class="carryout-list" id="carryout-list">
+          <div class="empty-state">No orders ready</div>
+        </div>
+      </section>
+
+      <!-- Delivery -->
+      <section class="kds-panel panel-delivery">
+        <div class="panel-header">
+          <span class="panel-title">🛵 Delivery</span>
+          <span class="panel-count" id="delivery-count">0</span>
+        </div>
+        <div class="delivery-list" id="delivery-list">
+          <div class="empty-state">No deliveries active</div>
+        </div>
+      </section>
+
+    </div>
+
+  </main>
+
+  <!-- ── Bottom metrics strip ──────────────────────────────────────────────── -->
+  <footer class="metrics-footer">
+
+    <div class="metrics-group">
+      <div class="metrics-title">Estimates — Typical 1-pizza order</div>
+      <div class="metrics-row">
+        <div class="metric-cell">
+          <span class="metric-label">Dynamic Carryout</span>
+          <span class="metric-value mono" id="est-dyn-carryout">—</span>
+        </div>
+        <div class="metric-cell">
+          <span class="metric-label">Dynamic Delivery</span>
+          <span class="metric-value mono" id="est-dyn-delivery">—</span>
+        </div>
+        <div class="metric-cell">
+          <span class="metric-label">Naive Carryout</span>
+          <span class="metric-value mono dim" id="est-naive-carryout">—</span>
+        </div>
+        <div class="metric-cell">
+          <span class="metric-label">Naive Delivery</span>
+          <span class="metric-value mono dim" id="est-naive-delivery">—</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="metrics-divider"></div>
+
+    <div class="metrics-group">
+      <div class="metrics-title">Accuracy (completed orders)</div>
+      <div class="metrics-row">
+        <div class="metric-cell">
+          <span class="metric-label">Dynamic MAE</span>
+          <span class="metric-value mono" id="acc-dyn-mae">—</span>
+        </div>
+        <div class="metric-cell">
+          <span class="metric-label">Naive MAE</span>
+          <span class="metric-value mono dim" id="acc-naive-mae">—</span>
+        </div>
+        <div class="metric-cell">
+          <span class="metric-label">Dyn wins</span>
+          <span class="metric-value mono good" id="acc-dyn-wins">0</span>
+        </div>
+        <div class="metric-cell">
+          <span class="metric-label">Naive wins</span>
+          <span class="metric-value mono dim" id="acc-naive-wins">0</span>
+        </div>
+        <div class="metric-cell">
+          <span class="metric-label">Samples</span>
+          <span class="metric-value mono" id="acc-samples">0</span>
+        </div>
+      </div>
+    </div>
+
+  </footer>
+
+  <script src="/static/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,1658 @@
+[2026-04-20T11:02:04Z] OVEN_IN slot=49 item="Meat Lovers" order=ORD-72FE56F8
+[2026-04-20T11:02:31] OVEN_IN slot=9 item="Custom Pizza" order=ORD-72FE56F8
+[2026-04-20T11:03:11] OVEN_IN slot=46 item="Custom Pizza" order=ORD-72FE56F8
+[2026-04-20T11:10:05Z] OVEN_OUT slot=32 item="Meat Lovers" order=ORD-72FE56F8
+[2026-04-20T11:10:11] OVEN_IN slot=2 item="Meat Lovers" order=ORD-41330549
+[2026-04-20T11:10:32Z] OVEN_OUT slot=50 item="Custom Pizza" order=ORD-72FE56F8
+[2026-04-20T11:11:12Z] OVEN_OUT slot=14 item="Cust" order=ORD-72FE56F8
+[2026-04-20T11:18:11] OVEN_OUT slot=28 item="Meat Lovers" order=ORD-41330549
+[2026-04-20T11:19:48Z] OVEN_IN slot=28 item="Cust" order=ORD-A72BE2FB
+[2026-04-20T11:20:13Z] OVEN_IN slot=11 item="Cheese" order=ORD-A72BE2FB
+[2026-04-20T11:20:49] OVEN_IN slot=44 item="Custom Pizza" order=ORD-A72BE2FB
+[2026-04-20T11:21:17Z] OVEN_IN slot=38 item="Pepperoni" order=ORD-A72BE2FB
+[2026-04-20T11:21:59] OVEN_IN slot=11 item="Custom Pizza" order=ORD-A72BE2FB
+[2026-04-20T11:27:49Z] OVEN_OUT slot=23 item="Custom Pizza" order=ORD-A72BE2FB
+[2026-04-20T11:28:13] OVEN_OUT slot=29 item="Cheese" order=ORD-A72BE2FB
+[2026-04-20T11:28:50] OVEN_OUT slot=18 item="Custom Pizza" order=ORD-A72BE2FB
+[2026-04-20T11:29:11Z] OVEN_IN slot=10 item="Custom Pizza" order=ORD-4376E5C0
+[2026-04-20T11:29:17Z] OVEN_OUT slot=25 item="Pepperoni" order=ORD-A72BE2FB
+[2026-04-20T11:29:35] OVEN_IN slot=33 item="Cheese" order=ORD-4376E5C0
+[2026-04-20T11:30:00] OVEN_OUT slot=6 item="Custom Pizza" order=ORD-A72BE2FB
+[2026-04-20T11:30:15Z] OVEN_IN slot=15 item="Custom Pizza" order=ORD-4376E5C0
+[2026-04-20T11:30:58] OVEN_IN slot=4 item="Veg" order=ORD-4376E5C0
+[2026-04-20T11:31:37] OVEN_IN slot=3 item="Meat Lovers" order=ORD-4376E5C0
+[2026-04-20T11:37:12] OVEN_OUT slot=25 item="Custom Pizza" order=ORD-4376E5C0
+[2026-04-20T11:37:36] OVEN_OUT slot=32 item="Cheese" order=ORD-4376E5C0
+[2026-04-20T11:38:15Z] OVEN_OUT slot=47 item="Custom Pizza" order=ORD-4376E5C0
+[2026-04-20T11:38:58] OVEN_OUT slot=32 item="Veggie" order=ORD-4376E5C0
+[2026-04-20T11:39:37] OVEN_IN slot=30 item="Cheese" order=ORD-83FDFF73
+[2026-04-20T11:39:37] OVEN_OUT slot=21 item="Meat Lovers" order=ORD-4376E5C0
+[2026-04-20T11:44:06Z] OVEN_IN slot=16 item="Custom Pizza" order=ORD-2BE333F7
+[2026-04-20T11:44:27Z] OVEN_IN slot=50 item="Sausage" order=ORD-2BE333F7
+[2026-04-20T11:45:03Z] OVEN_IN slot=2 item="Supr" order=ORD-2BE333F7
+[2026-04-20T11:45:37] OVEN_IN slot=12 item="Veggie" order=ORD-2BE333F7
+[2026-04-20T11:47:36] OVEN_IN slot=38 item="Custom Pizza" order=ORD-91041BE8
+[2026-04-20T11:47:39Z] OVEN_OUT slot=19 item="Cheese" order=ORD-83FDFF73
+[2026-04-20T11:48:09Z] OVEN_IN slot=14 item="Veggie" order=ORD-91041BE8
+[2026-04-20T11:48:43] OVEN_IN slot=16 item="Veggie" order=ORD-91041BE8
+[2026-04-20T11:49:16] OVEN_IN slot=16 item="Custom Pizza" order=ORD-91041BE8
+[2026-04-20T11:49:50] OVEN_IN slot=25 item="Custom Pizza" order=ORD-91041BE8
+[2026-04-20T11:50:20Z] OVEN_IN slot=32 item="Meat Lovers" order=ORD-91041BE8
+[2026-04-20T11:50:54Z] OVEN_IN slot=47 item="Veg" order=ORD-DABD6AFE
+[2026-04-20T11:51:21Z] OVEN_IN slot=6 item="Custom Pizza" order=ORD-DABD6AFE
+[2026-04-20T11:51:43Z] OVEN_IN slot=29 item="Pepperoni" order=ORD-DABD6AFE
+[2026-04-20T11:52:04Z] OVEN_IN slot=22 item="Sausage" order=ORD-DABD6AFE
+[2026-04-20T11:52:07Z] OVEN_OUT slot=39 item="Custom Pizza" order=ORD-2BE333F7
+[2026-04-20T11:52:28Z] OVEN_OUT slot=23 item="Ssg" order=ORD-2BE333F7
+[2026-04-20T11:52:41Z] OVEN_IN slot=27 item="Supreme" order=ORD-326B8F41
+[2026-04-20T11:53:05Z] OVEN_OUT slot=19 item="Supreme" order=ORD-2BE333F7
+[2026-04-20T11:53:11Z] OVEN_IN slot=2 item="ML" order=ORD-326B8F41
+[2026-04-20T11:53:32Z] OVEN_IN slot=35 item="Pepperoni" order=ORD-326B8F41
+[2026-04-20T11:53:38] OVEN_OUT slot=5 item="Veg" order=ORD-2BE333F7
+[2026-04-20T11:54:06] OVEN_IN slot=38 item="Custom Pizza" order=ORD-326B8F41
+[2026-04-20T11:54:27Z] OVEN_IN slot=45 item="Ssg" order=ORD-326B8F41
+[2026-04-20T11:55:01] OVEN_IN slot=20 item="Veggie" order=ORD-326B8F41
+[2026-04-20T11:55:37] OVEN_IN slot=15 item="Custom Pizza" order=ORD-1CE18F91
+[2026-04-20T11:55:37] OVEN_OUT slot=41 item="Custom Pizza" order=ORD-91041BE8
+[2026-04-20T11:55:55Z] OVEN_IN slot=36 item="Cheese" order=ORD-1CE18F91
+[2026-04-20T11:56:11Z] OVEN_OUT slot=20 item="Veggie" order=ORD-91041BE8
+[2026-04-20T11:56:17] OVEN_IN slot=45 item="Sausage" order=ORD-1CE18F91
+[2026-04-20T11:56:38Z] OVEN_IN slot=32 item="Ssg" order=ORD-A43AA6D3
+[2026-04-20T11:56:44Z] OVEN_OUT slot=12 item="Veggie" order=ORD-91041BE8
+[2026-04-20T11:57:11] OVEN_IN slot=44 item="Custom Pizza" order=ORD-A43AA6D3
+[2026-04-20T11:57:18] OVEN_OUT slot=26 item="Custom Pizza" order=ORD-91041BE8
+[2026-04-20T11:57:36Z] OVEN_IN slot=50 item="Custom Pizza" order=ORD-A43AA6D3
+[2026-04-20T11:57:51Z] OVEN_OUT slot=7 item="Custom Pizza" order=ORD-91041BE8
+[2026-04-20T11:58:00Z] OVEN_IN slot=28 item="Custom Pizza" order=ORD-A43AA6D3
+[2026-04-20T11:58:16Z] OVEN_IN slot=14 item="Custom Pizza" order=ORD-A43AA6D3
+[2026-04-20T11:58:22Z] OVEN_OUT slot=22 item="Meat Lovers" order=ORD-91041BE8
+[2026-04-20T11:58:56Z] OVEN_OUT slot=14 item="Veggie" order=ORD-DABD6AFE
+[2026-04-20T11:59:23Z] OVEN_OUT slot=1 item="Cust" order=ORD-DABD6AFE
+[2026-04-20T11:59:44Z] OVEN_OUT slot=2 item="Pepperoni" order=ORD-DABD6AFE
+[2026-04-20T12:00:06] OVEN_OUT slot=40 item="Sausage" order=ORD-DABD6AFE
+[2026-04-20T12:00:42Z] OVEN_OUT slot=44 item="Supreme" order=ORD-326B8F41
+[2026-04-20T12:01:01] OVEN_IN slot=30 item="Cheese" order=ORD-AFB76683
+[2026-04-20T12:01:13Z] OVEN_OUT slot=16 item="ML" order=ORD-326B8F41
+[2026-04-20T12:01:34Z] OVEN_IN slot=12 item="Veg" order=ORD-AFB76683
+[2026-04-20T12:01:34] OVEN_OUT slot=29 item="Pepperoni" order=ORD-326B8F41
+[2026-04-20T12:02:08Z] OVEN_IN slot=4 item="Veggie" order=ORD-AFB76683
+[2026-04-20T12:02:08] OVEN_OUT slot=15 item="Custom Pizza" order=ORD-326B8F41
+[2026-04-20T12:02:29Z] OVEN_OUT slot=4 item="Sausage" order=ORD-326B8F41
+[2026-04-20T12:02:47] OVEN_IN slot=32 item="Supreme" order=ORD-AFB76683
+[2026-04-20T12:03:03] OVEN_OUT slot=20 item="Veg" order=ORD-326B8F41
+[2026-04-20T12:03:06] OVEN_IN slot=53 item="Sausage" order=ORD-AFB76683
+[2026-04-20T12:03:27Z] OVEN_IN slot=4 item="Pepperoni" order=ORD-AFB76683
+[2026-04-20T12:03:39Z] OVEN_OUT ▒██▓ERROR▒██▓
+[2026-04-20T12:03:58Z] OVEN_OUT slot=4 item="Cheese" order=ORD-1CE18F91
+[2026-04-20T12:04:07Z] OVEN_IN slot=38 item="Supreme" order=ORD-5FB63F52
+[2026-04-20T12:04:19Z] OVEN_OUT slot=33 item="Sausage" order=ORD-1CE18F91
+[2026-04-20T12:04:28Z] OVEN_IN slot=19 item="Ssg" order=ORD-5FB63F52
+[2026-04-20T12:04:40] OVEN_OUT slot=22 item="Sausage" order=ORD-A43AA6D3
+[2026-04-20T12:04:49Z] OVEN_IN slot=19 item="Custom Pizza" order=ORD-5FB63F52
+[2026-04-20T12:05:14] OVEN_OUT slot=29 item="Cust" order=ORD-A43AA6D3
+[2026-04-20T12:05:29] OVEN_IN slot=3 item="Custom Pizza" order=ORD-5FB63F52
+[2026-04-20T12:05:38Z] OVEN_OUT slot=45 item="Custom Pizza" order=ORD-A43AA6D3
+[2026-04-20T12:06:02] OVEN_OUT slot=50 item="Custom Pizza" order=ORD-A43AA6D3
+[2026-04-20T12:06:18Z] OVEN_OUT slot=42 item="Custom Pizza" order=ORD-A43AA6D3
+[2026-04-20T12:07:43] OVEN_IN slot=45 item="Cheese" order=ORD-DF3EA698
+[2026-04-20T12:08:01] OVEN_IN slot=4 item="Chz" order=ORD-DF3EA698
+[2026-04-20T12:08:41] OVEN_IN slot=48 item="Supreme" order=ORD-DF3EA698
+[2026-04-20T12:09:02Z] OVEN_IN slot=28 item="Sausage" order=ORD-DF3EA698
+[2026-04-20T12:09:02] OVEN_OUT slot=14 item="Cheese" order=ORD-AFB76683
+[2026-04-20T12:09:24] OVEN_IN slot=35 item="Sausage" order=ORD-D5F90CE2
+[2026-04-20T12:09:36Z] OVEN_OUT slot=33 item="Veggie" order=ORD-AFB76683
+[2026-04-20T12:10:09] OVEN_OUT slot=23 item="Veggie" order=ORD-AFB76683
+[2026-04-20T12:10:49] OVEN_OUT slot=34 item="Supreme" order=ORD-AFB76683
+[2026-04-20T12:11:07] OVEN_OUT slot=36 item="Sausage" order=ORD-AFB76683
+[2026-04-20T12:11:28] OVEN_OUT slot=7 item="Pepperoni" order=ORD-AFB76683
+[2026-04-20T12:12:08] OVEN_OUT slot=27 item="Supreme" order=ORD-5FB63F52
+[2026-04-20T12:12:29Z] OVEN_OUT slot=23 item="Sausage" order=ORD-5FB63F52
+[2026-04-20T12:12:50Z] OVEN_OUT slot=46 item="Custom Pizza" order=ORD-5FB63F52
+[2026-04-20T12:13:30] OVEN_OUT slot=28 item="Custom Pizza" order=ORD-5FB63F52
+[2026-04-20T12:13:39] OVEN_IN slot=43 item="Supreme" order=ORD-3F9D7B5D
+[2026-04-20T12:14:00Z] OVEN_IN slot=34 item="Pepperoni" order=ORD-3F9D7B5D
+[2026-04-20T12:14:33] OVEN_IN slot=20 item="Cust" order=ORD-3F9D7B5D
+[2026-04-20T12:14:54Z] OVEN_IN slot=38 item="Sausage" order=ORD-3F9D7B5D
+[2026-04-20T12:15:16Z] OVEN_IN slot=32 item="Pep" order=ORD-3F9D7B5D
+[2026-04-20T12:15:46Z] OVEN_IN slot=25 item="Custom Pizza" order=ORD-3F9D7B5D
+[2026-04-20T12:15:46Z] OVEN_OUT slot=36 item="Chz" order=ORD-DF3EA698
+[2026-04-20T12:16:04Z] OVEN_OUT slot=12 item="Cheese" order=ORD-DF3EA698
+[2026-04-20T12:16:07Z] OVEN_IN slot=7 item="Pepperoni" order=ORD-FF8FE19D
+[2026-04-20T12:16:44Z] OVEN_OUT slot=37 item="Supreme" order=ORD-DF3EA698
+[2026-04-20T12:16:47Z] OVEN_IN slot=27 item="Supreme" order=ORD-FF8FE19D
+[2026-04-20T12:17:05] OVEN_OUT slot=35 item="Sausage" order=ORD-DF3EA698
+[2026-04-20T12:17:20] OVEN_IN slot=48 item="Veggie" order=ORD-FF8FE19D
+[2026-04-20T12:17:26] OVEN_OUT slot=22 item="Sausage" order=ORD-D5F90CE2
+[2026-04-20T12:17:54Z] OVEN_IN slot=41 item="Veggie" order=ORD-FF8FE19D
+[2026-04-20T12:18:15Z] OVEN_IN slot=28 item="Sausage" order=ORD-DA4EEA1B
+[2026-04-20T12:18:36Z] OVEN_IN slot=36 item="Pepperoni" order=ORD-DA4EEA1B
+[2026-04-20T12:20:19] OVEN_IN slot=6 item="Ssg" order=ORD-33CE81AC
+[2026-04-20T12:20:59] OVEN_IN slot=9 item="Supreme" order=ORD-33CE81AC
+[2026-04-20T12:21:38Z] OVEN_IN slot=14 item="Custom Pizza" order=ORD-33CE81AC
+[2026-04-20T12:21:41] OVEN_OUT slot=24 item="Supreme" order=ORD-3F9D7B5D
+[2026-04-20T12:22:02Z] OVEN_OUT slot=19 item="Pep" order=ORD-3F9D7B5D
+[2026-04-20T12:22:35] OVEN_OUT slot=50 item="Cust" order=ORD-3F9D7B5D
+[2026-04-20T12:22:57Z] OVEN_OUT slot=22 item="Sausage" order=ORD-3F9D7B5D
+[2026-04-20T12:23:18Z] OVEN_OUT slot=37 item="Pepperoni" order=ORD-3F9D7B5D
+[2026-04-20T12:23:48] OVEN_OUT slot=52 item="Custom Pizza" order=ORD-3F9D7B5D
+[2026-04-20T12:23:57Z] OVEN_IN slot=49 item="Custom Pizza" order=ORD-29F7D188
+[2026-04-20T12:24:10] OVEN_OUT slot=52 item="Pepperoni" order=ORD-FF8FE19D
+[2026-04-20T12:24:16Z] OVEN_IN slot=43 item="Chz" order=ORD-29F7D188
+[2026-04-20T12:24:49Z] OVEN_IN slot=24 item="Veggie" order=ORD-29F7D188
+[2026-04-20T12:24:49Z] OVEN_OUT slot=17 item="Supr" order=ORD-FF8FE19D
+[2026-04-20T12:25:10] OVEN_IN slot=14 item="Pep" order=ORD-29F7D188
+[2026-04-20T12:25:23] OVEN_OUT slot=4 item="Veggie" order=ORD-FF8FE19D
+[2026-04-20T12:25:29] OVEN_IN slot=7 item="Chz" order=ORD-29F7D188
+[2026-04-20T12:25:50Z] OVEN_IN slot=7 item="Pepperoni" order=ORD-29F7D188
+[2026-04-20T12:25:56Z] OVEN_OUT slot=24 item="Veg" order=ORD-FF8FE19D
+[2026-04-20T12:26:17Z] OVEN_OUT slot=44 item="Ssg" order=ORD-DA4EEA1B
+[2026-04-20T12:26:20Z] OVEN_IN slot=13 item="Meat Lovers" order=ORD-F46A4FEA
+[2026-04-20T12:26:38] OVEN_OUT slot=1 item="Pepperoni" order=ORD-DA4EEA1B
+[2026-04-20T12:28:22Z] OVEN_OUT slot=35 item="Sausage" order=ORD-33CE81AC
+[2026-04-20T12:29:01Z] OVEN_OUT slot=30 item="Supreme" order=ORD-33CE81AC
+[2026-04-20T12:29:38Z] OVEN_OUT slot=41 item="Custom Pizza" order=ORD-33CE81AC
+[2026-04-20T12:29:53] OVEN_IN slot=41 item="Cust" order=ORD-3578A956
+[2026-04-20T12:30:14] OVEN_IN slot=18 item="Pepperoni" order=ORD-3578A956
+[2026-04-20T12:30:36Z] OVEN_IN slot=40 item="Sausage" order=ORD-3578A956
+[2026-04-20T12:30:57Z] OVEN_IN slot=22 item="Custom Pizza" order=ORD-3578A956
+[2026-04-20T12:31:31Z] OVEN_IN slot=18 item="Veggie" order=ORD-3578A956
+[2026-04-20T12:31:58Z] OVEN_IN slot=39 item="ML" order=ORD-3578A956
+[2026-04-20T12:31:58Z] OVEN_OUT slot=31 item="Custom Pizza" order=ORD-29F7D188
+[2026-04-20T12:32:17Z] OVEN_OUT slot=24 item="Chz" order=ORD-29F7D188
+[2026-04-20T12:32:38] OVEN_IN slot=43 item="Supreme" order=ORD-9018EECC
+[2026-04-20T12:32:50Z] OVEN_OUT slot=27 item="Veggie" order=ORD-29F7D188
+[2026-04-20T12:32:56Z] OVEN_IN slot=18 item="Cust" order=ORD-9018EECC
+[2026-04-20T12:33:11] OVEN_OUT slot=20 item="Pepperoni" order=ORD-29F7D188
+[2026-04-20T12:33:30Z] OVEN_IN slot=13 item="Veggie" order=ORD-9018EECC
+[2026-04-20T12:33:30] OVEN_OUT slot=16 item="Cheese" order=ORD-29F7D188
+[2026-04-20T12:33:51Z] OVEN_OUT slot=18 item="Pepperoni" order=ORD-29F7D188
+[2026-04-20T12:34:00Z] OVEN_IN slot=2 item="Meat Lovers" order=ORD-9018EECC
+[2026-04-20T12:34:21Z] OVEN_IN slot=9 item="Custom Pizza" order=ORD-9018EECC
+[2026-04-20T12:34:21Z] OVEN_OUT slot=21 item="Meat Lovers" order=ORD-F46A4FEA
+[2026-04-20T12:34:45] OVEN_IN slot=27 item="Custom Pizza" order=ORD-9018EECC
+[2026-04-20T12:35:19] OVEN_IN slot=4 item="Custom Pizza" order=ORD-A4FE256A
+[2026-04-20T12:35:58] OVEN_IN slot=26 item="Custom Pizza" order=ORD-A4FE256A
+[2026-04-20T12:36:29] OVEN_IN slot=35 item="Cust" order=ORD-A4FE256A
+[2026-04-20T12:37:54Z] OVEN_OUT slot=45 item="Cust" order=ORD-3578A956
+[2026-04-20T12:38:15] OVEN_OUT slot=27 item="Pepperoni" order=ORD-3578A956
+[2026-04-20T12:38:37Z] OVEN_OUT slot=28 item="Sausage" order=ORD-3578A956
+[2026-04-20T12:38:58] OVEN_OUT slot=34 item="Custom Pizza" order=ORD-3578A956
+[2026-04-20T12:39:32Z] OVEN_OUT ▓▒▓▓ERROR▓▒█▒
+[2026-04-20T12:39:41Z] OVEN_IN slot=48 item="Meat Lovers" order=ORD-53DBD629
+[2026-04-20T12:39:59Z] OVEN_IN slot=21 item="Chz" order=ORD-53DBD629
+[2026-04-20T12:39:59Z] OVEN_OUT slot=26 item="ML" order=ORD-3578A956
+[2026-04-20T12:40:39] OVEN_IN slot=6 item="Supreme" order=ORD-53DBD629
+[2026-04-20T12:40:39] OVEN_OUT slot=4 item="Supreme" order=ORD-9018EECC
+[2026-04-20T12:40:57Z] OVEN_OUT slot=36 item="Custom Pizza" order=ORD-9018EECC
+[2026-04-20T12:41:06Z] OVEN_IN slot=42 item="Meat Lovers" order=ORD-53DBD629
+[2026-04-20T12:41:27Z] OVEN_IN slot=34 item="Sausage" order=ORD-448BF3A4
+[2026-04-20T12:41:31] OVEN_OUT slot=19 item="Veggie" order=ORD-9018EECC
+[2026-04-20T12:41:49Z] OVEN_IN slot=45 item="Pepperoni" order=ORD-448BF3A4
+[2026-04-20T12:42:01Z] OVEN_OUT slot=18 item="Meat Lovers" order=ORD-9018EECC
+[2026-04-20T12:42:13Z] OVEN_IN slot=49 item="Custom Pizza" order=ORD-448BF3A4
+[2026-04-20T12:42:22] OVEN_OUT slot=28 item="Custom Pizza" order=ORD-9018EECC
+[2026-04-20T12:42:46] OVEN_OUT slot=25 item="Custom Pizza" order=ORD-9018EECC
+[2026-04-20T12:42:52Z] OVEN_IN slot=24 item="Custom Pizza" order=ORD-448BF3A4
+[2026-04-20T12:43:20] OVEN_OUT slot=27 item="Custom Pizza" order=ORD-A4FE256A
+[2026-04-20T12:43:26] OVEN_IN slot=37 item="Custom Pizza" order=ORD-448BF3A4
+[2026-04-20T12:43:56Z] OVEN_IN slot=2 item="Meat Lovers" order=ORD-448BF3A4
+[2026-04-20T12:43:59Z] OVEN_OUT slot=8 item="Cust" order=ORD-A4FE256A
+[2026-04-20T12:44:30] OVEN_OUT slot=4 item="Custom Pizza" order=ORD-A4FE256A
+[2026-04-20T12:44:33Z] OVEN_IN slot=1 item="Supreme" order=ORD-E5513700
+[2026-04-20T12:44:54] OVEN_IN slot=26 item="Sausage" order=ORD-E5513700
+[2026-04-20T12:45:34] OVEN_IN slot=30 item="Custom Pizza" order=ORD-E5513700
+[2026-04-20T12:46:04] OVEN_IN slot=45 item="ML" order=ORD-E5513700
+[2026-04-20T12:46:29] OVEN_IN slot=43 item="Custom Pizza" order=ORD-E5513700
+[2026-04-20T12:47:02] OVEN_IN slot=2 item="Veg" order=ORD-804BF883
+[2026-04-20T12:47:24] OVEN_IN ▓░▒█ERROR█▓▒▓
+[2026-04-20T12:47:42] OVEN_OUT slot=5 item="Meat Lovers" order=ORD-53DBD629
+[2026-04-20T12:47:51Z] OVEN_IN slot=13 item="Custom Pizza" order=ORD-804BF883
+[2026-04-20T12:48:00Z] OVEN_OUT slot=31 item="Cheese" order=ORD-53DBD629
+[2026-04-20T12:48:12Z] OVEN_IN slot=7 item="Sausage" order=ORD-804BF883
+[2026-04-20T12:48:40Z] OVEN_OUT slot=38 item="Supreme" order=ORD-53DBD629
+[2026-04-20T12:48:43Z] OVEN_IN slot=49 item="Meat Lovers" order=ORD-804BF883
+[2026-04-20T12:49:04Z] OVEN_IN slot=10 item="Pep" order=ORD-804BF883
+[2026-04-20T12:49:07Z] OVEN_OUT slot=9 item="Meat Lovers" order=ORD-53DBD629
+[2026-04-20T12:49:28Z] OVEN_OUT slot=41 item="Sausage" order=ORD-448BF3A4
+[2026-04-20T12:49:50] OVEN_OUT slot=46 item="Pepperoni" order=ORD-448BF3A4
+[2026-04-20T12:50:14] OVEN_OUT slot=25 item="Custom Pizza" order=ORD-448BF3A4
+[2026-04-20T12:50:54] OVEN_OUT slot=50 item="Custom Pizza" order=ORD-448BF3A4
+[2026-04-20T12:51:27] OVEN_OUT slot=24 item="Custom Pizza" order=ORD-448BF3A4
+[2026-04-20T12:51:39] OVEN_IN slot=3 item="Veggie" order=ORD-2E5BB48E
+[2026-04-20T12:51:58Z] OVEN_OUT slot=26 item="Meat Lovers" order=ORD-448BF3A4
+[2026-04-20T12:52:13Z] OVEN_IN slot=37 item="Veggie" order=ORD-2E5BB48E
+[2026-04-20T12:52:31] OVEN_IN slot=11 item="Pepperoni" order=ORD-78AF8990
+[2026-04-20T12:52:34Z] OVEN_OUT slot=18 item="Supreme" order=ORD-E5513700
+[2026-04-20T12:52:56Z] OVEN_OUT slot=17 item="Sausage" order=ORD-E5513700
+[2026-04-20T12:52:59Z] OVEN_IN slot=46 item="Custom Pizza" order=ORD-78AF8990
+[2026-04-20T12:53:35Z] OVEN_OUT slot=1 item="Custom Pizza" order=ORD-E5513700
+[2026-04-20T12:53:38Z] OVEN_IN slot=19 item="Supreme" order=ORD-78AF8990
+[2026-04-20T12:54:06Z] OVEN_OUT slot=8 item="ML" order=ORD-E5513700
+[2026-04-20T12:54:18] OVEN_IN slot=36 item="Supreme" order=ORD-78AF8990
+[2026-04-20T12:54:30Z] OVEN_OUT slot=38 item="Custom Pizza" order=ORD-E5513700
+[2026-04-20T12:54:36Z] OVEN_IN slot=30 item="Cheese" order=ORD-78AF8990
+[2026-04-20T12:54:54] OVEN_IN slot=15 item="Cheese" order=ORD-BD768516
+[2026-04-20T12:55:03Z] OVEN_OUT slot=30 item="Veggie" order=ORD-804BF883
+[2026-04-20T12:55:25] OVEN_OUT slot=15 item="Custom Pizza" order=ORD-804BF883
+[2026-04-20T12:55:52Z] OVEN_OUT slot=34 item="Custom Pizza" order=ORD-804BF883
+[2026-04-20T12:56:13Z] OVEN_OUT slot=16 item="Sausage" order=ORD-804BF883
+[2026-04-20T12:56:44Z] OVEN_OUT slot=26 item="Meat Lovers" order=ORD-804BF883
+[2026-04-20T12:57:05Z] OVEN_OUT slot=26 item="Pepperoni" order=ORD-804BF883
+[2026-04-20T12:59:40Z] OVEN_OUT slot=6 item="Veggie" order=ORD-2E5BB48E
+[2026-04-20T12:59:49Z] OVEN_IN slot=42 item="Pepperoni" order=ORD-A8AD6EF2
+[2026-04-20T13:00:08Z] OVEN_IN slot=20 item="Cheese" order=ORD-A8AD6EF2
+[2026-04-20T13:00:14] OVEN_OUT slot=3 item="Veggie" order=ORD-2E5BB48E
+[2026-04-20T13:00:26] OVEN_IN slot=36 item="Cheese" order=ORD-A8AD6EF2
+[2026-04-20T13:00:32Z] OVEN_OUT slot=28 item="Pepperoni" order=ORD-78AF8990
+[2026-04-20T13:00:59Z] OVEN_OUT slot=44 item="Custom Pizza" order=ORD-78AF8990
+[2026-04-20T13:01:02Z] OVEN_IN slot=24 item="Custom Pizza" order=ORD-A8AD6EF2
+[2026-04-20T13:01:36Z] OVEN_IN slot=38 item="Veggie" order=ORD-A8AD6EF2
+[2026-04-20T13:01:39Z] OVEN_OUT slot=3 item="Supreme" order=ORD-78AF8990
+[2026-04-20T13:01:51] OVEN_IN slot=49 item="Chz" order=ORD-A8AD6EF2
+[2026-04-20T13:02:18] OVEN_OUT slot=23 item="Supreme" order=ORD-78AF8990
+[2026-04-20T13:02:37Z] OVEN_OUT slot=50 item="Cheese" order=ORD-78AF8990
+[2026-04-20T13:02:55] OVEN_OUT slot=12 item="Cheese" order=ORD-BD768516
+[2026-04-20T13:05:09] OVEN_IN slot=37 item="Custom Pizza" order=ORD-E7387B9D
+[2026-04-20T13:05:39Z] OVEN_IN slot=4 item="ML" order=ORD-E7387B9D
+[2026-04-20T13:06:13Z] OVEN_IN slot=39 item="Veggie" order=ORD-E7387B9D
+[2026-04-20T13:06:46Z] OVEN_IN slot=13 item="Custom Pizza" order=ORD-E7387B9D
+[2026-04-20T13:07:17Z] OVEN_IN slot=46 item="Meat Lovers" order=ORD-E7387B9D
+[2026-04-20T13:07:38] OVEN_IN slot=7 item="Sausage" order=ORD-C6F2AF89
+[2026-04-20T13:07:51Z] OVEN_OUT slot=8 item="Pep" order=ORD-A8AD6EF2
+[2026-04-20T13:08:09Z] OVEN_OUT slot=17 item="Cheese" order=ORD-A8AD6EF2
+[2026-04-20T13:08:27Z] OVEN_OUT slot=27 item="Cheese" order=ORD-A8AD6EF2
+[2026-04-20T13:09:04Z] OVEN_OUT slot=49 item="Custom Pizza" order=ORD-A8AD6EF2
+[2026-04-20T13:09:37] OVEN_OUT slot=15 item="Veg" order=ORD-A8AD6EF2
+[2026-04-20T13:09:52Z] OVEN_OUT slot=23 item="Cheese" order=ORD-A8AD6EF2
+[2026-04-20T13:10:11] OVEN_IN slot=35 item="Custom Pizza" order=ORD-A8340E63
+[2026-04-20T13:10:50Z] OVEN_IN slot=20 item="Supreme" order=ORD-A8340E63
+[2026-04-20T13:11:12Z] OVEN_IN slot=22 item="Pepperoni" order=ORD-A8340E63
+[2026-04-20T13:11:30Z] OVEN_IN slot=8 item="Cheese" order=ORD-EF0D0923
+[2026-04-20T13:11:57] OVEN_IN slot=1 item="Meat Lovers" order=ORD-EF0D0923
+[2026-04-20T13:12:19] OVEN_IN slot=33 item="Ssg" order=ORD-EF0D0923
+[2026-04-20T13:12:58] OVEN_IN slot=19 item="Supr" order=ORD-EF0D0923
+[2026-04-20T13:13:10Z] OVEN_OUT slot=46 item="Cust" order=ORD-E7387B9D
+[2026-04-20T13:13:20Z] OVEN_IN slot=2 item="Pepperoni" order=ORD-EF0D0923
+[2026-04-20T13:13:41Z] OVEN_OUT slot=42 item="Meat Lovers" order=ORD-E7387B9D
+[2026-04-20T13:13:53] OVEN_IN slot=13 item="Custom Pizza" order=ORD-011CD6D6
+[2026-04-20T13:14:14Z] OVEN_OUT slot=25 item="Veggie" order=ORD-E7387B9D
+[2026-04-20T13:14:48] OVEN_OUT slot=11 item="Custom Pizza" order=ORD-E7387B9D
+[2026-04-20T13:15:18] OVEN_OUT slot=35 item="Meat Lovers" order=ORD-E7387B9D
+[2026-04-20T13:15:40Z] OVEN_OUT slot=47 item="Sausage" order=ORD-C6F2AF89
+[2026-04-20T13:18:12Z] OVEN_OUT slot=2 item="Custom Pizza" order=ORD-A8340E63
+[2026-04-20T13:18:36Z] OVEN_IN slot=1 item="Custom Pizza" order=ORD-E1920E90
+[2026-04-20T13:18:51] OVEN_OUT slot=49 item="Supreme" order=ORD-A8340E63
+[2026-04-20T13:18:54] OVEN_IN slot=49 item="Cheese" order=ORD-E1920E90
+[2026-04-20T13:19:13] OVEN_OUT slot=50 item="Pep" order=ORD-A8340E63
+[2026-04-20T13:19:16Z] OVEN_IN slot=1 item="Pepperoni" order=ORD-E1920E90
+[2026-04-20T13:19:31Z] OVEN_OUT slot=41 item="Chz" order=ORD-EF0D0923
+[2026-04-20T13:19:37Z] OVEN_IN slot=12 item="Pepperoni" order=ORD-E1920E90
+[2026-04-20T13:19:58Z] OVEN_OUT slot=40 item="ML" order=ORD-EF0D0923
+[2026-04-20T13:20:11] OVEN_IN slot=9 item="Cust" order=ORD-E1920E90
+[2026-04-20T13:20:20Z] OVEN_OUT slot=39 item="Sausage" order=ORD-EF0D0923
+[2026-04-20T13:20:41Z] OVEN_IN slot=29 item="Custom Pizza" order=ORD-0F2E39C2
+[2026-04-20T13:20:59] OVEN_OUT slot=37 item="Supreme" order=ORD-EF0D0923
+[2026-04-20T13:21:11] OVEN_IN slot=33 item="ML" order=ORD-0F2E39C2
+[2026-04-20T13:21:21Z] OVEN_OUT slot=49 item="Pepperoni" order=ORD-EF0D0923
+[2026-04-20T13:21:45Z] OVEN_IN slot=2 item="Veggie" order=ORD-0F2E39C2
+[2026-04-20T13:21:54Z] OVEN_OUT slot=1 item="Custom Pizza" order=ORD-011CD6D6
+[2026-04-20T13:24:05Z] OVEN_IN slot=51 item="Cust" order=ORD-93B0A2CC
+[2026-04-20T13:24:38Z] OVEN_IN slot=22 item="Veggie" order=ORD-93B0A2CC
+[2026-04-20T13:26:37Z] OVEN_OUT slot=29 item="Custom Pizza" order=ORD-E1920E90
+[2026-04-20T13:26:56Z] OVEN_OUT slot=16 item="Cheese" order=ORD-E1920E90
+[2026-04-20T13:27:05Z] OVEN_IN slot=20 item="Pepperoni" order=ORD-7607AF3D
+[2026-04-20T13:27:17] OVEN_OUT slot=41 item="Pepperoni" order=ORD-E1920E90
+[2026-04-20T13:27:23] OVEN_IN slot=24 item="Custom Pizza" order=ORD-7607AF3D
+[2026-04-20T13:27:38Z] OVEN_OUT slot=46 item="Pepperoni" order=ORD-E1920E90
+[2026-04-20T13:27:54] OVEN_IN slot=48 item="Meat Lovers" order=ORD-7607AF3D
+[2026-04-20T13:28:12Z] OVEN_OUT ▒░░▓ERROR▒▓░▓
+[2026-04-20T13:28:24Z] OVEN_IN slot=50 item="Custom Pizza" order=ORD-7607AF3D
+[2026-04-20T13:28:43Z] OVEN_OUT slot=12 item="Cust" order=ORD-0F2E39C2
+[2026-04-20T13:29:13] OVEN_OUT slot=1 item="Meat Lovers" order=ORD-0F2E39C2
+[2026-04-20T13:29:47Z] OVEN_OUT slot=39 item="Veggie" order=ORD-0F2E39C2
+[2026-04-20T13:31:00] OVEN_IN slot=30 item="Ssg" order=ORD-D444AC55
+[2026-04-20T13:31:34] OVEN_IN slot=5 item="Veggie" order=ORD-D444AC55
+[2026-04-20T13:32:07Z] OVEN_OUT slot=36 item="Cust" order=ORD-93B0A2CC
+[2026-04-20T13:32:10] OVEN_IN slot=26 item="Custom Pizza" order=ORD-D444AC55
+[2026-04-20T13:32:41Z] OVEN_IN slot=24 item="ML" order=ORD-D444AC55
+[2026-04-20T13:32:41] OVEN_OUT slot=11 item="Veggie" order=ORD-93B0A2CC
+[2026-04-20T13:33:02Z] OVEN_IN slot=34 item="Custom Pizza" order=ORD-D444AC55
+[2026-04-20T13:33:35] OVEN_IN slot=39 item="Veggie" order=ORD-D444AC55
+[2026-04-20T13:35:07Z] OVEN_OUT slot=17 item="Pep" order=ORD-7607AF3D
+[2026-04-20T13:35:25Z] OVEN_OUT slot=6 item="Custom Pizza" order=ORD-7607AF3D
+[2026-04-20T13:35:56Z] OVEN_OUT slot=25 item="Meat Lovers" order=ORD-7607AF3D
+[2026-04-20T13:36:11Z] OVEN_IN slot=27 item="Veggie" order=ORD-8068314E
+[2026-04-20T13:36:27] OVEN_OUT slot=25 item="Custom Pizza" order=ORD-7607AF3D
+[2026-04-20T13:36:33Z] OVEN_IN slot=30 item="Pepperoni" order=ORD-B420274E
+[2026-04-20T13:39:03Z] OVEN_OUT slot=38 item="Sausage" order=ORD-D444AC55
+[2026-04-20T13:39:36Z] OVEN_OUT slot=30 item="Veggie" order=ORD-D444AC55
+[2026-04-20T13:39:55Z] OVEN_IN slot=32 item="Supreme" order=ORD-B1BD6BEB
+[2026-04-20T13:40:13Z] OVEN_OUT slot=33 item="Custom Pizza" order=ORD-D444AC55
+[2026-04-20T13:40:28Z] OVEN_IN slot=36 item="Veggie" order=ORD-B1BD6BEB
+[2026-04-20T13:40:43Z] OVEN_OUT slot=17 item="Meat Lovers" order=ORD-D444AC55
+[2026-04-20T13:41:05Z] OVEN_OUT slot=13 item="Custom Pizza" order=ORD-D444AC55
+[2026-04-20T13:41:08] OVEN_IN slot=13 item="Supr" order=ORD-B1BD6BEB
+[2026-04-20T13:41:35] OVEN_IN slot=30 item="Cust" order=ORD-B1BD6BEB
+[2026-04-20T13:41:38Z] OVEN_OUT slot=28 item="Veggie" order=ORD-D444AC55
+[2026-04-20T13:42:15] OVEN_IN slot=21 item="Supr" order=ORD-B1BD6BEB
+[2026-04-20T13:42:54Z] OVEN_IN slot=35 item="Supr" order=ORD-67F061A6
+[2026-04-20T13:43:13] OVEN_IN slot=35 item="Pepperoni" order=ORD-67F061A6
+[2026-04-20T13:43:50Z] OVEN_IN slot=49 item="Custom Pizza" order=ORD-67F061A6
+[2026-04-20T13:44:14Z] OVEN_OUT slot=49 item="Veg" order=ORD-8068314E
+[2026-04-20T13:44:23Z] OVEN_IN slot=11 item="Veggie" order=ORD-67F061A6
+[2026-04-20T13:44:35Z] OVEN_OUT slot=10 item="Pep" order=ORD-B420274E
+[2026-04-20T13:45:00] OVEN_IN slot=10 item="Custom Pizza" order=ORD-77D489CC
+[2026-04-20T13:45:21] OVEN_IN slot=27 item="Pepperoni" order=ORD-77D489CC
+[2026-04-20T13:45:54Z] OVEN_IN slot=32 item="Veggie" order=ORD-77D489CC
+[2026-04-20T13:46:28] OVEN_IN slot=46 item="Custom Pizza" order=ORD-77D489CC
+[2026-04-20T13:47:01] OVEN_IN slot=40 item="Veggie" order=ORD-77D489CC
+[2026-04-20T13:47:35] OVEN_IN slot=50 item="Veggie" order=ORD-6E9BFEA1
+[2026-04-20T13:47:56Z] OVEN_IN slot=24 item="Sausage" order=ORD-6E9BFEA1
+[2026-04-20T13:47:56] OVEN_OUT slot=34 item="Supreme" order=ORD-B1BD6BEB
+[2026-04-20T13:48:17Z] OVEN_IN slot=15 item="Pepperoni" order=ORD-6E9BFEA1
+[2026-04-20T13:48:30Z] OVEN_OUT slot=7 item="Veggie" order=ORD-B1BD6BEB
+[2026-04-20T13:48:39Z] OVEN_IN slot=33 item="Pepperoni" order=ORD-C0DF6322
+[2026-04-20T13:49:09] OVEN_OUT slot=48 item="Supreme" order=ORD-B1BD6BEB
+[2026-04-20T13:49:15Z] OVEN_IN slot=5 item="Custom Pizza" order=ORD-C0DF6322
+[2026-04-20T13:49:33Z] OVEN_IN slot=19 item="Cheese" order=ORD-C0DF6322
+[2026-04-20T13:49:36Z] OVEN_OUT slot=14 item="Custom Pizza" order=ORD-B1BD6BEB
+[2026-04-20T13:50:07Z] OVEN_IN slot=2 item="Custom Pizza" order=ORD-C0DF6322
+[2026-04-20T13:50:16] OVEN_OUT slot=46 item="Supr" order=ORD-B1BD6BEB
+[2026-04-20T13:50:28] OVEN_IN slot=38 item="Pepperoni" order=ORD-C0DF6322
+[2026-04-20T13:50:47] OVEN_IN slot=8 item="Custom Pizza" order=ORD-C0DF6322
+[2026-04-20T13:50:56] OVEN_OUT slot=2 item="Supreme" order=ORD-67F061A6
+[2026-04-20T13:51:14] OVEN_OUT slot=20 item="Pepperoni" order=ORD-67F061A6
+[2026-04-20T13:51:51Z] OVEN_OUT slot=23 item="Custom Pizza" order=ORD-67F061A6
+[2026-04-20T13:52:24Z] OVEN_OUT slot=14 item="Veggie" order=ORD-67F061A6
+[2026-04-20T13:53:01Z] OVEN_OUT slot=37 item="Custom Pizza" order=ORD-77D489CC
+[2026-04-20T13:53:22Z] OVEN_OUT slot=11 item="Pepperoni" order=ORD-77D489CC
+[2026-04-20T13:53:28Z] OVEN_IN slot=34 item="Meat Lovers" order=ORD-23AB3AFA
+[2026-04-20T13:53:55Z] OVEN_OUT slot=48 item="Veggie" order=ORD-77D489CC
+[2026-04-20T13:53:58Z] OVEN_IN slot=35 item="Meat Lovers" order=ORD-23AB3AFA
+[2026-04-20T13:54:29Z] OVEN_OUT slot=8 item="Custom Pizza" order=ORD-77D489CC
+[2026-04-20T13:54:32Z] OVEN_IN slot=39 item="Veggie" order=ORD-23AB3AFA
+[2026-04-20T13:54:53] OVEN_IN slot=40 item="Cust" order=ORD-23AB3AFA
+[2026-04-20T13:55:02Z] OVEN_OUT slot=27 item="Veggie" order=ORD-77D489CC
+[2026-04-20T13:55:11Z] OVEN_IN slot=50 item="Custom Pizza" order=ORD-64566A92
+[2026-04-20T13:55:36] OVEN_OUT slot=44 item="Veggie" order=ORD-6E9BFEA1
+[2026-04-20T13:55:57] OVEN_OUT slot=18 item="Ssg" order=ORD-6E9BFEA1
+[2026-04-20T13:56:18Z] OVEN_OUT slot=22 item="Pepperoni" order=ORD-6E9BFEA1
+[2026-04-20T13:56:40Z] OVEN_OUT slot=5 item="Pep" order=ORD-C0DF6322
+[2026-04-20T13:57:16] OVEN_OUT slot=30 item="Custom Pizza" order=ORD-C0DF6322
+[2026-04-20T13:57:34] OVEN_OUT slot=36 item="Cheese" order=ORD-C0DF6322
+[2026-04-20T13:58:07] OVEN_OUT slot=45 item="Cust" order=ORD-C0DF6322
+[2026-04-20T13:58:29Z] OVEN_OUT slot=49 item="Pepperoni" order=ORD-C0DF6322
+[2026-04-20T13:58:35Z] OVEN_IN slot=11 item="Cust" order=ORD-03DAED75
+[2026-04-20T13:58:47Z] OVEN_OUT slot=14 item="Custom Pizza" order=ORD-C0DF6322
+[2026-04-20T14:00:18Z] OVEN_IN slot=36 item="Cheese" order=ORD-30780B2A
+[2026-04-20T14:01:28] OVEN_OUT slot=43 item="Meat Lovers" order=ORD-23AB3AFA
+[2026-04-20T14:01:59] OVEN_OUT slot=5 item="Meat Lovers" order=ORD-23AB3AFA
+[2026-04-20T14:02:32Z] OVEN_OUT slot=52 item="Veggie" order=ORD-23AB3AFA
+[2026-04-20T14:02:54Z] OVEN_OUT slot=17 item="Custom Pizza" order=ORD-23AB3AFA
+[2026-04-20T14:03:12Z] OVEN_OUT slot=42 item="Custom Pizza" order=ORD-64566A92
+[2026-04-20T14:05:20Z] OVEN_IN slot=5 item="Meat Lovers" order=ORD-6ABD61A5
+[2026-04-20T14:06:36Z] OVEN_OUT slot=2 item="Custom Pizza" order=ORD-03DAED75
+[2026-04-20T14:08:20Z] OVEN_OUT slot=5 item="Cheese" order=ORD-30780B2A
+[2026-04-20T14:13:21Z] OVEN_OUT slot=14 item="ML" order=ORD-6ABD61A5
+[2026-04-20T14:18:11Z] OVEN_IN slot=5 item="Custom Pizza" order=ORD-355295EB
+[2026-04-20T14:18:39] OVEN_IN slot=8 item="Pep" order=ORD-355295EB
+[2026-04-20T14:19:06] OVEN_IN slot=20 item="Ssg" order=ORD-355295EB
+[2026-04-20T14:19:58Z] OVEN_IN slot=39 item="Supreme" order=ORD-355295EB
+[2026-04-20T14:20:43] OVEN_IN slot=44 item="Veg" order=ORD-355295EB
+[2026-04-20T14:25:47] OVEN_IN slot=36 item="Meat Lovers" order=ORD-04995344
+[2026-04-20T14:26:12] OVEN_OUT slot=12 item="Custom Pizza" order=ORD-355295EB
+[2026-04-20T14:26:30] OVEN_IN slot=5 item="Veg" order=ORD-04995344
+[2026-04-20T14:26:39] OVEN_OUT slot=9 item="Pepperoni" order=ORD-355295EB
+[2026-04-20T14:26:54] OVEN_IN slot=30 item="Cheese" order=ORD-04995344
+[2026-04-20T14:27:06] OVEN_OUT slot=48 item="Sausage" order=ORD-355295EB
+[2026-04-20T14:27:58Z] OVEN_OUT slot=46 item="Supreme" order=ORD-355295EB
+[2026-04-20T14:28:44Z] OVEN_OUT slot=10 item="Veggie" order=ORD-355295EB
+[2026-04-20T14:33:48] OVEN_OUT slot=48 item="ML" order=ORD-04995344
+[2026-04-20T14:34:30Z] OVEN_OUT slot=14 item="Veggie" order=ORD-04995344
+[2026-04-20T14:34:55Z] OVEN_OUT slot=48 item="Cheese" order=ORD-04995344
+[2026-04-20T14:37:03] OVEN_IN slot=5 item="Cheese" order=ORD-1D471E4B
+[2026-04-20T14:37:30Z] OVEN_IN slot=32 item="Sausage" order=ORD-1D471E4B
+[2026-04-20T14:37:58Z] OVEN_IN slot=18 item="Pep" order=ORD-1D471E4B
+[2026-04-20T14:38:50Z] OVEN_IN slot=5 item="Supreme" order=ORD-1D471E4B
+[2026-04-20T14:45:04Z] OVEN_OUT slot=6 item="Cheese" order=ORD-1D471E4B
+[2026-04-20T14:45:32Z] OVEN_OUT slot=25 item="Sausage" order=ORD-1D471E4B
+[2026-04-20T14:45:59] OVEN_OUT slot=15 item="Pepperoni" order=ORD-1D471E4B
+[2026-04-20T14:46:32Z] OVEN_IN slot=22 item="Meat Lovers" order=ORD-AF0E41A1
+[2026-04-20T14:46:51] OVEN_OUT slot=38 item="Supr" order=ORD-1D471E4B
+[2026-04-20T14:46:57Z] OVEN_IN slot=40 item="Custom Pizza" order=ORD-AF0E41A1
+[2026-04-20T14:54:33] OVEN_OUT slot=41 item="Meat Lovers" order=ORD-AF0E41A1
+[2026-04-20T14:54:58Z] OVEN_OUT slot=10 item="Cust" order=ORD-AF0E41A1
+[2026-04-20T14:57:48] OVEN_IN slot=25 item="Meat Lovers" order=ORD-6FA80495
+[2026-04-20T14:58:15Z] OVEN_IN slot=6 item="Pep" order=ORD-6FA80495
+[2026-04-20T15:05:51Z] OVEN_OUT slot=22 item="Meat Lovers" order=ORD-6FA80495
+[2026-04-20T15:06:18] OVEN_OUT slot=15 item="Pepperoni" order=ORD-6FA80495
+[2026-04-20T15:08:50Z] OVEN_IN slot=38 item="Veg" order=ORD-E3B0AB8C
+[2026-04-20T15:09:33] OVEN_IN slot=20 item="Veggie" order=ORD-E3B0AB8C
+[2026-04-20T15:10:18Z] OVEN_IN slot=5 item="Custom Pizza" order=ORD-E3B0AB8C
+[2026-04-20T15:11:01Z] OVEN_IN slot=36 item="Custom Pizza" order=ORD-E3B0AB8C
+[2026-04-20T15:11:25Z] OVEN_IN slot=46 item="Cheese" order=ORD-E3B0AB8C
+[2026-04-20T15:12:11Z] OVEN_IN slot=9 item="Veg" order=ORD-E3B0AB8C
+[2026-04-20T15:16:51Z] OVEN_OUT slot=19 item="Veg" order=ORD-E3B0AB8C
+[2026-04-20T15:17:33Z] OVEN_OUT slot=51 item="Veggie" order=ORD-E3B0AB8C
+[2026-04-20T15:18:19Z] OVEN_OUT slot=6 item="Cust" order=ORD-E3B0AB8C
+[2026-04-20T15:19:02Z] OVEN_OUT slot=30 item="Custom Pizza" order=ORD-E3B0AB8C
+[2026-04-20T15:19:26] OVEN_OUT slot=40 item="Cheese" order=ORD-E3B0AB8C
+[2026-04-20T15:20:12Z] OVEN_OUT slot=14 item="Veggie" order=ORD-E3B0AB8C
+[2026-04-20T15:21:22Z] OVEN_IN slot=10 item="Supreme" order=ORD-196E9EB5
+[2026-04-20T15:29:23Z] OVEN_OUT slot=8 item="Supreme" order=ORD-196E9EB5
+[2026-04-20T15:29:32] OVEN_IN slot=18 item="Sausage" order=ORD-80D66DD3
+[2026-04-20T15:30:18Z] OVEN_IN slot=33 item="Veggie" order=ORD-80D66DD3
+[2026-04-20T15:30:45Z] OVEN_IN slot=14 item="Pepperoni" order=ORD-80D66DD3
+[2026-04-20T15:31:12Z] OVEN_IN slot=36 item="Sausage" order=ORD-80D66DD3
+[2026-04-20T15:31:55] OVEN_IN slot=38 item="Veggie" order=ORD-80D66DD3
+[2026-04-20T15:37:32Z] OVEN_OUT slot=32 item="Sausage" order=ORD-80D66DD3
+[2026-04-20T15:38:01] OVEN_IN slot=38 item="Sausage" order=ORD-23AA064E
+[2026-04-20T15:38:19Z] OVEN_OUT slot=21 item="Veg" order=ORD-80D66DD3
+[2026-04-20T15:38:46Z] OVEN_OUT slot=47 item="Pepperoni" order=ORD-80D66DD3
+[2026-04-20T15:38:49] OVEN_IN slot=1 item="Custom Pizza" order=ORD-23AA064E
+[2026-04-20T15:39:14] OVEN_OUT slot=19 item="Sausage" order=ORD-80D66DD3
+[2026-04-20T15:39:32Z] OVEN_IN slot=50 item="Veggie" order=ORD-23AA064E
+[2026-04-20T15:39:57Z] OVEN_OUT slot=32 item="Veggie" order=ORD-80D66DD3
+[2026-04-20T15:40:24Z] OVEN_IN slot=43 item="Supreme" order=ORD-23AA064E
+[2026-04-20T15:40:48Z] OVEN_IN ░░█░ERROR█░█░
+[2026-04-20T15:46:01Z] OVEN_OUT slot=1 item="Ssg" order=ORD-23AA064E
+[2026-04-20T15:46:50Z] OVEN_OUT slot=9 item="Custom Pizza" order=ORD-23AA064E
+[2026-04-20T15:47:33Z] OVEN_OUT slot=32 item="Veggie" order=ORD-23AA064E
+[2026-04-20T15:48:24] OVEN_OUT slot=32 item="Supreme" order=ORD-23AA064E
+[2026-04-20T15:48:27] OVEN_IN slot=14 item="Meat Lovers" order=ORD-521E72D0
+[2026-04-20T15:48:49] OVEN_OUT slot=15 item="Cheese" order=ORD-23AA064E
+[2026-04-20T15:49:19] OVEN_IN slot=47 item="Supreme" order=ORD-521E72D0
+[2026-04-20T15:50:05Z] OVEN_IN slot=21 item="Veggie" order=ORD-521E72D0
+[2026-04-20T15:50:56] OVEN_IN slot=37 item="Supreme" order=ORD-521E72D0
+[2026-04-20T15:51:39Z] OVEN_IN slot=24 item="Veggie" order=ORD-521E72D0
+[2026-04-20T15:55:03] OVEN_IN slot=12 item="Custom Pizza" order=ORD-3DBBC9CD
+[2026-04-20T15:55:30] OVEN_IN slot=43 item="Cust" order=ORD-3DBBC9CD
+[2026-04-20T15:56:28] OVEN_OUT slot=43 item="ML" order=ORD-521E72D0
+[2026-04-20T15:57:19Z] OVEN_OUT slot=13 item="Supreme" order=ORD-521E72D0
+[2026-04-20T15:58:05Z] OVEN_OUT slot=29 item="Veg" order=ORD-521E72D0
+[2026-04-20T15:58:56] OVEN_OUT slot=47 item="Supreme" order=ORD-521E72D0
+[2026-04-20T15:59:39] OVEN_OUT slot=4 item="Veggie" order=ORD-521E72D0
+[2026-04-20T16:03:06Z] OVEN_OUT slot=4 item="Custom Pizza" order=ORD-3DBBC9CD
+[2026-04-20T16:03:33] OVEN_OUT slot=8 item="Custom Pizza" order=ORD-3DBBC9CD
+[2026-04-20T16:08:29Z] OVEN_IN slot=36 item="Supreme" order=ORD-0CB74D0C
+[2026-04-20T16:09:08] OVEN_IN slot=44 item="ML" order=ORD-0CB74D0C
+[2026-04-20T16:09:35] OVEN_IN slot=26 item="Pep" order=ORD-0CB74D0C
+[2026-04-20T16:16:30] OVEN_OUT slot=25 item="Supreme" order=ORD-0CB74D0C
+[2026-04-20T16:17:09Z] OVEN_OUT slot=9 item="ML" order=ORD-0CB74D0C
+[2026-04-20T16:17:37] OVEN_OUT slot=48 item="Pepperoni" order=ORD-0CB74D0C
+[2026-04-20T16:20:48] OVEN_IN slot=12 item="Meat Lovers" order=ORD-6AE358E6
+[2026-04-20T16:28:49] OVEN_OUT slot=5 item="ML" order=ORD-6AE358E6
+[2026-04-20T16:31:09Z] OVEN_IN slot=27 item="Meat Lovers" order=ORD-C1565143
+[2026-04-20T16:37:57] OVEN_IN slot=44 item="Pepperoni" order=ORD-32979D9E
+[2026-04-20T16:38:28Z] OVEN_IN slot=23 item="Meat Lovers" order=ORD-32979D9E
+[2026-04-20T16:39:10Z] OVEN_OUT slot=51 item="Meat Lovers" order=ORD-C1565143
+[2026-04-20T16:41:18Z] OVEN_IN slot=43 item="Pep" order=ORD-FEA8ED6A
+[2026-04-20T16:41:49] OVEN_IN slot=30 item="Meat Lovers" order=ORD-FEA8ED6A
+[2026-04-20T16:45:58Z] OVEN_OUT slot=4 item="Pep" order=ORD-32979D9E
+[2026-04-20T16:46:25Z] OVEN_IN slot=36 item="Custom Pizza" order=ORD-5B47BD45
+[2026-04-20T16:46:28Z] OVEN_OUT slot=20 item="ML" order=ORD-32979D9E
+[2026-04-20T16:49:19Z] OVEN_OUT slot=31 item="Pepperoni" order=ORD-FEA8ED6A
+[2026-04-20T16:49:49] OVEN_OUT slot=6 item="ML" order=ORD-FEA8ED6A
+[2026-04-20T16:50:11Z] OVEN_IN slot=42 item="Custom Pizza" order=ORD-180F0E9B
+[2026-04-20T16:50:51Z] OVEN_IN slot=15 item="Supr" order=ORD-180F0E9B
+[2026-04-20T16:51:21Z] OVEN_IN slot=38 item="Custom Pizza" order=ORD-180F0E9B
+[2026-04-20T16:54:05] OVEN_IN slot=22 item="ML" order=ORD-2FB5A0B9
+[2026-04-20T16:54:27] OVEN_OUT slot=39 item="Custom Pizza" order=ORD-5B47BD45
+[2026-04-20T16:54:42Z] OVEN_IN slot=34 item="Cust" order=ORD-2FB5A0B9
+[2026-04-20T16:57:45Z] OVEN_IN slot=45 item="Chz" order=ORD-6F112751
+[2026-04-20T16:58:06Z] OVEN_IN slot=22 item="Pepperoni" order=ORD-6F112751
+[2026-04-20T16:58:13Z] OVEN_OUT slot=33 item="Custom Pizza" order=ORD-180F0E9B
+[2026-04-20T16:58:46Z] OVEN_IN slot=3 item="Supr" order=ORD-6F112751
+[2026-04-20T16:58:52Z] OVEN_OUT slot=44 item="Supreme" order=ORD-180F0E9B
+[2026-04-20T16:59:04Z] OVEN_IN slot=45 item="Cheese" order=ORD-6F112751
+[2026-04-20T16:59:23] OVEN_IN slot=26 item="Pepperoni" order=ORD-6F112751
+[2026-04-20T16:59:23] OVEN_OUT slot=38 item="Custom Pizza" order=ORD-180F0E9B
+[2026-04-20T17:02:08Z] OVEN_OUT slot=28 item="Meat Lovers" order=ORD-2FB5A0B9
+[2026-04-20T17:02:41] OVEN_IN slot=21 item="Pep" order=ORD-9F897CAA
+[2026-04-20T17:02:44Z] OVEN_OUT slot=38 item="Custom Pizza" order=ORD-2FB5A0B9
+[2026-04-20T17:02:54Z] OVEN_IN slot=17 item="Cheese" order=ORD-9F897CAA
+[2026-04-20T17:03:12Z] OVEN_IN slot=33 item="Custom Pizza" order=ORD-9F897CAA
+[2026-04-20T17:03:36Z] OVEN_IN slot=9 item="Custom Pizza" order=ORD-9F897CAA
+[2026-04-20T17:03:54] OVEN_IN slot=7 item="Meat Lovers" order=ORD-9F897CAA
+[2026-04-20T17:04:22] OVEN_IN slot=28 item="Custom Pizza" order=ORD-9F897CAA
+[2026-04-20T17:04:34Z] OVEN_IN slot=13 item="Custom Pizza" order=ORD-7203962A
+[2026-04-20T17:04:55Z] OVEN_IN slot=4 item="Veggie" order=ORD-B557ED96
+[2026-04-20T17:05:17] OVEN_IN slot=31 item="Cust" order=ORD-B557ED96
+[2026-04-20T17:05:29] OVEN_IN slot=18 item="Cheese" order=ORD-B557ED96
+[2026-04-20T17:05:44Z] OVEN_IN slot=3 item="Sausage" order=ORD-A984206F
+[2026-04-20T17:05:47Z] OVEN_OUT slot=42 item="Cheese" order=ORD-6F112751
+[2026-04-20T17:06:09Z] OVEN_IN slot=38 item="Supreme" order=ORD-A984206F
+[2026-04-20T17:06:09Z] OVEN_OUT slot=33 item="Pepperoni" order=ORD-6F112751
+[2026-04-20T17:06:30] OVEN_IN slot=39 item="Meat Lovers" order=ORD-A984206F
+[2026-04-20T17:06:48Z] OVEN_OUT slot=20 item="Supr" order=ORD-6F112751
+[2026-04-20T17:06:51] OVEN_IN slot=17 item="Custom Pizza" order=ORD-E5B34BE7
+[2026-04-20T17:07:03Z] OVEN_IN slot=17 item="Pepperoni" order=ORD-E5B34BE7
+[2026-04-20T17:07:06] OVEN_OUT slot=18 item="Cheese" order=ORD-6F112751
+[2026-04-20T17:07:19Z] OVEN_IN slot=37 item="Pepperoni" order=ORD-E5B34BE7
+[2026-04-20T17:07:25Z] OVEN_OUT slot=35 item="Pepperoni" order=ORD-6F112751
+[2026-04-20T17:07:31Z] OVEN_IN slot=36 item="Pepperoni" order=ORD-E5B34BE7
+[2026-04-20T17:07:58Z] OVEN_IN slot=8 item="Custom Pizza" order=ORD-ACE32802
+[2026-04-20T17:08:10] OVEN_IN slot=3 item="Chz" order=ORD-ACE32802
+[2026-04-20T17:08:23] OVEN_IN slot=22 item="Pepperoni" order=ORD-ACE32802
+[2026-04-20T17:08:35] OVEN_IN slot=24 item="Chz" order=ORD-B1C32720
+[2026-04-20T17:08:56Z] OVEN_IN slot=53 item="Custom Pizza" order=ORD-B1C32720
+[2026-04-20T17:09:08] OVEN_IN slot=44 item="Pep" order=ORD-B1C32720
+[2026-04-20T17:09:36Z] OVEN_IN slot=31 item="Supreme" order=ORD-B1C32720
+[2026-04-20T17:09:57] OVEN_IN slot=24 item="Veggie" order=ORD-B1C32720
+[2026-04-20T17:10:18Z] OVEN_IN slot=27 item="Veg" order=ORD-C9BF7728
+[2026-04-20T17:10:43] OVEN_IN slot=36 item="Custom Pizza" order=ORD-C9BF7728
+[2026-04-20T17:10:43] OVEN_OUT slot=30 item="Pepperoni" order=ORD-9F897CAA
+[2026-04-20T17:10:55] OVEN_OUT slot=16 item="Cheese" order=ORD-9F897CAA
+[2026-04-20T17:11:01Z] OVEN_IN slot=40 item="Custom Pizza" order=ORD-C9BF7728
+[2026-04-20T17:11:14Z] OVEN_IN slot=13 item="Cheese" order=ORD-705727BB
+[2026-04-20T17:11:14Z] OVEN_OUT slot=2 item="Custom Pizza" order=ORD-9F897CAA
+[2026-04-20T17:11:32] OVEN_IN slot=19 item="Cust" order=ORD-705727BB
+[2026-04-20T17:11:38] OVEN_OUT slot=29 item="Custom Pizza" order=ORD-9F897CAA
+[2026-04-20T17:11:56Z] OVEN_IN slot=29 item="Custom Pizza" order=ORD-705727BB
+[2026-04-20T17:11:56Z] OVEN_OUT slot=19 item="ML" order=ORD-9F897CAA
+[2026-04-20T17:12:18Z] OVEN_IN slot=20 item="Meat Lovers" order=ORD-EB5364F6
+[2026-04-20T17:12:24] OVEN_OUT slot=9 item="Cust" order=ORD-9F897CAA
+[2026-04-20T17:12:30] OVEN_IN slot=27 item="Cheese" order=ORD-EB5364F6
+[2026-04-20T17:12:36] OVEN_OUT slot=32 item="Custom Pizza" order=ORD-7203962A
+[2026-04-20T17:12:42] OVEN_IN slot=36 item="Cheese" order=ORD-EB5364F6
+[2026-04-20T17:12:54] OVEN_IN slot=24 item="Chz" order=ORD-EB5364F6
+[2026-04-20T17:12:58Z] OVEN_OUT slot=1 item="Veggie" order=ORD-B557ED96
+[2026-04-20T17:13:07Z] OVEN_IN slot=19 item="Sausage" order=ORD-EB5364F6
+[2026-04-20T17:13:19Z] OVEN_OUT slot=20 item="Custom Pizza" order=ORD-B557ED96
+[2026-04-20T17:13:25] OVEN_IN slot=45 item="Custom Pizza" order=ORD-EB5364F6
+[2026-04-20T17:13:31] OVEN_OUT slot=49 item="Cheese" order=ORD-B557ED96
+[2026-04-20T17:13:37] OVEN_IN slot=13 item="Sausage" order=ORD-A7DC6CFE
+[2026-04-20T17:13:46] OVEN_OUT slot=2 item="Sausage" order=ORD-A984206F
+[2026-04-20T17:13:58] OVEN_IN slot=13 item="Veg" order=ORD-249F56FC
+[2026-04-20T17:14:11Z] OVEN_OUT slot=51 item="Supreme" order=ORD-A984206F
+[2026-04-20T17:14:17] OVEN_IN slot=27 item="Custom Pizza" order=ORD-249F56FC
+[2026-04-20T17:14:32] OVEN_OUT slot=13 item="Meat Lovers" order=ORD-A984206F
+[2026-04-20T17:14:41Z] OVEN_IN slot=2 item="Supr" order=ORD-249F56FC
+[2026-04-20T17:14:53Z] OVEN_OUT slot=14 item="Cust" order=ORD-E5B34BE7
+[2026-04-20T17:14:56Z] OVEN_IN slot=41 item="Pepperoni" order=ORD-82545FFE
+[2026-04-20T17:15:06] OVEN_OUT slot=2 item="Pep" order=ORD-E5B34BE7
+[2026-04-20T17:15:09] OVEN_IN slot=30 item="Pepperoni" order=ORD-82545FFE
+[2026-04-20T17:15:21] OVEN_OUT slot=23 item="Pepperoni" order=ORD-E5B34BE7
+[2026-04-20T17:15:24] OVEN_IN slot=29 item="Sausage" order=ORD-82545FFE
+[2026-04-20T17:15:33Z] OVEN_OUT slot=18 item="Pepperoni" order=ORD-E5B34BE7
+[2026-04-20T17:15:39Z] OVEN_IN slot=18 item="Custom Pizza" order=ORD-82545FFE
+[2026-04-20T17:15:57Z] OVEN_IN slot=41 item="Meat Lovers" order=ORD-09D3832B
+[2026-04-20T17:16:00] OVEN_OUT slot=24 item="Custom Pizza" order=ORD-ACE32802
+[2026-04-20T17:16:09Z] OVEN_IN slot=9 item="Chz" order=ORD-09D3832B
+[2026-04-20T17:16:13Z] OVEN_OUT slot=10 item="Chz" order=ORD-ACE32802
+[2026-04-20T17:16:22] OVEN_IN slot=26 item="Chz" order=ORD-09D3832B
+[2026-04-20T17:16:25Z] OVEN_OUT slot=9 item="Pepperoni" order=ORD-ACE32802
+[2026-04-20T17:16:37Z] OVEN_OUT slot=15 item="Chz" order=ORD-B1C32720
+[2026-04-20T17:16:43Z] OVEN_IN slot=41 item="Meat Lovers" order=ORD-A43663F4
+[2026-04-20T17:16:55Z] OVEN_IN slot=27 item="Sausage" order=ORD-A43663F4
+[2026-04-20T17:16:58] OVEN_OUT slot=14 item="Custom Pizza" order=ORD-B1C32720
+[2026-04-20T17:17:10Z] OVEN_IN slot=24 item="Sausage" order=ORD-A43663F4
+[2026-04-20T17:17:10Z] OVEN_OUT slot=34 item="Pepperoni" order=ORD-B1C32720
+[2026-04-20T17:17:23Z] OVEN_IN slot=48 item="Ssg" order=ORD-A43663F4
+[2026-04-20T17:17:38Z] OVEN_IN slot=4 item="Custom Pizza" order=ORD-355558DB
+[2026-04-20T17:17:38Z] OVEN_OUT slot=19 item="Supr" order=ORD-B1C32720
+[2026-04-20T17:17:59Z] OVEN_OUT slot=6 item="Veggie" order=ORD-B1C32720
+[2026-04-20T17:18:21Z] OVEN_OUT slot=38 item="Veggie" order=ORD-C9BF7728
+[2026-04-20T17:18:45Z] OVEN_OUT slot=15 item="Custom Pizza" order=ORD-C9BF7728
+[2026-04-20T17:18:54] OVEN_IN slot=43 item="Custom Pizza" order=ORD-98351123
+[2026-04-20T17:19:03] OVEN_OUT slot=16 item="Cust" order=ORD-C9BF7728
+[2026-04-20T17:19:16Z] OVEN_OUT slot=45 item="Cheese" order=ORD-705727BB
+[2026-04-20T17:19:19] OVEN_IN slot=21 item="Supr" order=ORD-98351123
+[2026-04-20T17:19:34] OVEN_OUT slot=41 item="Custom Pizza" order=ORD-705727BB
+[2026-04-20T17:19:43Z] OVEN_IN slot=25 item="Veggie" order=ORD-100511A7
+[2026-04-20T17:19:56] OVEN_IN slot=50 item="Cheese" order=ORD-100511A7
+[2026-04-20T17:19:59Z] OVEN_OUT slot=34 item="Custom Pizza" order=ORD-705727BB
+[2026-04-20T17:20:08Z] OVEN_IN slot=35 item="Sausage" order=ORD-ED52CCCB
+[2026-04-20T17:20:20Z] OVEN_OUT slot=41 item="Meat Lovers" order=ORD-EB5364F6
+[2026-04-20T17:20:29Z] OVEN_IN slot=43 item="Cust" order=ORD-ED52CCCB
+[2026-04-20T17:20:32Z] OVEN_OUT slot=9 item="Chz" order=ORD-EB5364F6
+[2026-04-20T17:20:41] OVEN_IN slot=29 item="Chz" order=ORD-ED52CCCB
+[2026-04-20T17:20:44] OVEN_OUT slot=38 item="Cheese" order=ORD-EB5364F6
+[2026-04-20T17:20:56] OVEN_OUT slot=40 item="Cheese" order=ORD-EB5364F6
+[2026-04-20T17:21:00Z] OVEN_IN slot=1 item="Custom Pizza" order=ORD-ED52CCCB
+[2026-04-20T17:21:09Z] OVEN_OUT slot=6 item="Sausage" order=ORD-EB5364F6
+[2026-04-20T17:21:12Z] OVEN_IN slot=23 item="Ssg" order=ORD-ED52CCCB
+[2026-04-20T17:21:24Z] OVEN_IN slot=32 item="Chz" order=ORD-ED52CCCB
+[2026-04-20T17:21:27Z] OVEN_OUT slot=26 item="Cust" order=ORD-EB5364F6
+[2026-04-20T17:21:39] OVEN_OUT slot=9 item="Sausage" order=ORD-A7DC6CFE
+[2026-04-20T17:21:45Z] OVEN_IN slot=37 item="Meat Lovers" order=ORD-E0DD1D29
+[2026-04-20T17:21:57Z] OVEN_IN slot=28 item="Pepperoni" order=ORD-E0DD1D29
+[2026-04-20T17:22:00Z] OVEN_OUT slot=43 item="Veggie" order=ORD-249F56FC
+[2026-04-20T17:22:13Z] OVEN_IN slot=24 item="Custom Pizza" order=ORD-E0DD1D29
+[2026-04-20T17:22:19] OVEN_OUT slot=11 item="Cust" order=ORD-249F56FC
+[2026-04-20T17:22:40Z] OVEN_IN slot=40 item="Supreme" order=ORD-E0DD1D29
+[2026-04-20T17:22:43Z] OVEN_OUT slot=49 item="Supr" order=ORD-249F56FC
+[2026-04-20T17:22:58] OVEN_OUT slot=9 item="Pepperoni" order=ORD-82545FFE
+[2026-04-20T17:23:01Z] OVEN_IN slot=50 item="Custom Pizza" order=ORD-E0DD1D29
+[2026-04-20T17:23:10] OVEN_OUT slot=38 item="Pepperoni" order=ORD-82545FFE
+[2026-04-20T17:23:14Z] OVEN_IN slot=31 item="Sausage" order=ORD-E0DD1D29
+[2026-04-20T17:23:26] OVEN_OUT slot=12 item="Sausage" order=ORD-82545FFE
+[2026-04-20T17:23:29Z] OVEN_IN slot=11 item="Pepperoni" order=ORD-B0A5CFFE
+[2026-04-20T17:23:41] OVEN_OUT slot=41 item="Custom Pizza" order=ORD-82545FFE
+[2026-04-20T17:23:47Z] OVEN_IN slot=28 item="Custom Pizza" order=ORD-B0A5CFFE
+[2026-04-20T17:23:59] OVEN_OUT slot=12 item="ML" order=ORD-09D3832B
+[2026-04-20T17:24:12Z] OVEN_OUT slot=19 item="Cheese" order=ORD-09D3832B
+[2026-04-20T17:24:15] OVEN_IN slot=39 item="Supr" order=ORD-2D84B0D7
+[2026-04-20T17:24:24Z] OVEN_OUT slot=16 item="Cheese" order=ORD-09D3832B
+[2026-04-20T17:24:42Z] OVEN_IN slot=49 item="Supr" order=ORD-46CF6D5B
+[2026-04-20T17:24:45] OVEN_OUT slot=44 item="Meat Lovers" order=ORD-A43663F4
+[2026-04-20T17:24:54Z] OVEN_IN slot=45 item="Pepperoni" order=ORD-46CF6D5B
+[2026-04-20T17:24:57Z] OVEN_OUT slot=5 item="Sausage" order=ORD-A43663F4
+[2026-04-20T17:25:13Z] OVEN_OUT slot=22 item="Sausage" order=ORD-A43663F4
+[2026-04-20T17:25:25Z] OVEN_OUT slot=8 item="Ssg" order=ORD-A43663F4
+[2026-04-20T17:25:40] OVEN_OUT slot=45 item="Custom Pizza" order=ORD-355558DB
+[2026-04-20T17:26:56Z] OVEN_OUT slot=37 item="Custom Pizza" order=ORD-98351123
+[2026-04-20T17:27:08] OVEN_IN slot=41 item="Veggie" order=ORD-AEF1D1FE
+[2026-04-20T17:27:21] OVEN_OUT slot=11 item="Supreme" order=ORD-98351123
+[2026-04-20T17:27:33Z] OVEN_IN slot=46 item="Supreme" order=ORD-AEF1D1FE
+[2026-04-20T17:27:45] OVEN_OUT slot=24 item="Veg" order=ORD-100511A7
+[2026-04-20T17:27:51] OVEN_IN slot=13 item="Cust" order=ORD-AEF1D1FE
+[2026-04-20T17:27:57Z] OVEN_OUT slot=35 item="Cheese" order=ORD-100511A7
+[2026-04-20T17:28:06Z] OVEN_IN slot=42 item="Pepperoni" order=ORD-AEF1D1FE
+[2026-04-20T17:28:09Z] OVEN_OUT slot=6 item="Sausage" order=ORD-ED52CCCB
+[2026-04-20T17:28:22Z] OVEN_IN slot=16 item="Cust" order=ORD-AEF1D1FE
+[2026-04-20T17:28:31Z] OVEN_OUT slot=44 item="Custom Pizza" order=ORD-ED52CCCB
+[2026-04-20T17:28:40] OVEN_IN slot=6 item="Custom Pizza" order=ORD-81452666
+[2026-04-20T17:28:43] OVEN_OUT slot=28 item="Cheese" order=ORD-ED52CCCB
+[2026-04-20T17:28:55Z] OVEN_IN slot=48 item="Pepperoni" order=ORD-81452666
+[2026-04-20T17:29:01Z] OVEN_OUT slot=49 item="Custom Pizza" order=ORD-ED52CCCB
+[2026-04-20T17:29:14Z] OVEN_OUT slot=1 item="Sausage" order=ORD-ED52CCCB
+[2026-04-20T17:29:17Z] OVEN_IN slot=30 item="Veggie" order=ORD-81452666
+[2026-04-20T17:29:26] OVEN_OUT slot=34 item="Cheese" order=ORD-ED52CCCB
+[2026-04-20T17:29:29Z] OVEN_IN slot=34 item="Chz" order=ORD-81452666
+[2026-04-20T17:29:47Z] OVEN_IN slot=13 item="Meat Lovers" order=ORD-81452666
+[2026-04-20T17:29:47] OVEN_OUT slot=16 item="Meat Lovers" order=ORD-E0DD1D29
+[2026-04-20T17:29:59] OVEN_OUT slot=8 item="Pepperoni" order=ORD-E0DD1D29
+[2026-04-20T17:30:15] OVEN_IN slot=22 item="Supreme" order=ORD-81452666
+[2026-04-20T17:30:15Z] OVEN_OUT slot=33 item="Custom Pizza" order=ORD-E0DD1D29
+[2026-04-20T17:30:36Z] OVEN_IN slot=38 item="Veggie" order=ORD-21B27498
+[2026-04-20T17:30:42Z] OVEN_OUT slot=47 item="Supreme" order=ORD-E0DD1D29
+[2026-04-20T17:30:48] OVEN_IN slot=10 item="Custom Pizza" order=ORD-21B27498
+[2026-04-20T17:31:03Z] OVEN_IN slot=38 item="Custom Pizza" order=ORD-21B27498
+[2026-04-20T17:31:03] OVEN_OUT slot=48 item="Custom Pizza" order=ORD-E0DD1D29
+[2026-04-20T17:31:16] OVEN_IN slot=45 item="Custom Pizza" order=ORD-BF929E99
+[2026-04-20T17:31:16] OVEN_OUT slot=45 item="Sausage" order=ORD-E0DD1D29
+[2026-04-20T17:31:31Z] OVEN_OUT slot=25 item="Pepperoni" order=ORD-B0A5CFFE
+[2026-04-20T17:31:37] OVEN_IN slot=27 item="Custom Pizza" order=ORD-BF929E99
+[2026-04-20T17:31:49] OVEN_OUT slot=6 item="Custom Pizza" order=ORD-B0A5CFFE
+[2026-04-20T17:31:58] OVEN_IN slot=24 item="Custom Pizza" order=ORD-BF929E99
+[2026-04-20T17:32:17Z] OVEN_OUT slot=13 item="Supr" order=ORD-2D84B0D7
+[2026-04-20T17:32:20Z] OVEN_IN slot=30 item="ML" order=ORD-BF929E99
+[2026-04-20T17:32:39Z] OVEN_IN slot=25 item="Meat Lovers" order=ORD-A0EE8509
+[2026-04-20T17:32:45Z] OVEN_OUT slot=23 item="Supr" order=ORD-46CF6D5B
+[2026-04-20T17:32:57] OVEN_OUT slot=14 item="Pepperoni" order=ORD-46CF6D5B
+[2026-04-20T17:33:00] OVEN_IN slot=1 item="Meat Lovers" order=ORD-A0EE8509
+[2026-04-20T17:33:18Z] OVEN_IN slot=52 item="Custom Pizza" order=ORD-A0EE8509
+[2026-04-20T17:33:33Z] OVEN_IN slot=31 item="Sausage" order=ORD-A0EE8509
+[2026-04-20T17:33:55] OVEN_IN slot=32 item="Custom Pizza" order=ORD-A0EE8509
+[2026-04-20T17:34:13] OVEN_IN slot=20 item="Custom Pizza" order=ORD-501D6C7F
+[2026-04-20T17:34:40Z] OVEN_IN slot=5 item="Custom Pizza" order=ORD-501D6C7F
+[2026-04-20T17:34:52] OVEN_IN slot=14 item="Custom Pizza" order=ORD-501D6C7F
+[2026-04-20T17:35:05Z] OVEN_IN slot=12 item="Pepperoni" order=ORD-501D6C7F
+[2026-04-20T17:35:11Z] OVEN_OUT slot=6 item="Veggie" order=ORD-AEF1D1FE
+[2026-04-20T17:35:20Z] OVEN_IN slot=16 item="Pepperoni" order=ORD-501D6C7F
+[2026-04-20T17:35:35Z] OVEN_OUT slot=4 item="Supreme" order=ORD-AEF1D1FE
+[2026-04-20T17:35:41Z] OVEN_IN slot=15 item="Meat Lovers" order=ORD-501D6C7F
+[2026-04-20T17:35:53Z] OVEN_IN slot=32 item="Custom Pizza" order=ORD-4C359C55
+[2026-04-20T17:35:53] OVEN_OUT slot=8 item="Cust" order=ORD-AEF1D1FE
+[2026-04-20T17:36:06Z] OVEN_IN slot=35 item="Pepperoni" order=ORD-4C359C55
+[2026-04-20T17:36:09Z] OVEN_OUT slot=9 item="Pepperoni" order=ORD-AEF1D1FE
+[2026-04-20T17:36:24Z] OVEN_OUT slot=41 item="Custom Pizza" order=ORD-AEF1D1FE
+[2026-04-20T17:36:27] OVEN_IN slot=8 item="Custom Pizza" order=ORD-7F3FC65C
+[2026-04-20T17:36:39Z] OVEN_IN slot=39 item="Cheese" order=ORD-7F3FC65C
+[2026-04-20T17:36:42Z] OVEN_OUT slot=17 item="Custom Pizza" order=ORD-81452666
+[2026-04-20T17:36:57] OVEN_IN slot=9 item="Meat Lovers" order=ORD-7F3FC65C
+[2026-04-20T17:36:57Z] OVEN_OUT slot=31 item="Pep" order=ORD-81452666
+[2026-04-20T17:37:19] OVEN_IN slot=21 item="ML" order=ORD-E52FD57B
+[2026-04-20T17:37:19Z] OVEN_OUT slot=7 item="Veggie" order=ORD-81452666
+[2026-04-20T17:37:31Z] OVEN_IN slot=43 item="Cheese" order=ORD-E52FD57B
+[2026-04-20T17:37:31Z] OVEN_OUT slot=45 item="Chz" order=ORD-81452666
+[2026-04-20T17:37:49Z] OVEN_OUT slot=15 item="Meat Lovers" order=ORD-81452666
+[2026-04-20T17:37:55] OVEN_IN slot=23 item="Supreme" order=ORD-E52FD57B
+[2026-04-20T17:38:16] OVEN_IN slot=49 item="Veg" order=ORD-E52FD57B
+[2026-04-20T17:38:16] OVEN_OUT slot=43 item="Supreme" order=ORD-81452666
+[2026-04-20T17:38:29Z] OVEN_IN slot=27 item="Custom Pizza" order=ORD-E52FD57B
+[2026-04-20T17:38:38] OVEN_OUT slot=23 item="Veggie" order=ORD-21B27498
+[2026-04-20T17:38:44Z] OVEN_IN slot=36 item="Custom Pizza" order=ORD-908A1FEC
+[2026-04-20T17:38:50Z] OVEN_OUT slot=9 item="Custom Pizza" order=ORD-21B27498
+[2026-04-20T17:38:59] OVEN_IN slot=14 item="Sausage" order=ORD-908A1FEC
+[2026-04-20T17:39:05Z] OVEN_OUT slot=45 item="Custom Pizza" order=ORD-21B27498
+[2026-04-20T17:39:11Z] OVEN_IN slot=33 item="Custom Pizza" order=ORD-908A1FEC
+[2026-04-20T17:39:17Z] OVEN_OUT slot=47 item="Cust" order=ORD-BF929E99
+[2026-04-20T17:39:30Z] OVEN_IN slot=48 item="Cust" order=ORD-7BAE6BF2
+[2026-04-20T17:39:39Z] OVEN_OUT slot=35 item="Custom Pizza" order=ORD-BF929E99
+[2026-04-20T17:39:57Z] OVEN_IN slot=1 item="Custom Pizza" order=ORD-7BAE6BF2
+[2026-04-20T17:40:00Z] OVEN_OUT slot=48 item="Custom Pizza" order=ORD-BF929E99
+[2026-04-20T17:40:21] OVEN_IN ░▓▓▓ERROR▓░█▒
+[2026-04-20T17:40:21Z] OVEN_OUT slot=29 item="Meat Lovers" order=ORD-BF929E99
+[2026-04-20T17:40:40] OVEN_OUT slot=27 item="Meat Lovers" order=ORD-A0EE8509
+[2026-04-20T17:40:43] OVEN_IN slot=40 item="Veggie" order=ORD-7BAE6BF2
+[2026-04-20T17:41:01Z] OVEN_OUT slot=9 item="Meat Lovers" order=ORD-A0EE8509
+[2026-04-20T17:41:04Z] OVEN_IN slot=26 item="Custom Pizza" order=ORD-7BAE6BF2
+[2026-04-20T17:41:16Z] OVEN_IN slot=1 item="Cheese" order=ORD-7BAE6BF2
+[2026-04-20T17:41:20Z] OVEN_OUT slot=18 item="Cust" order=ORD-A0EE8509
+[2026-04-20T17:41:35Z] OVEN_IN slot=35 item="Meat Lovers" order=ORD-77D11F63
+[2026-04-20T17:41:35Z] OVEN_OUT slot=21 item="Sausage" order=ORD-A0EE8509
+[2026-04-20T17:41:47Z] OVEN_IN slot=6 item="Cheese" order=ORD-77D11F63
+[2026-04-20T17:41:56] OVEN_OUT slot=41 item="Custom Pizza" order=ORD-A0EE8509
+[2026-04-20T17:42:11Z] OVEN_IN slot=31 item="Veggie" order=ORD-77D11F63
+[2026-04-20T17:42:14Z] OVEN_OUT slot=46 item="Custom Pizza" order=ORD-501D6C7F
+[2026-04-20T17:42:26] OVEN_IN slot=42 item="Custom Pizza" order=ORD-77D11F63
+[2026-04-20T17:42:39] OVEN_IN slot=31 item="Custom Pizza" order=ORD-77D11F63
+[2026-04-20T17:42:42Z] OVEN_OUT slot=46 item="Cust" order=ORD-501D6C7F
+[2026-04-20T17:42:54Z] OVEN_OUT slot=43 item="Cust" order=ORD-501D6C7F
+[2026-04-20T17:42:57] OVEN_IN slot=43 item="Custom Pizza" order=ORD-6392BF9E
+[2026-04-20T17:43:06Z] OVEN_OUT slot=11 item="Pepperoni" order=ORD-501D6C7F
+[2026-04-20T17:43:12Z] OVEN_IN slot=24 item="Custom Pizza" order=ORD-5B96E642
+[2026-04-20T17:43:21Z] OVEN_OUT slot=9 item="Pepperoni" order=ORD-501D6C7F
+[2026-04-20T17:43:24Z] OVEN_IN slot=1 item="Pepperoni" order=ORD-5B96E642
+[2026-04-20T17:43:40Z] OVEN_IN slot=4 item="Sausage" order=ORD-5B96E642
+[2026-04-20T17:43:43Z] OVEN_OUT slot=36 item="ML" order=ORD-501D6C7F
+[2026-04-20T17:43:52Z] OVEN_IN slot=38 item="Chz" order=ORD-5B96E642
+[2026-04-20T17:43:55] OVEN_OUT slot=46 item="Cust" order=ORD-4C359C55
+[2026-04-20T17:44:07] OVEN_OUT slot=16 item="Pep" order=ORD-4C359C55
+[2026-04-20T17:44:13Z] OVEN_IN slot=37 item="Meat Lovers" order=ORD-5B96E642
+[2026-04-20T17:44:29] OVEN_OUT slot=49 item="Custom Pizza" order=ORD-7F3FC65C
+[2026-04-20T17:44:38Z] OVEN_IN slot=10 item="Supr" order=ORD-5B96E642
+[2026-04-20T17:44:41Z] OVEN_OUT slot=9 item="Cheese" order=ORD-7F3FC65C
+[2026-04-20T17:44:59] OVEN_OUT slot=18 item="ML" order=ORD-7F3FC65C
+[2026-04-20T17:45:02] OVEN_IN slot=17 item="Custom Pizza" order=ORD-54529708
+[2026-04-20T17:45:17Z] OVEN_IN slot=11 item="Pepperoni" order=ORD-54529708
+[2026-04-20T17:45:20Z] OVEN_OUT slot=4 item="Meat Lovers" order=ORD-E52FD57B
+[2026-04-20T17:45:33] OVEN_OUT slot=42 item="Cheese" order=ORD-E52FD57B
+[2026-04-20T17:45:36Z] OVEN_IN slot=19 item="Meat Lovers" order=ORD-DDAC700B
+[2026-04-20T17:45:51Z] OVEN_IN slot=46 item="Sausage" order=ORD-1C2960F5
+[2026-04-20T17:45:57Z] OVEN_OUT slot=25 item="Supreme" order=ORD-E52FD57B
+[2026-04-20T17:46:03Z] OVEN_IN slot=18 item="Cheese" order=ORD-1C2960F5
+[2026-04-20T17:46:18] OVEN_OUT slot=49 item="Veggie" order=ORD-E52FD57B
+[2026-04-20T17:46:22] OVEN_IN slot=16 item="Meat Lovers" order=ORD-1C2960F5
+[2026-04-20T17:46:31Z] OVEN_OUT slot=28 item="Custom Pizza" order=ORD-E52FD57B
+[2026-04-20T17:46:46Z] OVEN_IN slot=46 item="Custom Pizza" order=ORD-1C2960F5
+[2026-04-20T17:46:46Z] OVEN_OUT slot=28 item="Custom Pizza" order=ORD-908A1FEC
+[2026-04-20T17:47:01] OVEN_OUT slot=29 item="Sausage" order=ORD-908A1FEC
+[2026-04-20T17:47:04] OVEN_IN slot=46 item="Meat Lovers" order=ORD-1C2960F5
+[2026-04-20T17:47:14] OVEN_OUT slot=12 item="Cust" order=ORD-908A1FEC
+[2026-04-20T17:47:23Z] OVEN_IN slot=14 item="Custom Pizza" order=ORD-1C2960F5
+[2026-04-20T17:47:32Z] OVEN_OUT slot=25 item="Cust" order=ORD-7BAE6BF2
+[2026-04-20T17:47:38Z] OVEN_IN slot=17 item="Ssg" order=ORD-38F4CDFC
+[2026-04-20T17:47:53Z] OVEN_IN slot=18 item="Ssg" order=ORD-38F4CDFC
+[2026-04-20T17:47:59Z] OVEN_OUT slot=47 item="Custom Pizza" order=ORD-7BAE6BF2
+[2026-04-20T17:48:05Z] OVEN_IN slot=4 item="Sausage" order=ORD-38F4CDFC
+[2026-04-20T17:48:21] OVEN_IN slot=48 item="Custom Pizza" order=ORD-D6EE8160
+[2026-04-20T17:48:24Z] OVEN_OUT slot=41 item="Supreme" order=ORD-7BAE6BF2
+[2026-04-20T17:48:36Z] OVEN_IN slot=43 item="Sausage" order=ORD-95B6B805
+[2026-04-20T17:48:45Z] OVEN_OUT slot=28 item="Veggie" order=ORD-7BAE6BF2
+[2026-04-20T17:48:48] OVEN_IN slot=19 item="Cheese" order=ORD-95B6B805
+[2026-04-20T17:49:03Z] OVEN_IN slot=20 item="Sausage" order=ORD-95B6B805
+[2026-04-20T17:49:06Z] OVEN_OUT slot=9 item="Custom Pizza" order=ORD-7BAE6BF2
+[2026-04-20T17:49:15] OVEN_IN slot=21 item="Sausage" order=ORD-95B6B805
+[2026-04-20T17:49:18] OVEN_OUT slot=26 item="Cheese" order=ORD-7BAE6BF2
+[2026-04-20T17:49:28] OVEN_IN slot=50 item="Cheese" order=ORD-FB9E60E9
+[2026-04-20T17:49:37Z] OVEN_OUT slot=25 item="Meat Lovers" order=ORD-77D11F63
+[2026-04-20T17:49:49Z] OVEN_OUT slot=48 item="Cheese" order=ORD-77D11F63
+[2026-04-20T17:49:55Z] OVEN_IN slot=11 item="Supreme" order=ORD-FB9E60E9
+[2026-04-20T17:50:07] OVEN_IN slot=22 item="Cheese" order=ORD-225DC4E0
+[2026-04-20T17:50:13] OVEN_OUT slot=28 item="Veg" order=ORD-77D11F63
+[2026-04-20T17:50:28] OVEN_IN slot=46 item="Veggie" order=ORD-225DC4E0
+[2026-04-20T17:50:28Z] OVEN_OUT slot=47 item="Custom Pizza" order=ORD-77D11F63
+[2026-04-20T17:50:40] OVEN_IN slot=35 item="Sausage" order=ORD-225DC4E0
+[2026-04-20T17:50:40] OVEN_OUT slot=21 item="Custom Pizza" order=ORD-77D11F63
+[2026-04-20T17:50:56] OVEN_IN slot=50 item="Pepperoni" order=ORD-B0060A28
+[2026-04-20T17:50:59Z] OVEN_OUT slot=4 item="Custom Pizza" order=ORD-6392BF9E
+[2026-04-20T17:51:11Z] OVEN_IN slot=33 item="Sausage" order=ORD-B0060A28
+[2026-04-20T17:51:14] OVEN_OUT slot=39 item="Custom Pizza" order=ORD-5B96E642
+[2026-04-20T17:51:23Z] OVEN_IN slot=39 item="Cust" order=ORD-B0060A28
+[2026-04-20T17:51:26] OVEN_OUT slot=12 item="Pep" order=ORD-5B96E642
+[2026-04-20T17:51:41] OVEN_OUT slot=34 item="Sausage" order=ORD-5B96E642
+[2026-04-20T17:51:44Z] OVEN_IN slot=21 item="Veggie" order=ORD-B0060A28
+[2026-04-20T17:51:53] OVEN_OUT slot=27 item="Cheese" order=ORD-5B96E642
+[2026-04-20T17:51:56] OVEN_IN slot=26 item="Pepperoni" order=ORD-B0060A28
+[2026-04-20T17:52:15Z] OVEN_OUT slot=9 item="Meat Lovers" order=ORD-5B96E642
+[2026-04-20T17:52:24] OVEN_IN slot=5 item="Custom Pizza" order=ORD-B0060A28
+[2026-04-20T17:52:36Z] OVEN_IN slot=41 item="Cheese" order=ORD-F091BEAF
+[2026-04-20T17:52:39Z] OVEN_OUT slot=37 item="Supreme" order=ORD-5B96E642
+[2026-04-20T17:53:03] OVEN_IN slot=48 item="Custom Pizza" order=ORD-F091BEAF
+[2026-04-20T17:53:03] OVEN_OUT █▒█▒ERROR▒▒█▓
+[2026-04-20T17:53:18Z] OVEN_OUT slot=18 item="Pepperoni" order=ORD-54529708
+[2026-04-20T17:53:28Z] OVEN_IN slot=34 item="Supr" order=ORD-ECD8E466
+[2026-04-20T17:53:37] OVEN_OUT slot=43 item="ML" order=ORD-DDAC700B
+[2026-04-20T17:53:40Z] OVEN_IN slot=45 item="Cheese" order=ORD-ECD8E466
+[2026-04-20T17:53:52] OVEN_OUT slot=15 item="Sausage" order=ORD-1C2960F5
+[2026-04-20T17:53:55Z] OVEN_IN slot=15 item="Pep" order=ORD-ECD8E466
+[2026-04-20T17:54:04Z] OVEN_OUT slot=10 item="Cheese" order=ORD-1C2960F5
+[2026-04-20T17:54:13Z] OVEN_IN slot=22 item="Meat Lovers" order=ORD-ECD8E466
+[2026-04-20T17:54:22Z] OVEN_OUT slot=5 item="Meat Lovers" order=ORD-1C2960F5
+[2026-04-20T17:54:28Z] OVEN_IN slot=45 item="Custom Pizza" order=ORD-ECD8E466
+[2026-04-20T17:54:41] OVEN_IN slot=10 item="Cheese" order=ORD-ECD8E466
+[2026-04-20T17:54:47Z] OVEN_OUT slot=8 item="Custom Pizza" order=ORD-1C2960F5
+[2026-04-20T17:54:53] OVEN_IN slot=9 item="Pepperoni" order=ORD-286B9F4E
+[2026-04-20T17:55:05Z] OVEN_OUT slot=2 item="Meat Lovers" order=ORD-1C2960F5
+[2026-04-20T17:55:17Z] OVEN_IN slot=40 item="Veggie" order=ORD-286B9F4E
+[2026-04-20T17:55:24Z] OVEN_OUT slot=17 item="Custom Pizza" order=ORD-1C2960F5
+[2026-04-20T17:55:30Z] OVEN_IN slot=34 item="Pepperoni" order=ORD-286B9F4E
+[2026-04-20T17:55:39] OVEN_OUT slot=43 item="Ssg" order=ORD-38F4CDFC
+[2026-04-20T17:55:42Z] OVEN_IN slot=24 item="Cheese" order=ORD-286B9F4E
+[2026-04-20T17:55:54Z] OVEN_OUT slot=8 item="Sausage" order=ORD-38F4CDFC
+[2026-04-20T17:56:06Z] OVEN_OUT slot=48 item="Sausage" order=ORD-38F4CDFC
+[2026-04-20T17:56:09Z] OVEN_IN slot=1 item="Supreme" order=ORD-286B9F4E
+[2026-04-20T17:56:21] OVEN_OUT slot=38 item="Cust" order=ORD-D6EE8160
+[2026-04-20T17:56:24] OVEN_IN slot=3 item="Custom Pizza" order=ORD-286B9F4E
+[2026-04-20T17:56:37] OVEN_IN slot=48 item="Cheese" order=ORD-386E60BA
+[2026-04-20T17:56:37Z] OVEN_OUT slot=17 item="Ssg" order=ORD-95B6B805
+[2026-04-20T17:56:49Z] OVEN_OUT slot=50 item="Cheese" order=ORD-95B6B805
+[2026-04-20T17:57:04] OVEN_IN slot=32 item="Supreme" order=ORD-386E60BA
+[2026-04-20T17:57:04Z] OVEN_OUT slot=6 item="Ssg" order=ORD-95B6B805
+[2026-04-20T17:57:16] OVEN_OUT slot=34 item="Sausage" order=ORD-95B6B805
+[2026-04-20T17:57:25] OVEN_IN slot=34 item="Veggie" order=ORD-D5878881
+[2026-04-20T17:57:29Z] OVEN_OUT slot=11 item="Cheese" order=ORD-FB9E60E9
+[2026-04-20T17:57:38] OVEN_IN slot=35 item="Cheese" order=ORD-D5878881
+[2026-04-20T17:57:51Z] OVEN_IN slot=8 item="Pepperoni" order=ORD-D5878881
+[2026-04-20T17:57:57] OVEN_OUT slot=31 item="Supreme" order=ORD-FB9E60E9
+[2026-04-20T17:58:06] OVEN_IN slot=15 item="Sausage" order=ORD-D5878881
+[2026-04-20T17:58:09Z] OVEN_OUT slot=41 item="Chz" order=ORD-225DC4E0
+[2026-04-20T17:58:30Z] OVEN_OUT slot=23 item="Veggie" order=ORD-225DC4E0
+[2026-04-20T17:58:33] OVEN_IN slot=3 item="Cust" order=ORD-B2E0F585
+[2026-04-20T17:58:42] OVEN_OUT slot=23 item="Sausage" order=ORD-225DC4E0
+[2026-04-20T17:58:49Z] OVEN_IN slot=26 item="Custom Pizza" order=ORD-B2E0F585
+[2026-04-20T17:58:58] OVEN_OUT slot=10 item="Pepperoni" order=ORD-B0060A28
+[2026-04-20T17:59:07] OVEN_IN slot=45 item="Custom Pizza" order=ORD-065E7077
+[2026-04-20T17:59:13] OVEN_OUT slot=24 item="Sausage" order=ORD-B0060A28
+[2026-04-20T17:59:25Z] OVEN_OUT slot=8 item="Cust" order=ORD-B0060A28
+[2026-04-20T17:59:31] OVEN_IN slot=20 item="Custom Pizza" order=ORD-065E7077
+[2026-04-20T17:59:46Z] OVEN_OUT slot=10 item="Veggie" order=ORD-B0060A28
+[2026-04-20T17:59:52] OVEN_IN slot=41 item="Veggie" order=ORD-E7226A1B
+[2026-04-20T17:59:58Z] OVEN_OUT slot=14 item="Pepperoni" order=ORD-B0060A28
+[2026-04-20T18:00:08Z] OVEN_IN slot=35 item="Custom Pizza" order=ORD-E7226A1B
+[2026-04-20T18:00:20Z] OVEN_IN slot=45 item="Cheese" order=ORD-E7226A1B
+[2026-04-20T18:00:26Z] OVEN_OUT slot=9 item="Cust" order=ORD-B0060A28
+[2026-04-20T18:00:38Z] OVEN_OUT slot=16 item="Cheese" order=ORD-F091BEAF
+[2026-04-20T18:00:41Z] OVEN_IN slot=50 item="ML" order=ORD-E7226A1B
+[2026-04-20T18:01:06] OVEN_IN slot=8 item="Custom Pizza" order=ORD-E7226A1B
+[2026-04-20T18:01:06Z] OVEN_OUT slot=48 item="Custom Pizza" order=ORD-F091BEAF
+[2026-04-20T18:01:24Z] OVEN_IN slot=33 item="Custom Pizza" order=ORD-E7226A1B
+[2026-04-20T18:01:30] OVEN_OUT slot=35 item="Supr" order=ORD-ECD8E466
+[2026-04-20T18:01:39Z] OVEN_IN slot=42 item="Custom Pizza" order=ORD-992B835A
+[2026-04-20T18:01:42] OVEN_OUT slot=6 item="Cheese" order=ORD-ECD8E466
+[2026-04-20T18:01:54Z] OVEN_IN slot=20 item="Cust" order=ORD-992B835A
+[2026-04-20T18:01:57] OVEN_OUT slot=34 item="Pepperoni" order=ORD-ECD8E466
+[2026-04-20T18:02:07Z] OVEN_IN slot=27 item="Cheese" order=ORD-992B835A
+[2026-04-20T18:02:16] OVEN_OUT slot=21 item="ML" order=ORD-ECD8E466
+[2026-04-20T18:02:22] OVEN_IN slot=16 item="Pepperoni" order=ORD-992B835A
+[2026-04-20T18:02:31] OVEN_OUT slot=42 item="Custom Pizza" order=ORD-ECD8E466
+[2026-04-20T18:02:43Z] OVEN_OUT slot=33 item="Cheese" order=ORD-ECD8E466
+[2026-04-20T18:02:49] OVEN_IN slot=18 item="Supreme" order=ORD-992B835A
+[2026-04-20T18:02:55] OVEN_OUT slot=31 item="Pepperoni" order=ORD-286B9F4E
+[2026-04-20T18:02:58] OVEN_IN slot=6 item="Cheese" order=ORD-1F8DD903
+[2026-04-20T18:03:20] OVEN_IN slot=48 item="ML" order=ORD-1F8DD903
+[2026-04-20T18:03:20] OVEN_OUT slot=14 item="Veggie" order=ORD-286B9F4E
+[2026-04-20T18:03:32Z] OVEN_OUT slot=14 item="Pep" order=ORD-286B9F4E
+[2026-04-20T18:03:44] OVEN_OUT slot=33 item="Cheese" order=ORD-286B9F4E
+[2026-04-20T18:03:47] OVEN_IN slot=15 item="Supreme" order=ORD-CB5607F8
+[2026-04-20T18:03:59Z] OVEN_IN slot=52 item="Chz" order=ORD-CB5607F8
+[2026-04-20T18:04:11Z] OVEN_OUT slot=44 item="Supreme" order=ORD-286B9F4E
+[2026-04-20T18:04:24Z] OVEN_IN slot=40 item="Supreme" order=ORD-CB5607F8
+[2026-04-20T18:04:27Z] OVEN_OUT slot=16 item="Custom Pizza" order=ORD-286B9F4E
+[2026-04-20T18:04:39Z] OVEN_OUT slot=1 item="Cheese" order=ORD-386E60BA
+[2026-04-20T18:04:45Z] OVEN_IN slot=16 item="Veggie" order=ORD-CB5607F8
+[2026-04-20T18:05:07Z] OVEN_IN slot=6 item="Meat Lovers" order=ORD-CB5607F8
+[2026-04-20T18:05:07] OVEN_OUT slot=20 item="Supreme" order=ORD-386E60BA
+[2026-04-20T18:05:19Z] OVEN_IN slot=47 item="Cust" order=ORD-CB5607F8
+[2026-04-20T18:05:28Z] OVEN_OUT slot=48 item="Veggie" order=ORD-D5878881
+[2026-04-20T18:05:40Z] OVEN_IN slot=42 item="Veggie" order=ORD-AF37BBE7
+[2026-04-20T18:05:40] OVEN_OUT slot=42 item="Chz" order=ORD-D5878881
+[2026-04-20T18:05:52Z] OVEN_OUT slot=1 item="Pepperoni" order=ORD-D5878881
+[2026-04-20T18:06:01Z] OVEN_IN slot=15 item="Veggie" order=ORD-AF37BBE7
+[2026-04-20T18:06:07Z] OVEN_OUT slot=25 item="Sausage" order=ORD-D5878881
+[2026-04-20T18:06:20Z] OVEN_IN slot=34 item="Custom Pizza" order=ORD-AF37BBE7
+[2026-04-20T18:06:35Z] OVEN_OUT slot=46 item="Custom Pizza" order=ORD-B2E0F585
+[2026-04-20T18:06:47] OVEN_IN slot=21 item="Custom Pizza" order=ORD-38391562
+[2026-04-20T18:06:50Z] OVEN_OUT slot=32 item="Custom Pizza" order=ORD-B2E0F585
+[2026-04-20T18:07:05Z] OVEN_IN slot=9 item="Custom Pizza" order=ORD-1CAEC8A4
+[2026-04-20T18:07:08Z] OVEN_OUT slot=42 item="Custom Pizza" order=ORD-065E7077
+[2026-04-20T18:07:18Z] OVEN_IN slot=32 item="Sausage" order=ORD-283A4045
+[2026-04-20T18:07:33Z] OVEN_OUT slot=32 item="Custom Pizza" order=ORD-065E7077
+[2026-04-20T18:07:39Z] OVEN_IN slot=18 item="ML" order=ORD-283A4045
+[2026-04-20T18:07:51Z] OVEN_IN slot=28 item="Cheese" order=ORD-28277F8E
+[2026-04-20T18:07:54Z] OVEN_OUT slot=36 item="Veggie" order=ORD-E7226A1B
+[2026-04-20T18:08:06] OVEN_IN slot=52 item="Custom Pizza" order=ORD-28277F8E
+[2026-04-20T18:08:09] OVEN_OUT slot=33 item="Cust" order=ORD-E7226A1B
+[2026-04-20T18:08:22Z] OVEN_OUT slot=47 item="Cheese" order=ORD-E7226A1B
+[2026-04-20T18:08:28Z] OVEN_IN slot=22 item="Meat Lovers" order=ORD-DC3897F7
+[2026-04-20T18:08:43Z] OVEN_IN slot=43 item="Sausage" order=ORD-DC3897F7
+[2026-04-20T18:08:43] OVEN_OUT slot=36 item="ML" order=ORD-E7226A1B
+[2026-04-20T18:09:07Z] OVEN_IN slot=32 item="Custom Pizza" order=ORD-4FF04E4C
+[2026-04-20T18:09:07Z] OVEN_OUT slot=30 item="Custom Pizza" order=ORD-E7226A1B
+[2026-04-20T18:09:25Z] OVEN_OUT slot=48 item="Custom Pizza" order=ORD-E7226A1B
+[2026-04-20T18:09:29] OVEN_IN slot=5 item="Meat Lovers" order=ORD-4FF04E4C
+[2026-04-20T18:09:41Z] OVEN_OUT slot=36 item="Custom Pizza" order=ORD-992B835A
+[2026-04-20T18:09:50] OVEN_IN slot=10 item="Custom Pizza" order=ORD-4FF04E4C
+[2026-04-20T18:09:56Z] OVEN_OUT slot=35 item="Cust" order=ORD-992B835A
+[2026-04-20T18:10:08Z] OVEN_OUT slot=3 item="Cheese" order=ORD-992B835A
+[2026-04-20T18:10:17] OVEN_IN slot=27 item="Supreme" order=ORD-4FF04E4C
+[2026-04-20T18:10:23Z] OVEN_OUT slot=35 item="Pep" order=ORD-992B835A
+[2026-04-20T18:10:26Z] OVEN_IN slot=42 item="Chz" order=ORD-9D6E4B21
+[2026-04-20T18:10:39Z] OVEN_IN slot=3 item="Custom Pizza" order=ORD-9D6E4B21
+[2026-04-20T18:10:51Z] OVEN_OUT slot=43 item="Supreme" order=ORD-992B835A
+[2026-04-20T18:10:54] OVEN_IN slot=34 item="Custom Pizza" order=ORD-9D6E4B21
+[2026-04-20T18:11:00Z] OVEN_OUT slot=49 item="Cheese" order=ORD-1F8DD903
+[2026-04-20T18:11:15Z] OVEN_IN slot=13 item="Veggie" order=ORD-9D6E4B21
+[2026-04-20T18:11:21] OVEN_OUT slot=13 item="Meat Lovers" order=ORD-1F8DD903
+[2026-04-20T18:11:30Z] OVEN_IN slot=19 item="Pepperoni" order=ORD-517EE92F
+[2026-04-20T18:11:43] OVEN_IN slot=50 item="Cheese" order=ORD-517EE92F
+[2026-04-20T18:11:49] OVEN_OUT slot=21 item="Supreme" order=ORD-CB5607F8
+[2026-04-20T18:11:55] OVEN_IN slot=7 item="Sausage" order=ORD-427AD92B
+[2026-04-20T18:12:01] OVEN_OUT slot=27 item="Cheese" order=ORD-CB5607F8
+[2026-04-20T18:12:19Z] OVEN_IN slot=37 item="Veg" order=ORD-427AD92B
+[2026-04-20T18:12:25] OVEN_OUT slot=48 item="Supreme" order=ORD-CB5607F8
+[2026-04-20T18:12:31Z] OVEN_IN slot=15 item="Pepperoni" order=ORD-427AD92B
+[2026-04-20T18:12:47] OVEN_OUT slot=35 item="Veg" order=ORD-CB5607F8
+[2026-04-20T18:12:59] OVEN_IN slot=47 item="Custom Pizza" order=ORD-427AD92B
+[2026-04-20T18:13:08Z] OVEN_OUT slot=13 item="Meat Lovers" order=ORD-CB5607F8
+[2026-04-20T18:13:14Z] OVEN_IN slot=44 item="Custom Pizza" order=ORD-E636E0B4
+[2026-04-20T18:13:20] OVEN_OUT slot=46 item="Custom Pizza" order=ORD-CB5607F8
+[2026-04-20T18:13:35] OVEN_IN slot=12 item="Meat Lovers" order=ORD-E636E0B4
+[2026-04-20T18:13:41Z] OVEN_OUT slot=26 item="Veggie" order=ORD-AF37BBE7
+[2026-04-20T18:13:45Z] OVEN_IN slot=33 item="Cheese" order=ORD-E636E0B4
+[2026-04-20T18:14:03] OVEN_OUT slot=48 item="Veggie" order=ORD-AF37BBE7
+[2026-04-20T18:14:09Z] OVEN_IN slot=30 item="Custom Pizza" order=ORD-E636E0B4
+[2026-04-20T18:14:21] OVEN_OUT slot=43 item="Custom Pizza" order=ORD-AF37BBE7
+[2026-04-20T18:14:33Z] OVEN_IN slot=42 item="Veg" order=ORD-E636E0B4
+[2026-04-20T18:14:49Z] OVEN_OUT slot=8 item="Custom Pizza" order=ORD-38391562
+[2026-04-20T18:14:52Z] OVEN_IN slot=40 item="Custom Pizza" order=ORD-E636E0B4
+[2026-04-20T18:15:07Z] OVEN_OUT slot=24 item="Custom Pizza" order=ORD-1CAEC8A4
+[2026-04-20T18:15:13] OVEN_IN slot=20 item="Meat Lovers" order=ORD-897D792C
+[2026-04-20T18:15:19Z] OVEN_OUT slot=24 item="Sausage" order=ORD-283A4045
+[2026-04-20T18:15:34] OVEN_IN slot=7 item="Veg" order=ORD-897D792C
+[2026-04-20T18:15:41Z] OVEN_OUT slot=22 item="Meat Lovers" order=ORD-283A4045
+[2026-04-20T18:15:47Z] OVEN_IN slot=27 item="Sausage" order=ORD-897D792C
+[2026-04-20T18:15:53] OVEN_OUT slot=46 item="Cheese" order=ORD-28277F8E
+[2026-04-20T18:16:02] OVEN_IN slot=31 item="Sausage" order=ORD-897D792C
+[2026-04-20T18:16:08Z] OVEN_OUT slot=30 item="Custom Pizza" order=ORD-28277F8E
+[2026-04-20T18:16:15Z] OVEN_IN slot=45 item="Custom Pizza" order=ORD-897D792C
+[2026-04-20T18:16:27Z] OVEN_IN slot=41 item="Pepperoni" order=ORD-BB79FE76
+[2026-04-20T18:16:30Z] OVEN_OUT slot=13 item="Meat Lovers" order=ORD-DC3897F7
+[2026-04-20T18:16:45Z] OVEN_IN slot=34 item="Custom Pizza" order=ORD-BB79FE76
+[2026-04-20T18:16:45] OVEN_OUT slot=37 item="Ssg" order=ORD-DC3897F7
+[2026-04-20T18:17:00] OVEN_IN slot=41 item="Cust" order=ORD-BB79FE76
+[2026-04-20T18:17:10] OVEN_OUT slot=19 item="Cust" order=ORD-4FF04E4C
+[2026-04-20T18:17:16] OVEN_IN slot=40 item="Ssg" order=ORD-BB79FE76
+[2026-04-20T18:17:28Z] OVEN_IN slot=28 item="Cheese" order=ORD-BB79FE76
+[2026-04-20T18:17:31Z] OVEN_OUT ▒█░░ERROR▓█▒░
+[2026-04-20T18:17:43] OVEN_IN slot=16 item="Pepperoni" order=ORD-5875F0EB
+[2026-04-20T18:17:52Z] OVEN_OUT slot=6 item="Custom Pizza" order=ORD-4FF04E4C
+[2026-04-20T18:17:55Z] OVEN_IN slot=50 item="Pepperoni" order=ORD-5875F0EB
+[2026-04-20T18:18:11] OVEN_IN slot=43 item="Pepperoni" order=ORD-28DA4479
+[2026-04-20T18:18:20Z] OVEN_OUT slot=25 item="Supreme" order=ORD-4FF04E4C
+[2026-04-20T18:18:23] OVEN_IN slot=47 item="Pep" order=ORD-28DA4479
+[2026-04-20T18:18:29] OVEN_OUT slot=39 item="Cheese" order=ORD-9D6E4B21
+[2026-04-20T18:18:38] OVEN_IN slot=33 item="Sausage" order=ORD-28DA4479
+[2026-04-20T18:18:41Z] OVEN_OUT slot=7 item="Custom Pizza" order=ORD-9D6E4B21
+[2026-04-20T18:18:57] OVEN_OUT slot=42 item="Cust" order=ORD-9D6E4B21
+[2026-04-20T18:19:03] OVEN_IN slot=20 item="Supreme" order=ORD-28DA4479
+[2026-04-20T18:19:18Z] OVEN_OUT slot=25 item="Veg" order=ORD-9D6E4B21
+[2026-04-20T18:19:21Z] OVEN_IN slot=9 item="Custom Pizza" order=ORD-28DA4479
+[2026-04-20T18:19:33] OVEN_OUT slot=28 item="Pepperoni" order=ORD-517EE92F
+[2026-04-20T18:19:45] OVEN_IN slot=44 item="Cust" order=ORD-28DA4479
+[2026-04-20T18:19:45Z] OVEN_OUT slot=6 item="Cheese" order=ORD-517EE92F
+[2026-04-20T18:19:57Z] OVEN_OUT slot=37 item="Sausage" order=ORD-427AD92B
+[2026-04-20T18:20:13] OVEN_IN slot=49 item="Supreme" order=ORD-958EACA7
+[2026-04-20T18:20:22Z] OVEN_OUT slot=2 item="Veggie" order=ORD-427AD92B
+[2026-04-20T18:20:25Z] OVEN_IN slot=49 item="Sausage" order=ORD-958EACA7
+[2026-04-20T18:20:34] OVEN_OUT slot=6 item="Pepperoni" order=ORD-427AD92B
+[2026-04-20T18:20:40Z] OVEN_IN slot=21 item="Pepperoni" order=ORD-E2AEF415
+[2026-04-20T18:20:52] OVEN_IN slot=48 item="Cheese" order=ORD-E2AEF415
+[2026-04-20T18:21:01] OVEN_OUT slot=10 item="Custom Pizza" order=ORD-427AD92B
+[2026-04-20T18:21:17Z] OVEN_IN slot=12 item="Custom Pizza" order=ORD-E2AEF415
+[2026-04-20T18:21:17Z] OVEN_OUT slot=8 item="Custom Pizza" order=ORD-E636E0B4
+[2026-04-20T18:21:29Z] OVEN_IN slot=9 item="Custom Pizza" order=ORD-E2AEF415
+[2026-04-20T18:21:38Z] OVEN_OUT slot=8 item="Meat Lovers" order=ORD-E636E0B4
+[2026-04-20T18:21:41Z] OVEN_IN slot=9 item="Custom Pizza" order=ORD-29606200
+[2026-04-20T18:21:47Z] OVEN_OUT slot=9 item="Cheese" order=ORD-E636E0B4
+[2026-04-20T18:22:02Z] OVEN_IN slot=10 item="Custom Pizza" order=ORD-29606200
+[2026-04-20T18:22:12Z] OVEN_OUT slot=1 item="Cust" order=ORD-E636E0B4
+[2026-04-20T18:22:15Z] OVEN_IN slot=42 item="Chz" order=ORD-29606200
+[2026-04-20T18:22:27Z] OVEN_IN slot=44 item="Cheese" order=ORD-29606200
+[2026-04-20T18:22:36Z] OVEN_OUT slot=1 item="Veggie" order=ORD-E636E0B4
+[2026-04-20T18:22:39Z] OVEN_IN slot=9 item="Cheese" order=ORD-9313399C
+[2026-04-20T18:22:54Z] OVEN_OUT slot=12 item="Cust" order=ORD-E636E0B4
+[2026-04-20T18:23:03] OVEN_IN slot=5 item="Supreme" order=ORD-61FCBC45
+[2026-04-20T18:23:16] OVEN_OUT slot=36 item="ML" order=ORD-897D792C
+[2026-04-20T18:23:25Z] OVEN_IN slot=15 item="Veggie" order=ORD-61FCBC45
+[2026-04-20T18:23:37] OVEN_IN slot=48 item="Chz" order=ORD-61FCBC45
+[2026-04-20T18:23:37Z] OVEN_OUT slot=45 item="Veggie" order=ORD-897D792C
+[2026-04-20T18:23:49] OVEN_IN slot=8 item="Cheese" order=ORD-61FCBC45
+[2026-04-20T18:23:49Z] OVEN_OUT slot=43 item="Sausage" order=ORD-897D792C
+[2026-04-20T18:24:04Z] OVEN_IN slot=50 item="Pepperoni" order=ORD-61FCBC45
+[2026-04-20T18:24:04] OVEN_OUT slot=7 item="Sausage" order=ORD-897D792C
+[2026-04-20T18:24:17] OVEN_OUT slot=3 item="Cust" order=ORD-897D792C
+[2026-04-20T18:24:23Z] OVEN_IN slot=45 item="ML" order=ORD-61FCBC45
+[2026-04-20T18:24:29Z] OVEN_OUT slot=27 item="Pep" order=ORD-BB79FE76
+[2026-04-20T18:24:38Z] OVEN_IN slot=23 item="Sausage" order=ORD-44B187E3
+[2026-04-20T18:24:47Z] OVEN_OUT slot=32 item="Custom Pizza" order=ORD-BB79FE76
+[2026-04-20T18:24:59] OVEN_IN slot=34 item="Meat Lovers" order=ORD-44B187E3
+[2026-04-20T18:25:02Z] OVEN_OUT slot=46 item="Custom Pizza" order=ORD-BB79FE76
+[2026-04-20T18:25:11Z] OVEN_IN slot=38 item="Cheese" order=ORD-44B187E3
+[2026-04-20T18:25:17Z] OVEN_OUT slot=14 item="Sausage" order=ORD-BB79FE76
+[2026-04-20T18:25:30Z] OVEN_OUT slot=40 item="Cheese" order=ORD-BB79FE76
+[2026-04-20T18:25:36] OVEN_IN slot=45 item="Supreme" order=ORD-44B187E3
+[2026-04-20T18:25:45Z] OVEN_OUT slot=50 item="Pepperoni" order=ORD-5875F0EB
+[2026-04-20T18:25:48] OVEN_IN slot=17 item="Custom Pizza" order=ORD-44B187E3
+[2026-04-20T18:25:57Z] OVEN_OUT slot=44 item="Pepperoni" order=ORD-5875F0EB
+[2026-04-20T18:26:09Z] OVEN_IN slot=42 item="Meat Lovers" order=ORD-44B187E3
+[2026-04-20T18:26:12Z] OVEN_OUT slot=50 item="Pepperoni" order=ORD-28DA4479
+[2026-04-20T18:26:21Z] OVEN_IN slot=28 item="Custom Pizza" order=ORD-56D806D4
+[2026-04-20T18:26:25Z] OVEN_OUT slot=15 item="Pepperoni" order=ORD-28DA4479
+[2026-04-20T18:26:37] OVEN_IN slot=15 item="Custom Pizza" order=ORD-56D806D4
+[2026-04-20T18:26:40] OVEN_OUT slot=16 item="Sausage" order=ORD-28DA4479
+[2026-04-20T18:26:58] OVEN_IN slot=30 item="Custom Pizza" order=ORD-56D806D4
+[2026-04-20T18:27:04] OVEN_OUT slot=46 item="Supreme" order=ORD-28DA4479
+[2026-04-20T18:27:10Z] OVEN_IN slot=15 item="Chz" order=ORD-56D806D4
+[2026-04-20T18:27:22Z] OVEN_OUT slot=18 item="Custom Pizza" order=ORD-28DA4479
+[2026-04-20T18:27:35] OVEN_IN slot=11 item="Supreme" order=ORD-56D806D4
+[2026-04-20T18:27:47] OVEN_IN slot=15 item="Cheese" order=ORD-9AB835F2
+[2026-04-20T18:27:47] OVEN_OUT slot=2 item="Custom Pizza" order=ORD-28DA4479
+[2026-04-20T18:28:08] OVEN_IN slot=17 item="Custom Pizza" order=ORD-9AB835F2
+[2026-04-20T18:28:14Z] OVEN_OUT slot=20 item="Supr" order=ORD-958EACA7
+[2026-04-20T18:28:23Z] OVEN_IN slot=5 item="Sausage" order=ORD-9AB835F2
+[2026-04-20T18:28:26] OVEN_OUT slot=46 item="Sausage" order=ORD-958EACA7
+[2026-04-20T18:28:42Z] OVEN_IN slot=29 item="Meat Lovers" order=ORD-97CFF6E3
+[2026-04-20T18:28:42Z] OVEN_OUT slot=1 item="Pepperoni" order=ORD-E2AEF415
+[2026-04-20T18:28:54Z] OVEN_OUT slot=33 item="Chz" order=ORD-E2AEF415
+[2026-04-20T18:29:03] OVEN_IN slot=24 item="ML" order=ORD-97CFF6E3
+[2026-04-20T18:29:15Z] OVEN_IN slot=24 item="Sausage" order=ORD-97CFF6E3
+[2026-04-20T18:29:18Z] OVEN_OUT slot=10 item="Custom Pizza" order=ORD-E2AEF415
+[2026-04-20T18:29:28Z] OVEN_IN slot=36 item="Cheese" order=ORD-F9A42FA8
+[2026-04-20T18:29:31Z] OVEN_OUT slot=29 item="Custom Pizza" order=ORD-E2AEF415
+[2026-04-20T18:29:43] OVEN_OUT slot=32 item="Custom Pizza" order=ORD-29606200
+[2026-04-20T18:29:55Z] OVEN_IN slot=7 item="Custom Pizza" order=ORD-F9A42FA8
+[2026-04-20T18:30:04] OVEN_OUT slot=8 item="Custom Pizza" order=ORD-29606200
+[2026-04-20T18:30:07Z] OVEN_IN slot=2 item="Sausage" order=ORD-031A1AF5
+[2026-04-20T18:30:16Z] OVEN_OUT slot=30 item="Cheese" order=ORD-29606200
+[2026-04-20T18:30:29Z] OVEN_IN slot=29 item="Meat Lovers" order=ORD-031A1AF5
+[2026-04-20T18:30:29] OVEN_OUT slot=46 item="Cheese" order=ORD-29606200
+[2026-04-20T18:30:41] OVEN_IN slot=50 item="Pep" order=ORD-267BEB55
+[2026-04-20T18:30:41] OVEN_OUT slot=36 item="Cheese" order=ORD-9313399C
+[2026-04-20T18:31:05] OVEN_IN slot=20 item="Veggie" order=ORD-267BEB55
+[2026-04-20T18:31:05] OVEN_OUT slot=9 item="Supreme" order=ORD-61FCBC45
+[2026-04-20T18:31:14] OVEN_IN slot=18 item="Cust" order=ORD-267BEB55
+[2026-04-20T18:31:27Z] OVEN_OUT slot=42 item="Veggie" order=ORD-61FCBC45
+[2026-04-20T18:31:30] OVEN_IN slot=12 item="Ssg" order=ORD-C0302D71
+[2026-04-20T18:31:39Z] OVEN_OUT slot=27 item="Cheese" order=ORD-61FCBC45
+[2026-04-20T18:31:45] OVEN_IN slot=31 item="Pepperoni" order=ORD-349D592E
+[2026-04-20T18:31:51] OVEN_OUT slot=6 item="Cheese" order=ORD-61FCBC45
+[2026-04-20T18:31:57Z] OVEN_IN slot=53 item="Pepperoni" order=ORD-349D592E
+[2026-04-20T18:32:06] OVEN_OUT slot=33 item="Pepperoni" order=ORD-61FCBC45
+[2026-04-20T18:32:12Z] OVEN_IN slot=28 item="Pepperoni" order=ORD-349D592E
+[2026-04-20T18:32:25] OVEN_OUT slot=35 item="Meat Lovers" order=ORD-61FCBC45
+[2026-04-20T18:32:34Z] OVEN_IN slot=24 item="Custom Pizza" order=ORD-349D592E
+[2026-04-20T18:32:40Z] OVEN_OUT slot=37 item="Sausage" order=ORD-44B187E3
+[2026-04-20T18:32:55Z] OVEN_IN slot=1 item="Veggie" order=ORD-349D592E
+[2026-04-20T18:33:01] OVEN_OUT slot=25 item="Meat Lovers" order=ORD-44B187E3
+[2026-04-20T18:33:13] OVEN_IN slot=49 item="Cust" order=ORD-0365A42E
+[2026-04-20T18:33:13Z] OVEN_OUT slot=6 item="Cheese" order=ORD-44B187E3
+[2026-04-20T18:33:29Z] OVEN_IN slot=32 item="Cust" order=ORD-0365A42E
+[2026-04-20T18:33:38Z] OVEN_OUT slot=19 item="Supreme" order=ORD-44B187E3
+[2026-04-20T18:33:47Z] OVEN_IN slot=22 item="ML" order=ORD-0365A42E
+[2026-04-20T18:33:50] OVEN_OUT slot=45 item="Custom Pizza" order=ORD-44B187E3
+[2026-04-20T18:34:08] OVEN_IN slot=46 item="Meat Lovers" order=ORD-8030B4FE
+[2026-04-20T18:34:11] OVEN_OUT slot=38 item="Meat Lovers" order=ORD-44B187E3
+[2026-04-20T18:34:24Z] OVEN_OUT slot=41 item="Custom Pizza" order=ORD-56D806D4
+[2026-04-20T18:34:33] OVEN_IN slot=38 item="Cust" order=ORD-E89E7680
+[2026-04-20T18:34:39] OVEN_OUT slot=39 item="Cust" order=ORD-56D806D4
+[2026-04-20T18:34:45Z] OVEN_IN slot=4 item="Custom Pizza" order=ORD-E89E7680
+[2026-04-20T18:35:00Z] OVEN_OUT slot=10 item="Custom Pizza" order=ORD-56D806D4
+[2026-04-20T18:35:03Z] OVEN_IN slot=48 item="Meat Lovers" order=ORD-E89E7680
+[2026-04-20T18:35:13Z] OVEN_OUT slot=26 item="Cheese" order=ORD-56D806D4
+[2026-04-20T18:35:25] OVEN_IN slot=49 item="Custom Pizza" order=ORD-1E2E38B1
+[2026-04-20T18:35:37] OVEN_OUT slot=6 item="Supreme" order=ORD-56D806D4
+[2026-04-20T18:35:40Z] OVEN_IN slot=19 item="Custom Pizza" order=ORD-1E2E38B1
+[2026-04-20T18:35:49Z] OVEN_OUT slot=18 item="Cheese" order=ORD-9AB835F2
+[2026-04-20T18:35:52Z] OVEN_IN slot=9 item="Cheese" order=ORD-1E2E38B1
+[2026-04-20T18:36:10Z] OVEN_OUT slot=36 item="Custom Pizza" order=ORD-9AB835F2
+[2026-04-20T18:36:13] OVEN_IN slot=42 item="Custom Pizza" order=ORD-1E2E38B1
+[2026-04-20T18:36:26Z] OVEN_OUT slot=21 item="Ssg" order=ORD-9AB835F2
+[2026-04-20T18:36:35] OVEN_IN slot=13 item="Meat Lovers" order=ORD-1E2E38B1
+[2026-04-20T18:36:44] OVEN_OUT slot=18 item="Meat Lovers" order=ORD-97CFF6E3
+[2026-04-20T18:36:59Z] OVEN_IN slot=2 item="Supreme" order=ORD-1E2E38B1
+[2026-04-20T18:37:05Z] OVEN_OUT slot=50 item="Meat Lovers" order=ORD-97CFF6E3
+[2026-04-20T18:37:11Z] OVEN_IN slot=44 item="Cheese" order=ORD-453837E7
+[2026-04-20T18:37:17Z] OVEN_OUT slot=16 item="Sausage" order=ORD-97CFF6E3
+[2026-04-20T18:37:26] OVEN_IN slot=40 item="Sausage" order=ORD-453837E7
+[2026-04-20T18:37:30] OVEN_OUT slot=18 item="Cheese" order=ORD-F9A42FA8
+[2026-04-20T18:37:51Z] OVEN_IN slot=44 item="Supr" order=ORD-453837E7
+[2026-04-20T18:37:57] OVEN_OUT slot=33 item="Cust" order=ORD-F9A42FA8
+[2026-04-20T18:38:06Z] OVEN_IN slot=41 item="Custom Pizza" order=ORD-453837E7
+[2026-04-20T18:38:09] OVEN_OUT slot=24 item="Sausage" order=ORD-031A1AF5
+[2026-04-20T18:38:18] OVEN_IN slot=28 item="Chz" order=ORD-453837E7
+[2026-04-20T18:38:30Z] OVEN_IN slot=44 item="Sausage" order=ORD-453837E7
+[2026-04-20T18:38:30Z] OVEN_OUT slot=44 item="Meat Lovers" order=ORD-031A1AF5
+[2026-04-20T18:38:43Z] OVEN_OUT slot=19 item="Pepperoni" order=ORD-267BEB55
+[2026-04-20T18:38:55Z] OVEN_IN slot=46 item="Veggie" order=ORD-2FBAE6B7
+[2026-04-20T18:39:07Z] OVEN_OUT slot=15 item="Veggie" order=ORD-267BEB55
+[2026-04-20T18:39:16Z] OVEN_IN slot=24 item="Custom Pizza" order=ORD-2FBAE6B7
+[2026-04-20T18:39:16Z] OVEN_OUT slot=1 item="Cust" order=ORD-267BEB55
+[2026-04-20T18:39:31Z] OVEN_OUT slot=5 item="Sausage" order=ORD-C0302D71
+[2026-04-20T18:39:37] OVEN_IN slot=39 item="Meat Lovers" order=ORD-2FBAE6B7
+[2026-04-20T18:39:47] OVEN_OUT slot=3 item="Pepperoni" order=ORD-349D592E
+[2026-04-20T18:39:59Z] OVEN_OUT slot=50 item="Pepperoni" order=ORD-349D592E
+[2026-04-20T18:40:02] OVEN_IN slot=17 item="Supreme" order=ORD-2FBAE6B7
+[2026-04-20T18:40:14Z] OVEN_OUT slot=43 item="Pepperoni" order=ORD-349D592E
+[2026-04-20T18:40:17] OVEN_IN slot=14 item="Sausage" order=ORD-2FBAE6B7
+[2026-04-20T18:40:35Z] OVEN_IN slot=35 item="Meat Lovers" order=ORD-2FBAE6B7
+[2026-04-20T18:40:35Z] OVEN_OUT slot=1 item="Custom Pizza" order=ORD-349D592E
+[2026-04-20T18:40:57Z] OVEN_IN slot=31 item="Veggie" order=ORD-16A0ADDF
+[2026-04-20T18:40:57] OVEN_OUT slot=22 item="Veg" order=ORD-349D592E
+[2026-04-20T18:41:15Z] OVEN_OUT slot=6 item="Custom Pizza" order=ORD-0365A42E
+[2026-04-20T18:41:24Z] OVEN_IN slot=7 item="Supreme" order=ORD-16A0ADDF
+[2026-04-20T18:41:30Z] OVEN_OUT slot=34 item="Custom Pizza" order=ORD-0365A42E
+[2026-04-20T18:41:43Z] OVEN_IN slot=17 item="Meat Lovers" order=ORD-264EF520
+[2026-04-20T18:41:49] OVEN_OUT slot=35 item="Meat Lovers" order=ORD-0365A42E
+[2026-04-20T18:42:10Z] OVEN_IN slot=43 item="Supreme" order=ORD-264EF520
+[2026-04-20T18:42:10Z] OVEN_OUT slot=22 item="Meat Lovers" order=ORD-8030B4FE
+[2026-04-20T18:42:28] OVEN_IN slot=15 item="Meat Lovers" order=ORD-264EF520
+[2026-04-20T18:42:35] OVEN_OUT slot=20 item="Custom Pizza" order=ORD-E89E7680
+[2026-04-20T18:42:41] OVEN_IN slot=40 item="Cheese" order=ORD-264EF520
+[2026-04-20T18:42:47Z] OVEN_OUT slot=16 item="Custom Pizza" order=ORD-E89E7680
+[2026-04-20T18:43:02Z] OVEN_IN slot=23 item="Meat Lovers" order=ORD-244BBD3E
+[2026-04-20T18:43:05] OVEN_OUT slot=12 item="Meat Lovers" order=ORD-E89E7680
+[2026-04-20T18:43:26Z] OVEN_OUT slot=42 item="Custom Pizza" order=ORD-1E2E38B1
+[2026-04-20T18:43:29] OVEN_IN slot=38 item="Supreme" order=ORD-F13BCB0D
+[2026-04-20T18:43:42Z] OVEN_OUT slot=35 item="Custom Pizza" order=ORD-1E2E38B1
+[2026-04-20T18:43:45Z] OVEN_IN slot=6 item="Custom Pizza" order=ORD-F13BCB0D
+[2026-04-20T18:43:54Z] OVEN_OUT slot=40 item="Chz" order=ORD-1E2E38B1
+[2026-04-20T18:43:57Z] OVEN_IN slot=14 item="Chz" order=ORD-F13BCB0D
+[2026-04-20T18:44:16Z] OVEN_OUT slot=19 item="Custom Pizza" order=ORD-1E2E38B1
+[2026-04-20T18:44:19Z] OVEN_IN slot=31 item="Veggie" order=ORD-F13BCB0D
+[2026-04-20T18:44:37Z] OVEN_IN slot=19 item="Custom Pizza" order=ORD-F13BCB0D
+[2026-04-20T18:44:37Z] OVEN_OUT slot=25 item="Meat Lovers" order=ORD-1E2E38B1
+[2026-04-20T18:44:58Z] OVEN_IN slot=29 item="Veggie" order=ORD-F13BCB0D
+[2026-04-20T18:45:01Z] OVEN_OUT slot=35 item="Supreme" order=ORD-1E2E38B1
+[2026-04-20T18:45:10Z] OVEN_IN █░░▓ERROR▓▓▓░
+[2026-04-20T18:45:13Z] OVEN_OUT slot=16 item="Chz" order=ORD-453837E7
+[2026-04-20T18:45:23] OVEN_IN slot=22 item="Cheese" order=ORD-AAC3B590
+[2026-04-20T18:45:29] OVEN_OUT slot=45 item="Ssg" order=ORD-453837E7
+[2026-04-20T18:45:50Z] OVEN_IN slot=16 item="Supreme" order=ORD-AAC3B590
+[2026-04-20T18:45:53] OVEN_OUT slot=15 item="Supr" order=ORD-453837E7
+[2026-04-20T18:46:05Z] OVEN_IN slot=51 item="Pepperoni" order=ORD-AAC3B590
+[2026-04-20T18:46:08] OVEN_OUT slot=31 item="Custom Pizza" order=ORD-453837E7
+[2026-04-20T18:46:17Z] OVEN_IN slot=38 item="Sausage" order=ORD-BE3AF3F8
+[2026-04-20T18:46:20Z] OVEN_OUT slot=13 item="Cheese" order=ORD-453837E7
+[2026-04-20T18:46:33] OVEN_OUT slot=5 item="Ssg" order=ORD-453837E7
+[2026-04-20T18:46:45Z] OVEN_IN slot=48 item="Supr" order=ORD-BE3AF3F8
+[2026-04-20T18:46:57] OVEN_OUT slot=35 item="Veggie" order=ORD-2FBAE6B7
+[2026-04-20T18:47:03] OVEN_IN slot=38 item="ML" order=ORD-BE3AF3F8
+[2026-04-20T18:47:18Z] OVEN_OUT slot=27 item="Custom Pizza" order=ORD-2FBAE6B7
+[2026-04-20T18:47:21] OVEN_IN slot=42 item="Custom Pizza" order=ORD-BE3AF3F8
+[2026-04-20T18:47:40Z] OVEN_IN slot=23 item="Custom Pizza" order=ORD-B8C2C793
+[2026-04-20T18:47:40Z] OVEN_OUT slot=40 item="Meat Lovers" order=ORD-2FBAE6B7
+[2026-04-20T18:47:55] OVEN_IN slot=40 item="Sausage" order=ORD-B8C2C793
+[2026-04-20T18:48:04Z] OVEN_OUT slot=2 item="Supr" order=ORD-2FBAE6B7
+[2026-04-20T18:48:16Z] OVEN_IN slot=19 item="Custom Pizza" order=ORD-B8C2C793
+[2026-04-20T18:48:19Z] OVEN_OUT slot=12 item="Sausage" order=ORD-2FBAE6B7
+[2026-04-20T18:48:28Z] OVEN_IN slot=12 item="Cheese" order=ORD-B8C2C793
+[2026-04-20T18:48:37] OVEN_OUT slot=43 item="Meat Lovers" order=ORD-2FBAE6B7
+[2026-04-20T18:48:43Z] OVEN_IN slot=26 item="Pepperoni" order=ORD-B8C2C793
+[2026-04-20T18:48:59] OVEN_OUT slot=29 item="Veggie" order=ORD-16A0ADDF
+[2026-04-20T18:49:02Z] OVEN_IN ░▓░█ERROR▓▒▓▓
+[2026-04-20T18:49:26Z] OVEN_OUT slot=30 item="Supreme" order=ORD-16A0ADDF
+[2026-04-20T18:49:29Z] OVEN_IN slot=46 item="Custom Pizza" order=ORD-CDB4BC8C
+[2026-04-20T18:49:38] OVEN_IN slot=15 item="Cust" order=ORD-CDB4BC8C
+[2026-04-20T18:49:44Z] OVEN_OUT slot=40 item="Meat Lovers" order=ORD-264EF520
+[2026-04-20T18:49:54Z] OVEN_IN slot=9 item="Custom Pizza" order=ORD-CDB4BC8C
+[2026-04-20T18:50:12Z] OVEN_OUT slot=29 item="Supreme" order=ORD-264EF520
+[2026-04-20T18:50:15Z] OVEN_IN slot=42 item="ML" order=ORD-CDB4BC8C
+[2026-04-20T18:50:30] OVEN_OUT slot=40 item="Meat Lovers" order=ORD-264EF520
+[2026-04-20T18:50:39Z] OVEN_IN slot=19 item="Supreme" order=ORD-2775BABE
+[2026-04-20T18:50:42Z] OVEN_OUT slot=8 item="Chz" order=ORD-264EF520
+[2026-04-20T18:51:04] OVEN_OUT slot=45 item="ML" order=ORD-244BBD3E
+[2026-04-20T18:51:07] OVEN_IN slot=4 item="Supr" order=ORD-554BD2D1
+[2026-04-20T18:51:31Z] OVEN_IN slot=28 item="Custom Pizza" order=ORD-554BD2D1
+[2026-04-20T18:51:31Z] OVEN_OUT slot=6 item="Supreme" order=ORD-F13BCB0D
+[2026-04-20T18:51:47Z] OVEN_OUT slot=50 item="Custom Pizza" order=ORD-F13BCB0D
+[2026-04-20T18:51:50Z] OVEN_IN slot=48 item="Custom Pizza" order=ORD-554BD2D1
+[2026-04-20T18:51:59Z] OVEN_OUT slot=29 item="Cheese" order=ORD-F13BCB0D
+[2026-04-20T18:52:11] OVEN_IN slot=1 item="Custom Pizza" order=ORD-554BD2D1
+[2026-04-20T18:52:20Z] OVEN_OUT slot=35 item="Veggie" order=ORD-F13BCB0D
+[2026-04-20T18:52:35Z] OVEN_IN slot=30 item="Veggie" order=ORD-554BD2D1
+[2026-04-20T18:52:38] OVEN_OUT slot=38 item="Custom Pizza" order=ORD-F13BCB0D
+[2026-04-20T18:52:57Z] OVEN_IN slot=11 item="Veggie" order=ORD-554BD2D1
+[2026-04-20T18:53:00] OVEN_OUT slot=10 item="Veg" order=ORD-F13BCB0D
+[2026-04-20T18:53:09Z] OVEN_IN slot=13 item="Pepperoni" order=ORD-44A40567
+[2026-04-20T18:53:12] OVEN_OUT slot=23 item="Custom Pizza" order=ORD-AAC3B590
+[2026-04-20T18:53:24Z] OVEN_IN slot=48 item="Custom Pizza" order=ORD-44A40567
+[2026-04-20T18:53:24Z] OVEN_OUT slot=17 item="Cheese" order=ORD-AAC3B590
+[2026-04-20T18:53:45Z] OVEN_IN slot=36 item="Meat Lovers" order=ORD-44A40567
+[2026-04-20T18:53:51Z] OVEN_OUT slot=39 item="Supreme" order=ORD-AAC3B590
+[2026-04-20T18:54:07Z] OVEN_IN slot=20 item="Veggie" order=ORD-50F4362F
+[2026-04-20T18:54:07] OVEN_OUT slot=44 item="Pepperoni" order=ORD-AAC3B590
+[2026-04-20T18:54:19Z] OVEN_IN slot=43 item="Cheese" order=ORD-C21F0654
+[2026-04-20T18:54:19] OVEN_OUT slot=32 item="Sausage" order=ORD-BE3AF3F8
+[2026-04-20T18:54:40] OVEN_IN slot=5 item="Veggie" order=ORD-C21F0654
+[2026-04-20T18:54:46] OVEN_OUT slot=50 item="Supreme" order=ORD-BE3AF3F8
+[2026-04-20T18:54:53Z] OVEN_IN slot=5 item="Custom Pizza" order=ORD-75467306
+[2026-04-20T18:55:05Z] OVEN_IN slot=36 item="Pepperoni" order=ORD-75467306
+[2026-04-20T18:55:05Z] OVEN_OUT slot=25 item="Meat Lovers" order=ORD-BE3AF3F8
+[2026-04-20T18:55:17] OVEN_IN slot=14 item="Custom Pizza" order=ORD-75467306
+[2026-04-20T18:55:23] OVEN_OUT slot=32 item="Cust" order=ORD-BE3AF3F8
+[2026-04-20T18:55:38Z] OVEN_IN slot=9 item="Meat Lovers" order=ORD-75467306
+[2026-04-20T18:55:41Z] OVEN_OUT slot=29 item="Cust" order=ORD-B8C2C793
+[2026-04-20T18:55:51Z] OVEN_IN slot=47 item="Pepperoni" order=ORD-75467306
+[2026-04-20T18:55:57] OVEN_OUT slot=43 item="Ssg" order=ORD-B8C2C793
+[2026-04-20T18:56:06Z] OVEN_IN slot=39 item="Sausage" order=ORD-3ABC6434
+[2026-04-20T18:56:18] OVEN_OUT slot=20 item="Custom Pizza" order=ORD-B8C2C793
+[2026-04-20T18:56:25] OVEN_IN slot=33 item="Custom Pizza" order=ORD-F2391DA8
+[2026-04-20T18:56:31Z] OVEN_OUT slot=30 item="Cheese" order=ORD-B8C2C793
+[2026-04-20T18:56:37Z] OVEN_IN slot=47 item="Sausage" order=ORD-F2391DA8
+[2026-04-20T18:56:46Z] OVEN_OUT slot=37 item="Pepperoni" order=ORD-B8C2C793
+[2026-04-20T18:56:49] OVEN_IN slot=45 item="Cheese" order=ORD-F2391DA8
+[2026-04-20T18:57:04Z] OVEN_OUT slot=24 item="Meat Lovers" order=ORD-CDB4BC8C
+[2026-04-20T18:57:07Z] OVEN_IN slot=21 item="Cust" order=ORD-F2391DA8
+[2026-04-20T18:57:29Z] OVEN_IN slot=45 item="Cust" order=ORD-F2391DA8
+[2026-04-20T18:57:32Z] OVEN_OUT slot=44 item="Custom Pizza" order=ORD-CDB4BC8C
+[2026-04-20T18:57:41Z] OVEN_IN slot=39 item="Custom Pizza" order=ORD-F2391DA8
+[2026-04-20T18:57:41Z] OVEN_OUT slot=26 item="Custom Pizza" order=ORD-CDB4BC8C
+[2026-04-20T18:57:56Z] OVEN_IN slot=11 item="Cust" order=ORD-2CB68329
+[2026-04-20T18:57:56Z] OVEN_OUT slot=41 item="Custom Pizza" order=ORD-CDB4BC8C
+[2026-04-20T18:58:08Z] OVEN_IN slot=42 item="Custom Pizza" order=ORD-2CB68329
+[2026-04-20T18:58:17] OVEN_OUT slot=39 item="Meat Lovers" order=ORD-CDB4BC8C
+[2026-04-20T18:58:30Z] OVEN_IN slot=3 item="Veggie" order=ORD-2CB68329
+[2026-04-20T18:58:42] OVEN_OUT slot=20 item="Supr" order=ORD-2775BABE
+[2026-04-20T18:58:51] OVEN_IN slot=37 item="Custom Pizza" order=ORD-28EABE34
+[2026-04-20T18:59:09] OVEN_OUT slot=45 item="Supreme" order=ORD-554BD2D1
+[2026-04-20T18:59:12] OVEN_IN slot=22 item="Veggie" order=ORD-28EABE34
+[2026-04-20T18:59:24] OVEN_IN slot=20 item="Cust" order=ORD-28EABE34
+[2026-04-20T18:59:34] OVEN_OUT slot=44 item="Cust" order=ORD-554BD2D1
+[2026-04-20T18:59:37] OVEN_IN slot=49 item="Cheese" order=ORD-28EABE34
+[2026-04-20T18:59:52] OVEN_OUT slot=35 item="Custom Pizza" order=ORD-554BD2D1
+[2026-04-20T19:00:01Z] OVEN_IN slot=33 item="Custom Pizza" order=ORD-EEFCEDFE
+[2026-04-20T19:00:13] OVEN_OUT slot=28 item="Cust" order=ORD-554BD2D1
+[2026-04-20T19:00:22] OVEN_IN slot=23 item="Meat Lovers" order=ORD-4FDDDDA0
+[2026-04-20T19:00:34] OVEN_IN slot=8 item="Custom Pizza" order=ORD-4FDDDDA0
+[2026-04-20T19:00:38Z] OVEN_OUT slot=13 item="Veggie" order=ORD-554BD2D1
+[2026-04-20T19:00:47Z] OVEN_IN slot=36 item="Sausage" order=ORD-54165661
+[2026-04-20T19:00:59Z] OVEN_OUT slot=3 item="Veg" order=ORD-554BD2D1
+[2026-04-20T19:01:08Z] OVEN_IN slot=48 item="Cust" order=ORD-54165661
+[2026-04-20T19:01:11Z] OVEN_OUT slot=29 item="Pepperoni" order=ORD-44A40567
+[2026-04-20T19:01:26Z] OVEN_IN slot=3 item="Meat Lovers" order=ORD-5288E180
+[2026-04-20T19:01:26Z] OVEN_OUT slot=22 item="Custom Pizza" order=ORD-44A40567
+[2026-04-20T19:01:45Z] OVEN_IN slot=26 item="Cust" order=ORD-5288E180
+[2026-04-20T19:01:48Z] OVEN_OUT slot=37 item="Meat Lovers" order=ORD-44A40567
+[2026-04-20T19:02:09Z] OVEN_IN slot=4 item="Cust" order=ORD-5288E180
+[2026-04-20T19:02:09Z] OVEN_OUT slot=50 item="Veggie" order=ORD-50F4362F
+[2026-04-20T19:02:21Z] OVEN_OUT slot=6 item="Cheese" order=ORD-C21F0654
+[2026-04-20T19:02:37] OVEN_IN slot=49 item="ML" order=ORD-5288E180
+[2026-04-20T19:02:43] OVEN_OUT slot=22 item="Veggie" order=ORD-C21F0654
+[2026-04-20T19:02:55Z] OVEN_OUT slot=15 item="Custom Pizza" order=ORD-75467306
+[2026-04-20T19:02:58Z] OVEN_IN slot=1 item="Pepperoni" order=ORD-ACF8C17B
+[2026-04-20T19:03:07Z] OVEN_OUT slot=42 item="Pepperoni" order=ORD-75467306
+[2026-04-20T19:03:19Z] OVEN_IN slot=23 item="Pepperoni" order=ORD-ACF8C17B
+[2026-04-20T19:03:19Z] OVEN_OUT slot=24 item="Custom Pizza" order=ORD-75467306
+[2026-04-20T19:03:40Z] OVEN_IN slot=31 item="Custom Pizza" order=ORD-ACF8C17B
+[2026-04-20T19:03:40] OVEN_OUT slot=7 item="ML" order=ORD-75467306
+[2026-04-20T19:03:53Z] OVEN_OUT slot=48 item="Pepperoni" order=ORD-75467306
+[2026-04-20T19:04:02] OVEN_IN slot=31 item="Custom Pizza" order=ORD-ACF8C17B
+[2026-04-20T19:04:08] OVEN_OUT slot=50 item="Sausage" order=ORD-3ABC6434
+[2026-04-20T19:04:26Z] OVEN_IN slot=46 item="Custom Pizza" order=ORD-D840F915
+[2026-04-20T19:04:26] OVEN_OUT slot=17 item="Custom Pizza" order=ORD-F2391DA8
+[2026-04-20T19:04:38] OVEN_OUT slot=30 item="Sausage" order=ORD-F2391DA8
+[2026-04-20T19:04:51Z] OVEN_OUT slot=41 item="Chz" order=ORD-F2391DA8
+[2026-04-20T19:05:00Z] OVEN_IN slot=45 item="Veggie" order=ORD-D840F915
+[2026-04-20T19:05:09] OVEN_OUT slot=10 item="Custom Pizza" order=ORD-F2391DA8
+[2026-04-20T19:05:30Z] OVEN_IN slot=2 item="Meat Lovers" order=ORD-D840F915
+[2026-04-20T19:05:30] OVEN_OUT slot=47 item="Custom Pizza" order=ORD-F2391DA8
+[2026-04-20T19:05:42Z] OVEN_OUT slot=27 item="Custom Pizza" order=ORD-F2391DA8
+[2026-04-20T19:05:45] OVEN_IN slot=1 item="Cheese" order=ORD-D840F915
+[2026-04-20T19:05:58Z] OVEN_OUT slot=26 item="Custom Pizza" order=ORD-2CB68329
+[2026-04-20T19:06:10Z] OVEN_OUT slot=49 item="Cust" order=ORD-2CB68329
+[2026-04-20T19:06:25] OVEN_IN slot=4 item="Cust" order=ORD-D840F915
+[2026-04-20T19:06:31Z] OVEN_OUT slot=50 item="Veggie" order=ORD-2CB68329
+[2026-04-20T19:06:46] OVEN_IN slot=49 item="Cust" order=ORD-D840F915
+[2026-04-20T19:06:53] OVEN_OUT slot=45 item="Custom Pizza" order=ORD-28EABE34
+[2026-04-20T19:07:14] OVEN_OUT slot=14 item="Veggie" order=ORD-28EABE34
+[2026-04-20T19:07:26Z] OVEN_OUT slot=43 item="Custom Pizza" order=ORD-28EABE34
+[2026-04-20T19:07:38Z] OVEN_OUT slot=53 item="Cheese" order=ORD-28EABE34
+[2026-04-20T19:08:03] OVEN_OUT slot=19 item="Custom Pizza" order=ORD-EEFCEDFE
+[2026-04-20T19:08:24Z] OVEN_OUT ▒▓░█ERROR░░█▒
+[2026-04-20T19:08:33Z] OVEN_IN slot=12 item="Cust" order=ORD-8134D5B1
+[2026-04-20T19:08:36Z] OVEN_OUT slot=43 item="Cust" order=ORD-4FDDDDA0
+[2026-04-20T19:08:48] OVEN_OUT slot=9 item="Ssg" order=ORD-54165661
+[2026-04-20T19:09:07] OVEN_IN slot=30 item="Veg" order=ORD-8134D5B1
+[2026-04-20T19:09:10] OVEN_OUT slot=8 item="Cust" order=ORD-54165661
+[2026-04-20T19:09:28Z] OVEN_IN slot=30 item="Pepperoni" order=ORD-8134D5B1
+[2026-04-20T19:09:28Z] OVEN_OUT slot=22 item="Meat Lovers" order=ORD-5288E180
+[2026-04-20T19:09:46Z] OVEN_OUT slot=22 item="Custom Pizza" order=ORD-5288E180
+[2026-04-20T19:10:11] OVEN_OUT slot=30 item="Custom Pizza" order=ORD-5288E180
+[2026-04-20T19:10:38Z] OVEN_OUT slot=44 item="Meat Lovers" order=ORD-5288E180
+[2026-04-20T19:10:59] OVEN_OUT slot=3 item="Pepperoni" order=ORD-ACF8C17B
+[2026-04-20T19:11:21] OVEN_OUT slot=29 item="Pep" order=ORD-ACF8C17B
+[2026-04-20T19:11:42Z] OVEN_OUT slot=45 item="Cust" order=ORD-ACF8C17B
+[2026-04-20T19:12:03] OVEN_OUT slot=23 item="Custom Pizza" order=ORD-ACF8C17B
+[2026-04-20T19:12:28] OVEN_OUT slot=49 item="Custom Pizza" order=ORD-D840F915
+[2026-04-20T19:13:01] OVEN_OUT slot=36 item="Veggie" order=ORD-D840F915
+[2026-04-20T19:13:32] OVEN_OUT slot=3 item="Meat Lovers" order=ORD-D840F915
+[2026-04-20T19:13:47Z] OVEN_OUT slot=34 item="Cheese" order=ORD-D840F915
+[2026-04-20T19:14:26Z] OVEN_OUT slot=6 item="Custom Pizza" order=ORD-D840F915
+[2026-04-20T19:14:48] OVEN_OUT slot=27 item="Custom Pizza" order=ORD-D840F915
+[2026-04-20T19:14:57] OVEN_IN slot=50 item="Supreme" order=ORD-329988C8
+[2026-04-20T19:15:21Z] OVEN_IN slot=20 item="Cust" order=ORD-329988C8
+[2026-04-20T19:15:42Z] OVEN_IN slot=8 item="Pepperoni" order=ORD-329988C8
+[2026-04-20T19:16:34] OVEN_OUT slot=17 item="Custom Pizza" order=ORD-8134D5B1
+[2026-04-20T19:17:08Z] OVEN_OUT slot=18 item="Veggie" order=ORD-8134D5B1
+[2026-04-20T19:17:29] OVEN_OUT slot=36 item="Pep" order=ORD-8134D5B1
+[2026-04-20T19:18:33Z] OVEN_IN slot=16 item="Meat Lovers" order=ORD-3850BA04
+[2026-04-20T19:18:51Z] OVEN_IN slot=30 item="Cheese" order=ORD-3850BA04
+[2026-04-20T19:19:12Z] OVEN_IN slot=14 item="Pepperoni" order=ORD-3850BA04
+[2026-04-20T19:19:43] OVEN_IN slot=41 item="Meat Lovers" order=ORD-3850BA04
+[2026-04-20T19:22:00] OVEN_IN slot=19 item="Custom Pizza" order=ORD-C823EA07
+[2026-04-20T19:22:31Z] OVEN_IN slot=20 item="Meat Lovers" order=ORD-C823EA07
+[2026-04-20T19:22:58Z] OVEN_OUT slot=37 item="Supreme" order=ORD-329988C8
+[2026-04-20T19:23:22Z] OVEN_OUT slot=17 item="Cust" order=ORD-329988C8
+[2026-04-20T19:23:43Z] OVEN_OUT slot=30 item="Pepperoni" order=ORD-329988C8
+[2026-04-20T19:26:34Z] OVEN_OUT slot=2 item="Meat Lovers" order=ORD-3850BA04
+[2026-04-20T19:26:52Z] OVEN_OUT slot=1 item="Cheese" order=ORD-3850BA04
+[2026-04-20T19:27:14Z] OVEN_OUT slot=3 item="Pepperoni" order=ORD-3850BA04
+[2026-04-20T19:27:44] OVEN_OUT slot=50 item="Meat Lovers" order=ORD-3850BA04
+[2026-04-20T19:28:36Z] OVEN_IN slot=15 item="Custom Pizza" order=ORD-1AF97928
+[2026-04-20T19:29:15] OVEN_IN slot=34 item="Supreme" order=ORD-1AF97928
+[2026-04-20T19:29:45Z] OVEN_IN slot=11 item="Meat Lovers" order=ORD-1AF97928
+[2026-04-20T19:30:01Z] OVEN_OUT slot=12 item="Custom Pizza" order=ORD-C823EA07
+[2026-04-20T19:30:31] OVEN_OUT slot=44 item="Meat Lovers" order=ORD-C823EA07
+[2026-04-20T19:34:44Z] OVEN_IN slot=18 item="Pepperoni" order=ORD-3E811243
+[2026-04-20T19:35:18Z] OVEN_IN slot=32 item="Veg" order=ORD-3E811243
+[2026-04-20T19:35:48Z] OVEN_IN slot=26 item="Meat Lovers" order=ORD-3E811243
+[2026-04-20T19:36:37Z] OVEN_OUT slot=12 item="Custom Pizza" order=ORD-1AF97928
+[2026-04-20T19:37:17] OVEN_OUT slot=39 item="Supreme" order=ORD-1AF97928
+[2026-04-20T19:37:47Z] OVEN_OUT slot=28 item="Meat Lovers" order=ORD-1AF97928
+[2026-04-20T19:39:34] OVEN_IN slot=14 item="Custom Pizza" order=ORD-9EFA84FE
+[2026-04-20T19:42:45Z] OVEN_OUT slot=39 item="Pepperoni" order=ORD-3E811243
+[2026-04-20T19:43:06Z] OVEN_IN slot=9 item="Pepperoni" order=ORD-E2A204BF
+[2026-04-20T19:43:19Z] OVEN_OUT slot=22 item="Veggie" order=ORD-3E811243
+[2026-04-20T19:43:25Z] OVEN_IN slot=33 item="Cheese" order=ORD-E2A204BF
+[2026-04-20T19:43:43] OVEN_IN slot=2 item="Cheese" order=ORD-E2A204BF
+[2026-04-20T19:43:49Z] OVEN_OUT slot=43 item="Meat Lovers" order=ORD-3E811243
+[2026-04-20T19:44:16] OVEN_IN slot=29 item="Veg" order=ORD-E2A204BF
+[2026-04-20T19:44:47] OVEN_IN slot=33 item="Meat Lovers" order=ORD-E2A204BF
+[2026-04-20T19:47:34Z] OVEN_OUT slot=38 item="Custom Pizza" order=ORD-9EFA84FE
+[2026-04-20T19:49:11Z] OVEN_IN slot=13 item="Cust" order=ORD-BF000597
+[2026-04-20T19:51:07] OVEN_OUT slot=35 item="Pepperoni" order=ORD-E2A204BF
+[2026-04-20T19:51:26Z] OVEN_OUT slot=47 item="Cheese" order=ORD-E2A204BF
+[2026-04-20T19:51:44Z] OVEN_OUT slot=16 item="Cheese" order=ORD-E2A204BF
+[2026-04-20T19:52:18Z] OVEN_OUT slot=34 item="Veggie" order=ORD-E2A204BF
+[2026-04-20T19:52:48] OVEN_OUT slot=46 item="Meat Lovers" order=ORD-E2A204BF
+[2026-04-20T19:54:13Z] OVEN_IN slot=48 item="Pepperoni" order=ORD-73B84047
+[2026-04-20T19:54:47] OVEN_IN slot=47 item="Custom Pizza" order=ORD-73B84047
+[2026-04-20T19:55:05Z] OVEN_IN slot=22 item="Cust" order=ORD-73B84047
+[2026-04-20T19:55:38Z] OVEN_IN slot=15 item="Veg" order=ORD-73B84047
+[2026-04-20T19:56:15Z] OVEN_IN slot=18 item="Custom Pizza" order=ORD-73B84047
+[2026-04-20T19:56:42] OVEN_IN slot=33 item="Meat Lovers" order=ORD-73B84047
+[2026-04-20T19:57:13Z] OVEN_OUT █▓█▒ERROR█░▒█
+[2026-04-20T19:59:39Z] OVEN_IN slot=12 item="Sausage" order=ORD-A6029251
+[2026-04-20T20:00:00] OVEN_IN slot=39 item="Cust" order=ORD-A6029251
+[2026-04-20T20:00:31] OVEN_IN slot=33 item="Cust" order=ORD-A6029251
+[2026-04-20T20:02:14Z] OVEN_OUT slot=20 item="Pepperoni" order=ORD-73B84047
+[2026-04-20T20:02:48] OVEN_OUT slot=30 item="Custom Pizza" order=ORD-73B84047
+[2026-04-20T20:03:06Z] OVEN_OUT slot=23 item="Custom Pizza" order=ORD-73B84047
+[2026-04-20T20:03:39Z] OVEN_OUT slot=12 item="Veggie" order=ORD-73B84047
+[2026-04-20T20:04:16] OVEN_OUT slot=15 item="Custom Pizza" order=ORD-73B84047
+[2026-04-20T20:04:43] OVEN_OUT slot=11 item="Meat Lovers" order=ORD-73B84047
+[2026-04-20T20:07:39] OVEN_OUT slot=24 item="Sausage" order=ORD-A6029251
+[2026-04-20T20:08:01Z] OVEN_OUT slot=4 item="Custom Pizza" order=ORD-A6029251
+[2026-04-20T20:08:31] OVEN_OUT slot=15 item="Custom Pizza" order=ORD-A6029251
+[2026-04-20T20:08:34Z] OVEN_IN slot=6 item="Supreme" order=ORD-27CF1787
+[2026-04-20T20:09:14Z] OVEN_IN slot=36 item="Supreme" order=ORD-27CF1787
+[2026-04-20T20:09:35] OVEN_IN slot=43 item="Sausage" order=ORD-27CF1787
+[2026-04-20T20:09:53] OVEN_IN slot=50 item="Pep" order=ORD-27CF1787
+[2026-04-20T20:14:24] OVEN_IN slot=47 item="Supr" order=ORD-4E40BA98
+[2026-04-20T20:16:35Z] OVEN_OUT slot=12 item="Supreme" order=ORD-27CF1787
+[2026-04-20T20:17:14] OVEN_OUT slot=16 item="Supreme" order=ORD-27CF1787
+[2026-04-20T20:17:35Z] OVEN_OUT slot=24 item="Sausage" order=ORD-27CF1787
+[2026-04-20T20:17:54] OVEN_OUT slot=17 item="Pepperoni" order=ORD-27CF1787
+[2026-04-20T20:20:29] OVEN_IN slot=1 item="Custom Pizza" order=ORD-A09D9CFE
+[2026-04-20T20:20:51Z] OVEN_IN slot=35 item="Sausage" order=ORD-A09D9CFE
+[2026-04-20T20:21:09] OVEN_IN slot=32 item="Cheese" order=ORD-A09D9CFE
+[2026-04-20T20:21:27Z] OVEN_IN slot=21 item="Sausage" order=ORD-A09D9CFE
+[2026-04-20T20:22:07Z] OVEN_IN slot=1 item="Supreme" order=ORD-A09D9CFE
+[2026-04-20T20:22:25Z] OVEN_OUT slot=41 item="Supreme" order=ORD-4E40BA98
+[2026-04-20T20:26:32Z] OVEN_IN slot=22 item="Sausage" order=ORD-9181CA0C
+[2026-04-20T20:26:53Z] OVEN_IN slot=26 item="Sausage" order=ORD-9181CA0C
+[2026-04-20T20:27:23Z] OVEN_IN slot=30 item="Meat Lovers" order=ORD-9181CA0C
+[2026-04-20T20:27:57Z] OVEN_IN slot=7 item="Veggie" order=ORD-9181CA0C
+[2026-04-20T20:28:30Z] OVEN_OUT slot=33 item="Custom Pizza" order=ORD-A09D9CFE
+[2026-04-20T20:28:52Z] OVEN_OUT slot=42 item="Ssg" order=ORD-A09D9CFE
+[2026-04-20T20:29:10Z] OVEN_OUT slot=48 item="Chz" order=ORD-A09D9CFE
+[2026-04-20T20:29:28Z] OVEN_OUT slot=50 item="Sausage" order=ORD-A09D9CFE
+[2026-04-20T20:30:07] OVEN_OUT slot=15 item="Supreme" order=ORD-A09D9CFE
+[2026-04-20T20:31:09] OVEN_IN slot=6 item="Pepperoni" order=ORD-D1A2B8F2
+[2026-04-20T20:31:27] OVEN_IN slot=18 item="Cheese" order=ORD-D1A2B8F2
+[2026-04-20T20:31:51Z] OVEN_IN slot=37 item="Custom Pizza" order=ORD-D1A2B8F2
+[2026-04-20T20:32:13Z] OVEN_IN slot=32 item="Sausage" order=ORD-D1A2B8F2
+[2026-04-20T20:34:33Z] OVEN_OUT slot=45 item="Sausage" order=ORD-9181CA0C
+[2026-04-20T20:34:54Z] OVEN_OUT slot=39 item="Sausage" order=ORD-9181CA0C
+[2026-04-20T20:35:25Z] OVEN_OUT slot=27 item="Meat Lovers" order=ORD-9181CA0C
+[2026-04-20T20:35:58] OVEN_OUT slot=42 item="Veggie" order=ORD-9181CA0C
+[2026-04-20T20:36:04Z] OVEN_IN slot=37 item="Meat Lovers" order=ORD-B41869E3
+[2026-04-20T20:39:10Z] OVEN_OUT ▒▒█▒ERROR█▓░▓
+[2026-04-20T20:39:28] OVEN_OUT slot=1 item="Cheese" order=ORD-D1A2B8F2
+[2026-04-20T20:39:52Z] OVEN_OUT slot=23 item="Cust" order=ORD-D1A2B8F2
+[2026-04-20T20:40:14] OVEN_OUT slot=30 item="Sausage" order=ORD-D1A2B8F2
+[2026-04-20T20:42:06Z] OVEN_IN slot=22 item="Custom Pizza" order=ORD-A2ED53E8
+[2026-04-20T20:42:46] OVEN_IN slot=17 item="Custom Pizza" order=ORD-A2ED53E8
+[2026-04-20T20:44:05] OVEN_OUT slot=41 item="Meat Lovers" order=ORD-B41869E3
+[2026-04-20T20:49:40Z] OVEN_IN slot=17 item="Cust" order=ORD-A60CA72B
+[2026-04-20T20:50:07Z] OVEN_OUT slot=50 item="Custom Pizza" order=ORD-A2ED53E8
+[2026-04-20T20:50:20] OVEN_IN slot=3 item="Custom Pizza" order=ORD-A60CA72B
+[2026-04-20T20:50:47Z] OVEN_OUT slot=7 item="Custom Pizza" order=ORD-A2ED53E8
+[2026-04-20T20:56:32Z] OVEN_IN slot=16 item="Custom Pizza" order=ORD-37C691DD
+[2026-04-20T20:56:53] OVEN_IN slot=7 item="Pep" order=ORD-37C691DD
+[2026-04-20T20:57:17] OVEN_IN slot=46 item="Cust" order=ORD-37C691DD
+[2026-04-20T20:57:42] OVEN_OUT slot=21 item="Custom Pizza" order=ORD-A60CA72B
+[2026-04-20T20:57:57] OVEN_IN slot=42 item="Supreme" order=ORD-37C691DD
+[2026-04-20T20:58:21] OVEN_OUT slot=25 item="Cust" order=ORD-A60CA72B
+[2026-04-20T20:58:31] OVEN_IN slot=7 item="Veggie" order=ORD-37C691DD
+[2026-04-20T20:58:49Z] OVEN_IN slot=36 item="Cheese" order=ORD-37C691DD
+[2026-04-20T21:01:42Z] OVEN_IN slot=1 item="Chz" order=ORD-4C5A4709
+[2026-04-20T21:02:10] OVEN_IN slot=9 item="Pep" order=ORD-4C5A4709
+[2026-04-20T21:02:55Z] OVEN_IN slot=30 item="Custom Pizza" order=ORD-4C5A4709
+[2026-04-20T21:03:23] OVEN_IN slot=24 item="Sausage" order=ORD-4C5A4709
+[2026-04-20T21:03:47] OVEN_IN slot=46 item="Cheese" order=ORD-4C5A4709
+[2026-04-20T21:04:33] OVEN_OUT slot=8 item="Custom Pizza" order=ORD-37C691DD
+[2026-04-20T21:04:39] OVEN_IN slot=1 item="Supreme" order=ORD-4C5A4709
+[2026-04-20T21:04:54Z] OVEN_OUT slot=48 item="Pepperoni" order=ORD-37C691DD
+[2026-04-20T21:05:19Z] OVEN_OUT slot=11 item="Cust" order=ORD-37C691DD
+[2026-04-20T21:05:58Z] OVEN_OUT slot=42 item="Supreme" order=ORD-37C691DD
+[2026-04-20T21:06:32Z] OVEN_OUT slot=21 item="Veg" order=ORD-37C691DD
+[2026-04-20T21:06:50Z] OVEN_OUT slot=15 item="Cheese" order=ORD-37C691DD
+[2026-04-20T21:09:44Z] OVEN_OUT slot=43 item="Chz" order=ORD-4C5A4709
+[2026-04-20T21:09:56Z] OVEN_IN slot=35 item="Ssg" order=ORD-E2CCCFEF
+[2026-04-20T21:10:11Z] OVEN_OUT slot=43 item="Pepperoni" order=ORD-4C5A4709
+[2026-04-20T21:10:35Z] OVEN_IN slot=49 item="Meat Lovers" order=ORD-E2CCCFEF
+[2026-04-20T21:10:57Z] OVEN_OUT slot=34 item="Custom Pizza" order=ORD-4C5A4709
+[2026-04-20T21:11:15Z] OVEN_IN slot=41 item="Custom Pizza" order=ORD-E2CCCFEF
+[2026-04-20T21:11:24Z] OVEN_OUT slot=1 item="Sausage" order=ORD-4C5A4709
+[2026-04-20T21:11:49] OVEN_OUT slot=21 item="Cheese" order=ORD-4C5A4709
+[2026-04-20T21:12:01Z] OVEN_IN slot=28 item="Custom Pizza" order=ORD-E2CCCFEF
+[2026-04-20T21:12:28Z] OVEN_IN slot=10 item="Pepperoni" order=ORD-E2CCCFEF
+[2026-04-20T21:12:40Z] OVEN_OUT slot=37 item="Supreme" order=ORD-4C5A4709
+[2026-04-20T21:13:11] OVEN_IN slot=24 item="Custom Pizza" order=ORD-E2CCCFEF
+[2026-04-20T21:17:08] OVEN_IN slot=23 item="Custom Pizza" order=ORD-9408478B
+[2026-04-20T21:17:47Z] OVEN_IN slot=33 item="ML" order=ORD-9408478B
+[2026-04-20T21:17:56Z] OVEN_OUT slot=42 item="Ssg" order=ORD-E2CCCFEF
+[2026-04-20T21:18:17Z] OVEN_IN slot=44 item="Ssg" order=ORD-9408478B
+[2026-04-20T21:18:36] OVEN_OUT slot=3 item="Meat Lovers" order=ORD-E2CCCFEF
+[2026-04-20T21:19:18] OVEN_OUT slot=24 item="Custom Pizza" order=ORD-E2CCCFEF
+[2026-04-20T21:20:04] OVEN_OUT slot=24 item="Cust" order=ORD-E2CCCFEF
+[2026-04-20T21:20:31] OVEN_OUT slot=7 item="Pep" order=ORD-E2CCCFEF
+[2026-04-20T21:21:14Z] OVEN_OUT slot=45 item="Custom Pizza" order=ORD-E2CCCFEF
+[2026-04-20T21:25:05Z] OVEN_IN slot=12 item="Veggie" order=ORD-AA2A2959
+[2026-04-20T21:25:08Z] OVEN_OUT slot=45 item="Custom Pizza" order=ORD-9408478B
+[2026-04-20T21:25:42] OVEN_IN slot=16 item="Custom Pizza" order=ORD-AA2A2959
+[2026-04-20T21:25:48Z] OVEN_OUT slot=2 item="Meat Lovers" order=ORD-9408478B
+[2026-04-20T21:26:09] OVEN_IN slot=16 item="Pepperoni" order=ORD-AA2A2959
+[2026-04-20T21:26:18Z] OVEN_OUT slot=43 item="Ssg" order=ORD-9408478B
+[2026-04-20T21:26:36Z] OVEN_IN slot=38 item="Sausage" order=ORD-AA2A2959
+[2026-04-20T21:32:36Z] OVEN_IN slot=21 item="Supreme" order=ORD-B06C7A5D
+[2026-04-20T21:33:06Z] OVEN_OUT slot=1 item="Veg" order=ORD-AA2A2959
+[2026-04-20T21:33:42] OVEN_OUT slot=16 item="Custom Pizza" order=ORD-AA2A2959
+[2026-04-20T21:34:10Z] OVEN_OUT slot=21 item="Pep" order=ORD-AA2A2959
+[2026-04-20T21:34:37] OVEN_OUT slot=32 item="Sausage" order=ORD-AA2A2959
+[2026-04-20T21:39:08Z] OVEN_IN slot=8 item="Sausage" order=ORD-18B2B4B8
+[2026-04-20T21:40:00Z] OVEN_IN slot=36 item="Supreme" order=ORD-18B2B4B8
+[2026-04-20T21:40:37] OVEN_OUT slot=8 item="Supreme" order=ORD-B06C7A5D
+[2026-04-20T21:40:40Z] OVEN_IN slot=37 item="Meat Lovers" order=ORD-18B2B4B8
+[2026-04-20T21:41:20] OVEN_IN slot=39 item="Meat Lovers" order=ORD-18B2B4B8
+[2026-04-20T21:45:26Z] OVEN_IN slot=31 item="Pepperoni" order=ORD-66DE4C4E
+[2026-04-20T21:46:17] OVEN_IN slot=5 item="Supreme" order=ORD-66DE4C4E
+[2026-04-20T21:46:45] OVEN_IN slot=30 item="Pepperoni" order=ORD-66DE4C4E
+[2026-04-20T21:47:09Z] OVEN_OUT slot=8 item="Sausage" order=ORD-18B2B4B8
+[2026-04-20T21:47:30Z] OVEN_IN slot=3 item="Veggie" order=ORD-66DE4C4E
+[2026-04-20T21:48:01] OVEN_OUT slot=45 item="Supreme" order=ORD-18B2B4B8
+[2026-04-20T21:48:13Z] OVEN_IN slot=28 item="Veggie" order=ORD-66DE4C4E
+[2026-04-20T21:48:40Z] OVEN_OUT slot=39 item="Meat Lovers" order=ORD-18B2B4B8
+[2026-04-20T21:49:05Z] OVEN_IN slot=28 item="Cust" order=ORD-66DE4C4E
+[2026-04-20T21:49:20] OVEN_OUT slot=39 item="Meat Lovers" order=ORD-18B2B4B8
+[2026-04-20T21:53:26Z] OVEN_OUT slot=35 item="Pepperoni" order=ORD-66DE4C4E
+[2026-04-20T21:54:18] OVEN_OUT slot=20 item="Supreme" order=ORD-66DE4C4E
+[2026-04-20T21:54:24] OVEN_IN slot=36 item="Supreme" order=ORD-4D0A52A5
+[2026-04-20T21:54:45Z] OVEN_OUT slot=25 item="Pep" order=ORD-66DE4C4E
+[2026-04-20T21:55:07] OVEN_IN slot=47 item="Veggie" order=ORD-4D0A52A5
+[2026-04-20T21:55:31] OVEN_OUT slot=26 item="Veggie" order=ORD-66DE4C4E
+[2026-04-20T21:55:34] OVEN_IN slot=25 item="Ssg" order=ORD-4D0A52A5
+[2026-04-20T21:56:14] OVEN_OUT slot=45 item="Veggie" order=ORD-66DE4C4E
+[2026-04-20T21:57:06] OVEN_OUT slot=30 item="Custom Pizza" order=ORD-66DE4C4E
+[2026-04-20T21:59:17Z] OVEN_IN slot=17 item="Custom Pizza" order=ORD-907FE7BF
+[2026-04-20T22:00:09Z] OVEN_IN slot=23 item="Custom Pizza" order=ORD-907FE7BF
+[2026-04-20T22:01:01Z] OVEN_IN slot=16 item="Supreme" order=ORD-907FE7BF
+[2026-04-20T22:01:44] OVEN_IN slot=46 item="Veggie" order=ORD-907FE7BF
+[2026-04-20T22:02:08Z] OVEN_IN slot=47 item="Cheese" order=ORD-907FE7BF
+[2026-04-20T22:02:27] OVEN_OUT slot=37 item="Supreme" order=ORD-4D0A52A5
+[2026-04-20T22:03:09] OVEN_OUT slot=22 item="Veggie" order=ORD-4D0A52A5
+[2026-04-20T22:03:37] OVEN_OUT slot=33 item="Sausage" order=ORD-4D0A52A5
+[2026-04-20T22:04:22Z] OVEN_IN slot=10 item="Veggie" order=ORD-5596763C
+[2026-04-20T22:04:47Z] OVEN_IN slot=42 item="Custom Pizza" order=ORD-5596763C
+[2026-04-20T22:05:17] OVEN_IN slot=36 item="Cust" order=ORD-5596763C
+[2026-04-20T22:06:06Z] OVEN_IN slot=33 item="Custom Pizza" order=ORD-5596763C
+[2026-04-20T22:06:33] OVEN_IN slot=18 item="Pepperoni" order=ORD-5596763C
+[2026-04-20T22:07:19Z] OVEN_OUT slot=16 item="Cust" order=ORD-907FE7BF
+[2026-04-20T22:07:25] OVEN_IN slot=49 item="Supreme" order=ORD-5596763C
+[2026-04-20T22:08:11Z] OVEN_OUT slot=10 item="Custom Pizza" order=ORD-907FE7BF
+[2026-04-20T22:09:02Z] OVEN_OUT slot=8 item="Supreme" order=ORD-907FE7BF
+[2026-04-20T22:09:45] OVEN_OUT slot=41 item="Veggie" order=ORD-907FE7BF
+[2026-04-20T22:09:54Z] OVEN_IN slot=37 item="Custom Pizza" order=ORD-BBAFB040
+[2026-04-20T22:10:09Z] OVEN_OUT slot=26 item="Cheese" order=ORD-907FE7BF
+[2026-04-20T22:10:46Z] OVEN_IN slot=11 item="Supreme" order=ORD-BBAFB040
+[2026-04-20T22:11:32] OVEN_IN slot=8 item="Custom Pizza" order=ORD-BBAFB040
+[2026-04-20T22:11:59Z] OVEN_IN slot=17 item="Pepperoni" order=ORD-BBAFB040
+[2026-04-20T22:12:24Z] OVEN_OUT slot=15 item="Veggie" order=ORD-5596763C
+[2026-04-20T22:12:48Z] OVEN_OUT slot=2 item="Cust" order=ORD-5596763C
+[2026-04-20T22:13:19Z] OVEN_OUT slot=50 item="Custom Pizza" order=ORD-5596763C
+[2026-04-20T22:14:07Z] OVEN_OUT slot=28 item="Custom Pizza" order=ORD-5596763C
+[2026-04-20T22:14:35] OVEN_OUT slot=6 item="Pep" order=ORD-5596763C
+[2026-04-20T22:15:26Z] OVEN_OUT slot=43 item="Supreme" order=ORD-5596763C
+[2026-04-20T22:16:54Z] OVEN_IN slot=34 item="Custom Pizza" order=ORD-925D9466
+[2026-04-20T22:17:34Z] OVEN_IN slot=34 item="Meat Lovers" order=ORD-925D9466
+[2026-04-20T22:17:55Z] OVEN_OUT slot=49 item="Custom Pizza" order=ORD-BBAFB040
+[2026-04-20T22:18:26Z] OVEN_IN slot=48 item="Supreme" order=ORD-925D9466
+[2026-04-20T22:18:47Z] OVEN_OUT slot=28 item="Supreme" order=ORD-BBAFB040
+[2026-04-20T22:19:33] OVEN_OUT slot=40 item="Custom Pizza" order=ORD-BBAFB040
+[2026-04-20T22:20:00Z] OVEN_OUT slot=48 item="Pepperoni" order=ORD-BBAFB040
+[2026-04-20T22:22:32] OVEN_IN slot=44 item="Sausage" order=ORD-5E77FD1B
+[2026-04-20T22:23:21Z] OVEN_IN slot=34 item="Custom Pizza" order=ORD-5E77FD1B
+[2026-04-20T22:24:00Z] OVEN_IN slot=13 item="Meat Lovers" order=ORD-5E77FD1B
+[2026-04-20T22:24:55Z] OVEN_OUT slot=14 item="Custom Pizza" order=ORD-925D9466
+[2026-04-20T22:25:35] OVEN_OUT slot=34 item="Meat Lovers" order=ORD-925D9466
+[2026-04-20T22:26:26Z] OVEN_OUT slot=18 item="Supreme" order=ORD-925D9466
+[2026-04-20T22:30:32Z] OVEN_IN slot=36 item="Meat Lovers" order=ORD-DF224F67
+[2026-04-20T22:30:32] OVEN_OUT slot=32 item="Sausage" order=ORD-5E77FD1B
+[2026-04-20T22:30:57Z] OVEN_IN slot=12 item="Cheese" order=ORD-DF224F67
+[2026-04-20T22:31:21Z] OVEN_OUT slot=35 item="Custom Pizza" order=ORD-5E77FD1B
+[2026-04-20T22:31:36Z] OVEN_IN slot=22 item="Custom Pizza" order=ORD-DF224F67
+[2026-04-20T22:32:01] OVEN_OUT slot=53 item="ML" order=ORD-5E77FD1B
+[2026-04-20T22:32:04] OVEN_IN slot=25 item="Cust" order=ORD-DF224F67
+[2026-04-20T22:37:23] OVEN_IN slot=46 item="Meat Lovers" order=ORD-0119F3EF
+[2026-04-20T22:38:15] OVEN_IN slot=19 item="Custom Pizza" order=ORD-0119F3EF
+[2026-04-20T22:38:33Z] OVEN_OUT slot=8 item="Meat Lovers" order=ORD-DF224F67
+[2026-04-20T22:38:58] OVEN_OUT slot=30 item="Cheese" order=ORD-DF224F67
+[2026-04-20T22:39:37Z] OVEN_OUT slot=39 item="Custom Pizza" order=ORD-DF224F67
+[2026-04-20T22:40:04Z] OVEN_OUT slot=52 item="Custom Pizza" order=ORD-DF224F67
+[2026-04-20T22:43:31] OVEN_IN slot=24 item="Custom Pizza" order=ORD-68C1E235
+[2026-04-20T22:43:56Z] OVEN_IN slot=6 item="Custom Pizza" order=ORD-68C1E235
+[2026-04-20T22:44:38Z] OVEN_IN slot=47 item="Custom Pizza" order=ORD-68C1E235
+[2026-04-20T22:45:24Z] OVEN_OUT slot=15 item="Meat Lovers" order=ORD-0119F3EF
+[2026-04-20T22:45:30Z] OVEN_IN slot=44 item="Supreme" order=ORD-68C1E235
+[2026-04-20T22:46:16] OVEN_OUT slot=17 item="Custom Pizza" order=ORD-0119F3EF
+[2026-04-20T22:49:15] OVEN_IN slot=13 item="Custom Pizza" order=ORD-08E35766
+[2026-04-20T22:49:39Z] OVEN_IN slot=37 item="Cheese" order=ORD-08E35766
+[2026-04-20T22:50:25Z] OVEN_IN slot=13 item="Veggie" order=ORD-08E35766
+[2026-04-20T22:51:04Z] OVEN_IN slot=44 item="ML" order=ORD-08E35766
+[2026-04-20T22:51:32] OVEN_IN slot=28 item="Pepperoni" order=ORD-08E35766
+[2026-04-20T22:51:32Z] OVEN_OUT slot=32 item="Cust" order=ORD-68C1E235
+[2026-04-20T22:51:56Z] OVEN_OUT slot=33 item="Custom Pizza" order=ORD-68C1E235
+[2026-04-20T22:52:39] OVEN_OUT slot=22 item="Custom Pizza" order=ORD-68C1E235
+[2026-04-20T22:53:30Z] OVEN_OUT slot=44 item="Supreme" order=ORD-68C1E235
+[2026-04-20T22:54:55Z] OVEN_IN slot=35 item="Veggie" order=ORD-465491C2
+[2026-04-20T22:57:15Z] OVEN_OUT slot=38 item="Custom Pizza" order=ORD-08E35766
+[2026-04-20T22:57:42Z] OVEN_OUT slot=15 item="Cheese" order=ORD-08E35766
+[2026-04-20T22:58:28] OVEN_OUT slot=35 item="Veg" order=ORD-08E35766
+[2026-04-20T22:59:04Z] OVEN_OUT slot=26 item="ML" order=ORD-08E35766
+[2026-04-20T22:59:32Z] OVEN_OUT slot=9 item="Pepperoni" order=ORD-08E35766
+[2026-04-20T23:01:06Z] OVEN_IN slot=11 item="Veggie" order=ORD-940A6E89
+[2026-04-20T23:02:56Z] OVEN_OUT slot=1 item="Veggie" order=ORD-465491C2
+[2026-04-20T23:05:35] OVEN_IN slot=23 item="Custom Pizza" order=ORD-9184B799
+[2026-04-20T23:09:08Z] OVEN_OUT slot=31 item="Veggie" order=ORD-940A6E89
+[2026-04-20T23:13:36Z] OVEN_OUT slot=16 item="Custom Pizza" order=ORD-9184B799
+[2026-04-20T23:18:34Z] OVEN_IN slot=46 item="Pep" order=ORD-6A117D48
+[2026-04-20T23:19:17] OVEN_IN slot=11 item="Custom Pizza" order=ORD-6A117D48
+[2026-04-20T23:19:59] OVEN_IN slot=41 item="Custom Pizza" order=ORD-6A117D48
+[2026-04-20T23:25:56] OVEN_IN slot=4 item="Pepperoni" order=ORD-DD6517A3
+[2026-04-20T23:26:36] OVEN_OUT slot=39 item="Pepperoni" order=ORD-6A117D48
+[2026-04-20T23:27:09Z] OVEN_IN slot=5 item="Custom Pizza" order=ORD-DD6517A3
+[2026-04-20T23:27:18] OVEN_OUT slot=40 item="Cust" order=ORD-6A117D48
+[2026-04-20T23:27:46Z] OVEN_IN slot=49 item="Cheese" order=ORD-DD6517A3
+[2026-04-20T23:28:01Z] OVEN_OUT slot=19 item="Cust" order=ORD-6A117D48
+[2026-04-20T23:28:56Z] OVEN_IN slot=49 item="Custom Pizza" order=ORD-DD6517A3
+[2026-04-20T23:29:32Z] OVEN_IN slot=26 item="Cheese" order=ORD-DD6517A3
+[2026-04-20T23:33:57Z] OVEN_OUT slot=9 item="Pepperoni" order=ORD-DD6517A3
+[2026-04-20T23:34:37] OVEN_IN slot=32 item="Meat Lovers" order=ORD-51339A6C
+[2026-04-20T23:35:11Z] OVEN_OUT slot=31 item="Custom Pizza" order=ORD-DD6517A3
+[2026-04-20T23:35:41] OVEN_IN slot=25 item="Custom Pizza" order=ORD-51339A6C
+[2026-04-20T23:35:47] OVEN_OUT slot=27 item="Chz" order=ORD-DD6517A3
+[2026-04-20T23:36:57Z] OVEN_OUT slot=1 item="Custom Pizza" order=ORD-DD6517A3
+[2026-04-20T23:37:34] OVEN_OUT slot=48 item="Cheese" order=ORD-DD6517A3
+[2026-04-20T23:41:04Z] OVEN_IN slot=13 item="Cheese" order=ORD-4070B526
+[2026-04-20T23:41:58Z] OVEN_IN slot=5 item="Custom Pizza" order=ORD-4070B526
+[2026-04-20T23:42:38] OVEN_OUT slot=43 item="Meat Lovers" order=ORD-51339A6C
+[2026-04-20T23:42:57Z] OVEN_IN slot=9 item="Custom Pizza" order=ORD-4070B526
+[2026-04-20T23:43:42Z] OVEN_OUT slot=28 item="Custom Pizza" order=ORD-51339A6C
+[2026-04-20T23:49:04Z] OVEN_OUT slot=26 item="Cheese" order=ORD-4070B526
+[2026-04-20T23:49:59] OVEN_OUT slot=48 item="Cust" order=ORD-4070B526
+[2026-04-20T23:50:57] OVEN_OUT slot=14 item="Custom Pizza" order=ORD-4070B526
+[2026-04-20T23:55:34Z] OVEN_IN slot=14 item="Custom Pizza" order=ORD-E0C7ACD1
+[2026-04-21T00:03:34] OVEN_OUT slot=46 item="Custom Pizza" order=ORD-E0C7ACD1
+[2026-04-21T00:09:18Z] OVEN_IN slot=43 item="Meat Lovers" order=ORD-AEBBFF64
+[2026-04-21T00:10:00Z] OVEN_IN slot=19 item="Cust" order=ORD-AEBBFF64
+[2026-04-21T00:10:37] OVEN_IN slot=24 item="Chz" order=ORD-AEBBFF64
+[2026-04-21T00:17:18Z] OVEN_OUT slot=35 item="ML" order=ORD-AEBBFF64
+[2026-04-21T00:18:01] OVEN_OUT slot=32 item="Custom Pizza" order=ORD-AEBBFF64
+[2026-04-21T00:18:38] OVEN_OUT slot=16 item="Cheese" order=ORD-AEBBFF64
+[2026-04-21T00:21:22] OVEN_IN slot=7 item="Custom Pizza" order=ORD-2E2B3924
+[2026-04-21T00:22:04] OVEN_IN slot=20 item="Pep" order=ORD-2E2B3924
+[2026-04-21T00:29:24Z] OVEN_OUT slot=48 item="Custom Pizza" order=ORD-2E2B3924
+[2026-04-21T00:30:06Z] OVEN_OUT slot=11 item="Pep" order=ORD-2E2B3924
+[2026-04-21T00:35:26] OVEN_IN slot=19 item="Cust" order=ORD-6075C8FD
+[2026-04-21T00:36:45Z] OVEN_IN slot=34 item="Supreme" order=ORD-6075C8FD
+[2026-04-21T00:37:46] OVEN_IN slot=1 item="Custom Pizza" order=ORD-6075C8FD
+[2026-04-21T00:38:19Z] OVEN_IN slot=35 item="Cheese" order=ORD-6075C8FD
+[2026-04-21T00:39:02Z] OVEN_IN slot=40 item="Sausage" order=ORD-6075C8FD
+[2026-04-21T00:43:26Z] OVEN_OUT slot=41 item="Custom Pizza" order=ORD-6075C8FD
+[2026-04-21T00:44:45Z] OVEN_OUT slot=10 item="Supr" order=ORD-6075C8FD
+[2026-04-21T00:45:46] OVEN_OUT slot=21 item="Custom Pizza" order=ORD-6075C8FD
+[2026-04-21T00:46:19Z] OVEN_OUT slot=18 item="Chz" order=ORD-6075C8FD
+[2026-04-21T00:47:02] OVEN_OUT slot=48 item="Sausage" order=ORD-6075C8FD
+[2026-04-21T00:48:27Z] OVEN_IN slot=23 item="Cheese" order=ORD-17830252
+[2026-04-21T00:49:03Z] OVEN_IN slot=5 item="Chz" order=ORD-17830252
+[2026-04-21T00:56:28] OVEN_OUT slot=9 item="Cheese" order=ORD-17830252
+[2026-04-21T00:57:04Z] OVEN_OUT slot=39 item="Cheese" order=ORD-17830252
+[2026-04-21T00:58:51Z] OVEN_IN slot=44 item="Supreme" order=ORD-D6A5B9AA
+[2026-04-21T00:59:48Z] OVEN_IN slot=5 item="Custom Pizza" order=ORD-D6A5B9AA
+[2026-04-21T01:06:51] OVEN_OUT slot=18 item="Supr" order=ORD-D6A5B9AA
+[2026-04-21T01:07:49Z] OVEN_OUT slot=29 item="Custom Pizza" order=ORD-D6A5B9AA

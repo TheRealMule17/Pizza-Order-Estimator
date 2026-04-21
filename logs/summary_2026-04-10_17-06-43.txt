@@ -1,0 +1,36 @@
+=== Pizza Order Estimator — Run Summary ===
+Run Duration:           19.51 simulated hours
+Total Orders Completed: 448
+
+--- Wait Times ---
+Average Wait (Carryout): 90.5 min
+Average Wait (Delivery): 145.3 min
+Orders Over 20 min:      365 (81.5%)
+Orders Over 30 min:      335 (74.8%)
+Orders Over 45 min:      297 (66.3%)
+Longest Wait:            584.3 min (Order #2988F76E)
+
+--- Estimation Accuracy ---
+Dynamic Model MAE:  43.43 min
+Naive Model MAE:    61.71 min
+Dynamic Wins: 426 | Naive Wins: 22
+
+--- Rush Impact ---
+Orders During Rush:          0
+Avg Wait (Rush Orders):      — min
+Avg Wait (Non-Rush Orders):  107.0 min
+
+--- Financials ---
+Total Revenue:    $20590.00
+Total Labor Cost: $643.87
+SPLH:             $351.77
+Labor Cost %:     3.1%
+
+--- Config Snapshot ---
+Workers: 2 | Drivers: 1 | Oven Capacity: 50 | Time Scale: 90.0x
+
+--- Bottleneck Events ---
+  no_drivers: 953 event(s)
+  make_line_full: 803 event(s)
+  extreme_wait: 221 event(s)
+  driver_queue_backup: 105 event(s)

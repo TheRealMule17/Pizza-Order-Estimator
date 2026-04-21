@@ -1,0 +1,188 @@
+# config.yaml — Pizza Order Estimator Configuration
+# Adjust these values to tune the simulation without touching code.
+
+simulation:
+  time_scale: 60              # How many simulated seconds per 1 real second (60 = 1 real sec = 1 sim minute)
+
+kitchen:
+  workers: 3                  # Number of workers on the single make line
+  efficiency_exponent: 0.75   # Collaboration scaling: idle workers help at N^exp rate (0=no help, 1=linear)
+  oven_capacity: 50            # Max pizzas in the oven at once
+  oven_time: 8.0              # Fixed oven bake time (minutes, simulated)
+
+delivery:
+  delivery_time: 10.0         # Flat delivery time added to delivery orders (minutes, simulated)
+  delivery_ratio: 0.35        # Probability an order is delivery vs carryout (0.0 to 1.0)
+
+orders:
+  normal_interval_min: 60     # Min seconds (simulated) between orders during normal traffic
+  normal_interval_max: 150     # Max seconds (simulated) between orders during normal traffic
+  rush_interval_min: 5        # Min seconds (simulated) between orders during rush
+  rush_interval_max: 15       # Max seconds (simulated) between orders during rush
+  rush_duration: 90          # How long a rush lasts (simulated seconds)
+  items_per_order_min: 1      # Minimum pizzas per order
+  items_per_order_max: 6      # Maximum pizzas per order
+
+menu:
+  base_prep_time: 1.0         # Minutes to stretch dough and spread sauce (applies to every pizza)
+  time_per_topping: 0.2       # Additional minutes per topping placed
+  custom_order_ratio: 0.3     # Fraction of individual pizzas that are custom / random-topping
+  custom_topping_min: 1       # Min toppings on a custom pizza
+  custom_topping_max: 8       # Max toppings on a custom pizza
+
+  # Available toppings that can appear on any pizza
+  toppings:
+    - cheese
+    - pepperoni
+    - sausage
+    - beef
+    - chicken
+    - bacon
+    - onions
+    - green peppers
+    - olives
+    - mushrooms
+    - pineapple
+    - tomatoes
+    - banana peppers
+
+  # Named preset pizzas and their toppings.
+  # Time = base_prep_time + len(toppings) * time_per_topping
+  presets:
+    Cheese:      [cheese]
+    Pepperoni:   [cheese, pepperoni]
+    Sausage:     [cheese, sausage]
+    Meat Lovers: [cheese, pepperoni, sausage, beef, bacon]
+    Veggie:      [cheese, mushrooms, onions, green peppers, olives, tomatoes]
+    Supreme:     [cheese, pepperoni, sausage, beef, onions, green peppers, olives, mushrooms]
+
+estimator:
+  naive_window: 10            # Number of recent completed orders used for rolling average
+
+drivers:
+  count: 4                    # Number of delivery drivers in the pool
+  delivery_time_min: 15       # Minimum round-trip delivery time (simulated minutes)
+  delivery_time_max: 25       # Maximum round-trip delivery time (simulated minutes)
+
+pricing:
+  normal_pizza_price: 10.00   # Price for standard 1-2 topping pizzas (Cheese, Pepperoni, Sausage)
+  specialty_pizza_price: 15.00 # Price for specialty pizzas (Veggie, Supreme)
+  custom_base_price: 10.00    # Base price for a custom pizza
+  custom_per_topping: 1.00    # Additional cost per topping on custom pizzas
+
+pricing_tiers:
+  normal:
+    - Cheese
+    - Pepperoni
+    - Sausage
+  specialty:
+    - Veggie
+    - Supreme
+
+labor:
+  insider_hourly_wage: 12.00  # Hourly wage per make-line worker
+  driver_hourly_wage: 9.00    # Hourly wage per delivery driver
+
+pipeline:
+  emit_raw_data:        true          # Toggle raw data emission on/off
+  raw_data_dir:         "data/raw"    # Bronze layer output directory
+  cleaned_data_dir:     "data/cleaned" # Silver layer output directory
+  analytics_data_dir:   "data/analytics" # Gold layer output directory
+  noise_level:          "normal"      # "none" = clean, "normal" = realistic quirks, "heavy" = extra messy
+
+day_schedule:
+  store_open:  "10:00"        # Store opens (24-hour HH:MM)
+  store_close: "01:00"        # Store closes (next-day 1 AM; cross-midnight is supported)
+
+  # Order arrival intervals in simulated seconds (same unit as normal_interval_min/max).
+  # Periods with no traffic_block entry receive no orders (e.g. pre-open prep time).
+  traffic_blocks:
+    - label:        "Lunch Ramp"
+      start:        "11:00"
+      end:          "11:30"
+      interval_min: 300        # avg 1 order every ~8 sim-min
+      interval_max: 720
+
+    - label:        "Lunch Rush"
+      start:        "11:30"
+      end:          "14:00"
+      interval_min: 90         # avg 1 order every 3 sim-min
+      interval_max: 270
+
+    - label:        "Afternoon Lull"
+      start:        "14:00"
+      end:          "16:30"
+      interval_min: 420        # avg 1 order every ~10 sim-min
+      interval_max: 840
+
+    - label:        "Dinner Ramp"
+      start:        "16:30"
+      end:          "17:00"
+      interval_min: 180        # avg 1 order every ~4 sim-min
+      interval_max: 300
+
+    - label:        "Dinner Rush"
+      start:        "17:00"
+      end:          "19:00"
+      interval_min: 40         # avg 1 order every 1 sim-sec
+      interval_max: 80
+
+    - label:        "Evening Wind-Down"
+      start:        "19:00"
+      end:          "23:00"
+      interval_min: 240        # avg 1 order every ~6 sim-min
+      interval_max: 480
+
+    - label:        "Late Night"
+      start:        "23:00"
+      end:          "01:00"    # crosses midnight; handled automatically
+      interval_min: 420        # avg 1 order every ~10 sim-min
+      interval_max: 840
+
+  # Staffing schedule — defines how many insiders and drivers are on the clock at each time block.
+  # Workers "clock in" and "clock out" at these boundaries.
+  staffing_blocks:
+    - start:    "10:00"
+      end:      "11:00"
+      insiders: 2
+      drivers:  1
+
+    - start:    "11:00"
+      end:      "11:30"
+      insiders: 3
+      drivers:  2
+
+    - start:    "11:30"
+      end:      "14:00"
+      insiders: 4
+      drivers:  3
+
+    - start:    "14:00"
+      end:      "16:30"
+      insiders: 3
+      drivers:  3
+
+    - start:    "16:30"
+      end:      "17:00"
+      insiders: 4
+      drivers:  4
+
+    - start:    "17:00"
+      end:      "19:00"
+      insiders: 6
+      drivers:  8
+
+    - start:    "19:00"
+      end:      "21:00"
+      insiders: 4
+      drivers:  5
+
+    - start:    "21:00"
+      end:      "23:00"
+      insiders: 3
+      drivers:  3
+
+    - start:    "23:00"
+      end:      "01:00"
+      insiders: 2
+      drivers:  2

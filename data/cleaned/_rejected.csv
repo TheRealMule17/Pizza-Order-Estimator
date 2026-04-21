@@ -1,0 +1,58 @@
+source,row,reason
+kitchen,"{'timestamp': '1776599139', 'order_ref': 'ghost_9954', 'item_name': 'Ghost Pizza', 'station_id': 'STN-0', 'event_type': ",phantom/ghost order ref
+kitchen,"{'timestamp': '1776604830', 'order_ref': 'ghost_6885', 'item_name': 'Ghost Pizza', 'station_id': 'STN-0', 'event_type': ",phantom/ghost order ref
+kitchen,"{'timestamp': '1776610149', 'order_ref': 'ghost_2695', 'item_name': 'Ghost Pizza', 'station_id': 'STN-0', 'event_type': ",phantom/ghost order ref
+kitchen,"{'timestamp': '1776618182', 'order_ref': 'ghost_4814', 'item_name': 'Ghost Pizza', 'station_id': 'STN-0', 'event_type': ",phantom/ghost order ref
+kitchen,"{'timestamp': '1776619312', 'order_ref': 'ghost_9346', 'item_name': 'Ghost Pizza', 'station_id': 'STN-0', 'event_type': ",phantom/ghost order ref
+kitchen,"{'timestamp': '1776625630', 'order_ref': 'ghost_6497', 'item_name': 'Ghost Pizza', 'station_id': 'STN-0', 'event_type': ",phantom/ghost order ref
+kitchen,"{'timestamp': '1776690406', 'order_ref': 'ghost_1648', 'item_name': 'Ghost Pizza', 'station_id': 'STN-0', 'event_type': ",phantom/ghost order ref
+kitchen,"{'timestamp': '1776691930', 'order_ref': 'ghost_5934', 'item_name': 'Ghost Pizza', 'station_id': 'STN-0', 'event_type': ",phantom/ghost order ref
+kitchen,"{'timestamp': '1776692788', 'order_ref': 'ghost_5434', 'item_name': 'Ghost Pizza', 'station_id': 'STN-0', 'event_type': ",phantom/ghost order ref
+kitchen,"{'timestamp': '1776704717', 'order_ref': 'ghost_8881', 'item_name': 'Ghost Pizza', 'station_id': 'STN-0', 'event_type': ",phantom/ghost order ref
+kitchen,"{'timestamp': '1776706587', 'order_ref': 'ghost_6037', 'item_name': 'Ghost Pizza', 'station_id': 'STN-0', 'event_type': ",phantom/ghost order ref
+kitchen,"{'timestamp': '1776707635', 'order_ref': 'ghost_9314', 'item_name': 'Ghost Pizza', 'station_id': 'STN-0', 'event_type': ",phantom/ghost order ref
+kitchen,"{'timestamp': '1776708739', 'order_ref': 'ghost_8400', 'item_name': 'Ghost Pizza', 'station_id': 'STN-0', 'event_type': ",phantom/ghost order ref
+kitchen,"{'timestamp': '1776710659', 'order_ref': 'ghost_6696', 'item_name': 'Ghost Pizza', 'station_id': 'STN-0', 'event_type': ",phantom/ghost order ref
+kitchen,"{'timestamp': '1776725695', 'order_ref': 'ghost_3247', 'item_name': 'Ghost Pizza', 'station_id': 'STN-0', 'event_type': ",phantom/ghost order ref
+oven,[2026-04-19T11:19:37] OVEN_IN ▒█▓█ERROR▒▒▓█,corrupted/garbled line
+oven,[2026-04-19T11:53:39Z] OVEN_OUT ▒▓▓▒ERROR▒█▒▒,corrupted/garbled line
+oven,[2026-04-19T12:43:04Z] OVEN_OUT █▓░░ERROR░▒░▓,corrupted/garbled line
+oven,[2026-04-19T12:44:48Z] OVEN_OUT █▒█░ERROR▓▓▓░,corrupted/garbled line
+oven,[2026-04-19T12:59:58] OVEN_IN ░█░░ERROR▓▓▓█,corrupted/garbled line
+oven,[2026-04-19T11:30:10] OVEN_IN ██▓▒ERROR▓▓▓█,corrupted/garbled line
+oven,[2026-04-19T12:02:46] OVEN_OUT █░█▓ERROR▓▓▒█,corrupted/garbled line
+oven,[2026-04-19T12:10:27] OVEN_OUT █░▒▒ERROR░▓░█,corrupted/garbled line
+oven,[2026-04-19T12:21:33Z] OVEN_OUT ▒░░▒ERROR▒░▓▓,corrupted/garbled line
+oven,[2026-04-19T13:37:04Z] OVEN_OUT █▒░░ERROR░█▒▒,corrupted/garbled line
+oven,[2026-04-19T13:59:07] OVEN_OUT ▒▒░█ERROR▓▒▓█,corrupted/garbled line
+oven,[2026-04-19T15:09:43Z] OVEN_OUT █▓░▒ERROR░█░░,corrupted/garbled line
+oven,[2026-04-19T16:31:51] OVEN_IN ▓▒▒▒ERROR░░▒▓,corrupted/garbled line
+oven,[2026-04-19T17:14:43] OVEN_IN ▒█▓░ERROR██▓▓,corrupted/garbled line
+oven,[2026-04-19T17:23:44] OVEN_OUT █▒██ERROR▒▓▓▒,corrupted/garbled line
+oven,[2026-04-19T17:33:09Z] OVEN_OUT ▓▓░█ERROR▓▒░▓,corrupted/garbled line
+oven,[2026-04-19T17:46:51] OVEN_OUT █▓▓█ERROR█▓░▓,corrupted/garbled line
+oven,[2026-04-19T17:56:18Z] OVEN_IN ▒░▓█ERROR▒▓▒░,corrupted/garbled line
+oven,[2026-04-19T17:59:12Z] OVEN_IN ▒██▒ERROR▒█▓▓,corrupted/garbled line
+oven,[2026-04-19T18:19:05] OVEN_OUT ░▓▒░ERROR▒▒░█,corrupted/garbled line
+oven,[2026-04-19T18:35:45Z] OVEN_IN ▒▒░░ERROR▒▓▒▒,corrupted/garbled line
+oven,[2026-04-19T18:38:46Z] OVEN_OUT ░▒█▓ERROR▓▓▓░,corrupted/garbled line
+oven,[2026-04-19T18:47:40Z] OVEN_IN ███▓ERROR▓██░,corrupted/garbled line
+oven,[2026-04-19T18:51:31] OVEN_OUT ▓▓██ERROR▒░▒▓,corrupted/garbled line
+oven,[2026-04-19T19:23:16] OVEN_OUT ▓█▒█ERROR█▒█▒,corrupted/garbled line
+oven,[2026-04-19T19:30:41] OVEN_OUT █▒▓█ERROR█▒▓░,corrupted/garbled line
+oven,[2026-04-19T19:37:52] OVEN_OUT █░▒▒ERROR▓▓▒▓,corrupted/garbled line
+oven,[2026-04-19T20:48:05Z] OVEN_OUT ▒▓░█ERROR▒█░▒,corrupted/garbled line
+oven,[2026-04-19T22:24:49Z] OVEN_OUT ░▒██ERROR▓▓░░,corrupted/garbled line
+oven,[2026-04-20T12:03:39Z] OVEN_OUT ▒██▓ERROR▒██▓,corrupted/garbled line
+oven,[2026-04-20T12:39:32Z] OVEN_OUT ▓▒▓▓ERROR▓▒█▒,corrupted/garbled line
+oven,[2026-04-20T12:47:24] OVEN_IN ▓░▒█ERROR█▓▒▓,corrupted/garbled line
+oven,[2026-04-20T13:28:12Z] OVEN_OUT ▒░░▓ERROR▒▓░▓,corrupted/garbled line
+oven,[2026-04-20T15:40:48Z] OVEN_IN ░░█░ERROR█░█░,corrupted/garbled line
+oven,[2026-04-20T17:40:21] OVEN_IN ░▓▓▓ERROR▓░█▒,corrupted/garbled line
+oven,[2026-04-20T17:53:03] OVEN_OUT █▒█▒ERROR▒▒█▓,corrupted/garbled line
+oven,[2026-04-20T18:17:31Z] OVEN_OUT ▒█░░ERROR▓█▒░,corrupted/garbled line
+oven,[2026-04-20T18:45:10Z] OVEN_IN █░░▓ERROR▓▓▓░,corrupted/garbled line
+oven,[2026-04-20T18:49:02Z] OVEN_IN ░▓░█ERROR▓▒▓▓,corrupted/garbled line
+oven,[2026-04-20T19:08:24Z] OVEN_OUT ▒▓░█ERROR░░█▒,corrupted/garbled line
+oven,[2026-04-20T19:57:13Z] OVEN_OUT █▓█▒ERROR█░▒█,corrupted/garbled line
+oven,[2026-04-20T20:39:10Z] OVEN_OUT ▒▒█▒ERROR█▓░▓,corrupted/garbled line
