@@ -1,6 +1,6 @@
 # Pizza Order Estimator
 
-I have worked at Domino's for the past 4 years and while most of their systems are very advanced, their order estimation system is not one of them. During normal and predictable traffic rates the system works great I'm not 100% sure, but I believe it bases the estimated time off the recent historical average of orders at that store. It works great when traffic patterns are steady and predictable, but what happens during a spike in orders? For example, on Super Bowl Sundays or Friday dinner rushes we might have 20 orders dropped in a 5-10 minute span, yet every single customer is given the same estimated time of 20 minutes. In reality only the first few orders will be ready that quickly, and many customers will end up waiting 40 minutes for their order, creating a lot of frustrated customers in the process. Another aspect the current system fails to account for is the size of orders and number of workers. Every now and then we get the late night large order from the local frat usually at least 10 pizzas, placed so late at night that there is only 1 insider left — yet the system still tells the customer it will be 15 minutes.
+I have worked at Domino's for the past 4 years and while most of their systems are very advanced, their order estimation system is not one of them. During normal and predictable traffic rates the system works great I'm not 100% sure, but I believe it bases the estimated time off the recent historical average of orders at that store. It works great when traffic patterns are steady and predictable, but what happens during a spike in orders? For example, on Super Bowl Sundays or Friday dinner rushes we might have 20 orders dropped in a 5-10 minute span, yet every single customer is given the same estimated time of 20 minutes. In reality only the first few orders will be ready that quickly, and many customers will end up waiting 40 minutes for their order, creating a lot of frustrated customers in the process. Another aspect the current system fails to account for is the size of orders and number of workers. Every now and then we get the late night large order from the local frat usually at least 10 pizzas, placed so late at night that there is only 1 insider left, yet the system still tells the customer it will be 15 minutes.
 
 What I have noticed is that customers do not care if it takes 40-60 minutes for their food, as long as they are told upfront it will take that long. What they do mind is getting to the store 40 minutes before their order is ready and having to wait in the lobby instead of at home with their family. I thought there had to be a better way, and that is where the idea for this project began. I wanted to see if I could build a dynamic order estimation system that reacts to current traffic and gives more accurate estimates than the traditional method.
 
@@ -23,10 +23,10 @@ It is approaching finals season so my little project will be hitting the back bu
 #Dashboard shows waittimes and numbers of orders to see how traffic effects wait times
 ![Pizza Dashboard 1](docs/images/Pizza%20Dashboard-1.png)
 
-#Dashbaord showing key metrics like average error, even a graph showing exactly when we have the highest error in wait times
+#Dashbaord showing key metrics like average error, even a graph that shows how both algothirms react to traffic throughout the day
 ![Pizza Dashboard 2](docs/images/Pizza%20Dashboard-2.png)
 
-#Dashboard that shows the average errors in minutes of both algorthims 
+#Dashboard that shows the errors of both algorthims in munutes, mine is much more consistent.  
 ![Pizza Dashboard 3](docs/images/Pizza%20Dashboard-3.png)
 
 
