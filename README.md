@@ -1,14 +1,35 @@
 # Pizza Order Estimator
 
 I have worked at Domino's for the past 4 years and while most of their systems are very advanced, their order estimation system is not one of them. During normal and predictable traffic rates the system works great I'm not 100% sure, but I believe it bases the estimated time off the recent historical average of orders at that store. It works great when traffic patterns are steady and predictable, but what happens during a spike in orders? For example, on Super Bowl Sundays or Friday dinner rushes we might have 20 orders dropped in a 5-10 minute span, yet every single customer is given the same estimated time of 20 minutes. In reality only the first few orders will be ready that quickly, and many customers will end up waiting 40 minutes for their order, creating a lot of frustrated customers in the process. Another aspect the current system fails to account for is the size of orders and number of workers. Every now and then we get the late night large order from the local frat usually at least 10 pizzas, placed so late at night that there is only 1 insider left — yet the system still tells the customer it will be 15 minutes.
+
 What I have noticed is that customers do not care if it takes 40-60 minutes for their food, as long as they are told upfront it will take that long. What they do mind is getting to the store 40 minutes before their order is ready and having to wait in the lobby instead of at home with their family. I thought there had to be a better way, and that is where the idea for this project began. I wanted to see if I could build a dynamic order estimation system that reacts to current traffic and gives more accurate estimates than the traditional method.
+
 The first thing I had to do was create a script to replicate Domino's traffic in order to test my idea. I used my knowledge to generate a steady flow of traffic that is manageable for workers, but I also added a "Rush" button that simulates a dinner rush by quickly dropping orders to mimic a large spike in traffic, letting me see if my dynamic algorithm would predict better. At first I was basically eyeballing it, looking at the age of orders as they went in the oven and comparing the current estimation time of each model. Mine was performing noticeably better, with the naive model being slow to react to traffic spikes. One big benefit I noticed was that after the rush, the naive model was again slow to react, but this time to a drop in traffic often showing a 30-40 minute ETA with no active orders. In real life this could push customers away, and that's a lost sale.
+
 I felt eyeballing was not good enough, so I wanted to generate reports after each simulation. The reports track key metrics such as the estimation each model gave when the order was placed, the actual time it took, the error, and how many times each model performed better. I even had it generate key real-life metrics such as extreme orders and SPLH (Sales Per Labor Hour), which is a metric used for monitoring labor efficiency.
 At this point I also decided that instead of just clicking start, hitting the rush button, and ending the simulation, I would add a full day simulation. It mimics daily traffic with a medium lunch rush and a large dinner rush, including workers clocking in as both drivers and insiders. This added a bit more realism to the simulation, allowing me to monitor when and where bottlenecks occur, was there a problem with the oven? Did we run out of drivers?
+
 My next step was to take these plain text reports and turn them into easier to understand visual reports. I built a Streamlit dashboard to visualize the data with graphs showing how orders affect the estimation time and how the two algorithms competed against each other. My dynamic model performed much better, proving a more accurate time on 90% of orders while maintaining a far lower average error. Some of the key problems with the original method can be seen in the data, it reacts extremely slowly to traffic changes. When traffic spikes it underestimates the order time, and when traffic starts to slow down again the opposite happens: the system still thinks it's busy and begins overestimating times.
+
 It is approaching finals season so my little project will be hitting the back burner. The next steps I would take, or might come back to, would be adding more realism to worker speed. Currently all workers are assumed to be the same person working at the same speed, but that is not the case in real life. I think it would be too hard and expensive to determine and track the speed of each individual worker and store it in the system. My thought instead was to create a model that examines the current throughput speed the store is working at by tracking the number of pizzas and toppings the crew is currently processing. Using something similar to total toppings completed / total time, you could essentially determine the number of toppings per minute. That speed would then be factored into the order estimation model, providing an even more accurate time.
 
 ---
+
+## Screenshots
+
+#Script In action
+![Pizza Script](docs/images/Pizza%20Script.png)
+
+#Dashboard shows waittimes and numbers of orders to see how traffic effects wait times
+![Pizza Dashboard 1](docs/images/Pizza%20Dashboard-1.png)
+
+#Dashbaord showing key metrics like average error, even a graph showing exactly when we have the highest error in wait times
+![Pizza Dashboard 2](docs/images/Pizza%20Dashboard-2.png)
+
+#Dashboard that shows the average errors in minutes of both algorthims 
+![Pizza Dashboard 3](docs/images/Pizza%20Dashboard-3.png)
+
+
 
 ## Architecture
 
